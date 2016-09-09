@@ -1,0 +1,91 @@
+
+Up
+Up
+
+
+CHAPTER 704
+
+LANDLORD AND TENANT
+704.01   Definitions.
+704.02   Severability of rental agreement provisions.
+704.03   Requirement of writing for rental agreements and termination.
+704.05   Rights and duties of landlord and tenant in absence of written agreement to contrary.
+704.06   Water heater thermostat settings.
+704.07   Repairs; untenantability.
+704.08   Check-in sheet.
+704.09   Transferability; effect of assignment or transfer; remedies.
+704.11   Lien of landlord.
+704.13   Acts of tenant not to affect rights of landlord.
+704.14   Notice of domestic abuse protections.
+704.15   Requirement that landlord notify tenant of automatic renewal clause.
+704.16   Termination of tenancy for imminent threat of serious physical harm; changing locks.
+704.165   Termination of tenancy at death of tenant.
+704.17   Notice terminating tenancies for failure to pay rent or other breach by tenant.
+704.19   Notice necessary to terminate periodic tenancies and tenancies at will.
+704.21   Manner of giving notice.
+704.22   Service of process in residential tenancy on nonresident party.
+704.23   Removal of tenant on termination of tenancy.
+704.25   Effect of holding over after expiration of lease; removal of tenant.
+704.27   Damages for failure of tenant to vacate at end of lease or after notice.
+704.28   Withholding from and return of security deposits.
+704.29   Recovery of rent and damages by landlord; mitigation.
+704.31   Remedy on default in long terms; improvements.
+704.40   Remedies available when tenancy dependent upon life of another terminates.
+704.44   Residential rental agreement that contains certain provisions is void.
+704.45   Retaliatory conduct in residential tenancies prohibited.
+704.50   Disclosure duty; immunity for providing notice about the sex offender registry.
+704.90   Self-service storage facilities.
+704.95   Practices regulated by the department of agriculture, trade and consumer protection.
+
+
+Ch. 704 Cross-reference
+Cross-reference:  See also ch. ATCP 134, Wis. adm. code.704.01
+704.01â€ƒ
+Definitions.  In this chapter, unless the context indicates otherwise:
+704.01(1)
+(1)â€‚"Lease" means an agreement, whether oral or written, for transfer of possession of real property, or both real and personal property, for a definite period of time.  A lease is for a definite period of time if it has a fixed commencement date and a fixed expiration date or if the commencement and expiration can be ascertained by reference to some event, such as completion of a building.  A lease is included within this chapter even though it may also be treated as a conveyance under ch. 706.  An agreement for transfer of possession of only personal property is not a lease.
+704.01(2)
+(2)â€‚"Periodic tenant" means a tenant who holds possession without a valid lease and pays rent on a periodic basis.  It includes a tenant from day-to-day, week-to-week, month-to-month, year-to-year or other recurring interval of time, the period being determined by the intent of the parties under the circumstances, with the interval between rent-paying dates normally evidencing that intent.
+704.01(3)
+(3)â€‚"Premises" mean the property covered by the lease, including not only the realty and fixtures, but also any personal property furnished with the realty.
+704.01(3m)
+(3m)â€‚"Rental agreement" means an oral or written agreement between a landlord and tenant, for the rental or lease of a specific dwelling unit or premises, in which the landlord and tenant agree on the essential terms of the tenancy, such as rent.  "Rental agreement" includes a lease.  "Rental agreement" does not include an agreement to enter into a rental agreement in the future.
+704.01(4)
+(4)â€‚"Tenancy" includes a tenancy under a lease, a periodic tenancy or a tenancy at will.
+704.01(5)
+(5)â€‚"Tenant at will" means any tenant holding with the permission of the tenant's landlord without a valid lease and under circumstances not involving periodic payment of rent; but a person holding possession of real property under a contract of purchase or an employment contract is not a tenant under this chapter.
+704.01 History
+History:  1983 a. 189; 1993 a. 486; 2007 a. 184.704.01 Annotation
+Landlords' liability for defective premises: caveat lessee, negligence, or strict liability?  Love, 1975 WLR 19.
+704.02
+704.02â€ƒ
+Severability of rental agreement provisions.  The provisions of a rental agreement are severable.  If any provision of a rental agreement is rendered void or unenforceable by reason of any statute, rule, regulation, or judicial order, the invalidity or unenforceability of that provision does not affect other provisions of the rental agreement that can be given effect without the invalid provision.
+704.02 History
+History:  2011 a. 143.704.03
+704.03â€ƒ
+Requirement of writing for rental agreements and termination. 704.03(1)(1)â€‚
+Original agreement.  Notwithstanding s. 704.02, a lease for more than a year, or a contract to make such a lease, is not enforceable unless it meets the requirements of s. 706.02 and in addition sets forth the amount of rent or other consideration, the time of commencement and expiration of the lease, and a reasonably definite description of the premises, or unless a writing, including by means of electronic mail or facsimile transmission, signed by the landlord and the tenant sets forth the amount of rent or other consideration, the duration of the lease, and a reasonably definite description of the premises and the commencement date is established by entry of the tenant into possession under the writing.  Sections 704.05 and 704.07 govern as to matters within the scope of such sections and not provided for in such written lease or contract.
+704.03(2)
+(2)â€‚Entry under unenforceable lease.  If a tenant enters into possession under a lease for more than one year which does not meet the requirements of sub. (1), and the tenant pays rent on a periodic basis, the tenant becomes a periodic tenant.  If the premises in such case are used for residential purposes and the rent is payable monthly, the tenant becomes a month-to-month tenant; but if the use is agricultural or nonresidential, the tenant becomes a year-to-year tenant without regard to the rent-payment periods.  Except for duration of the tenancy and matters within the scope of ss. 704.05 and 704.07, the tenancy is governed by the terms and conditions agreed upon.  Notice as provided in s. 704.19 is necessary to terminate such a periodic tenancy.
+704.03(3)
+(3)â€‚Assignment.  An assignment by the tenant of a leasehold interest which has an unexpired period of more than one year is not enforceable against the assignor unless the assignment is in writing reasonably identifying the lease and signed by the assignor; and any agreement to assume the obligations of the original lease which has an unexpired period of more than one year is not enforceable unless in writing signed by the assignee.
+704.03(4)
+(4)â€‚Termination of written lease prior to normal expiration date.  An agreement to terminate a tenancy more than one year prior to the expiration date specified in a valid written lease is not enforceable unless it is in writing signed by both parties.  Any other agreement between the landlord and tenant to terminate a lease prior to its normal expiration date, or to terminate a periodic tenancy or tenancy at will without the statutory notice required by s. 704.19 may be either oral or written.  Nothing herein prevents surrender by operation of law.
+704.03(5)
+(5)â€‚Proof.  In any case where a lease or agreement is not in writing signed by both parties but is enforceable under this section, the lease or agreement must be proved by clear and convincing evidence.
+704.03 History
+History:  1993 a. 486; 2011 a. 143.704.03 Annotation
+If there is no written lease, section 704.07 applies to the obligation to make repairs.  For there to be a remedy for a breach of a duty to repair other than that provided in s. 704.07, the obligation must be in a written lease signed by both parties.  Halverson v. River Falls Youth Hockey Association, 226 Wis. 2d 105, 593 N.W.2d 895 (Ct. App. 1999), 98-2445.704.05
+704.05â€ƒ
+Rights and duties of landlord and tenant in absence of written agreement to contrary. 704.05(1)
+(1)â€‚
+ When section applicable.  So far as applicable, this section governs the rights and duties of the landlord and tenant in the absence of any inconsistent provision in writing signed by both the landlord and the tenant.  Except as otherwise provided in this section, this section applies to any tenancy.
+704.05(2)
+(2)â€‚Possession of tenant and access by landlord.  Until the expiration date specified in the lease, or the termination of a periodic tenancy or tenancy at will, and so long as the tenant is not in default, the tenant has the right to exclusive possession of the premises, except as hereafter provided.  The landlord may upon advance notice and at reasonable times inspect the premises, make repairs and show the premises to prospective tenants or purchasers; and if the tenant is absent from the premises and the landlord reasonably believes that entry is necessary to preserve or protect the premises, the landlord may enter without notice and with such force as appears necessary.
+704.05(3)
+(3)â€‚Use of premises, additions or alterations by tenant.  The tenant can make no physical changes in the nature of the premises, including decorating, removing, altering or adding to the structures thereon, without prior consent of the landlord.  The tenant cannot use the premises for any unlawful purpose nor in such manner as to interfere unreasonably with use by another occupant of the same building or group of buildings.
+704.05(4)
+(4)â€‚Tenant's fixtures.  At the termination of the tenancy, the tenant may remove any fixtures installed by the tenant if the tenant either restores the premises to their condition prior to the installation or pays to the landlord the cost of such restoration.  Where such fixtures were installed to replace similar fixtures which were part of the premises at the time of the commencement of the tenancy, and the original fixtures cannot be restored the tenant may remove fixtures installed by the tenant only if the tenant replaces them with fixtures at least comparable in condition and value to the original fixtures.  The tenant's right to remove fixtures is not lost by an extension or renewal of a lease without reservation of such right to remove.  This subsection applies to any fixtures added by the tenant for convenience as well as those added for purposes of trade, agriculture or business; but this subsection does not govern the rights of parties other than the landlord and tenant.
+704.05(5)
+(5)â€‚Disposition of personalty left by tenant.  Down
+Down

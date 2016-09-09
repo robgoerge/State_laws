@@ -1,0 +1,112 @@
+
+Up
+Up
+
+
+CHAPTER 619
+
+RISK-SHARING PLANS
+619.01   Mandatory risk-sharing plans.
+619.02   State contribution for federally reinsured losses.
+619.03   Voluntary risk-sharing plans.
+619.04   Mandatory health care liability risk-sharing plans.
+
+
+Ch. 619 Cross-reference
+Cross-reference:  See definitions in ss. 600.03, 610.01 and 628.02.619.01
+619.01â€ƒ
+Mandatory risk-sharing plans. 619.01(1)
+(1)â€‚
+Mandatory plans. 619.01(1)(a)(a) 
+Establishment of plans.  If the commissioner finds after a hearing that in any part of this state automobile insurance, property insurance, health care liability insurance, liability insurance but not to include coverage for risks that are determined to be uninsurable, worker's compensation insurance, insurance coverage for foster homes, or insurance coverage for group homes is not readily available in the voluntary market, and that the public interest requires that availability, the commissioner may by rule either promulgate plans to provide such insurance coverages for any risks in this state that are equitably entitled to, but otherwise unable to obtain, that coverage, or may call upon the insurance industry to prepare plans for the commissioner's approval.
+619.01(1)(b)
+(b) 
+Purposes and contents of risk-sharing plans.  The plan promulgated or prepared under par. (a) shall:
+619.01(1)(b)1.
+1.  Give consideration to the need for adequate and readily accessible coverage, to alternative methods of improving the market affected, to the preferences of the insurers and agents, to the inherent limitations of the insurance mechanism, to the need for reasonable underwriting standards, and to the requirement of reasonable loss prevention measures;
+619.01(1)(b)2.
+2.  Establish procedures that will create minimum interference with the voluntary market;
+619.01(1)(b)3.
+3.  Spread the burden imposed by the facility equitably and efficiently within the industry; and
+619.01(1)(b)4.
+4.  Establish procedures for applicants and participants to have grievances reviewed by an impartial body.
+619.01(1)(c)
+(c) 
+Persons required to participate. 619.01(1)(c)1.1.  Each plan, except a health care liability insurance plan, a foster home protection insurance plan, or a group home protection insurance plan, shall require participation by all insurers doing any business in this state of the types covered by the specific plan and all agents licensed to represent those insurers in this state for the specified types of business, except that the commissioner may exclude classes of persons for administrative convenience or because it is not equitable or practicable to require them to participate in the plan.
+619.01(1)(c)2.
+2.  Each health care liability insurance plan shall require participation by all insurers insuring persons in this state against liability resulting from personal injuries.  Any deficit in a health care liability insurance plan in any year shall be recouped by actuarially sound rate increases which take into account any plan surplus and are applicable prospectively.  Each plan shall maintain a surplus determined by the commissioner acting under ss. 623.11 and 623.12.
+619.01(1)(c)3.
+3.  No county, town, village or city shall be required to participate in any municipal liability risk-sharing plan promulgated or approved by the commissioner under this section or be assessed for the cost of any such plan in which it is not participating.
+619.01(1)(c)4.
+4.  A foster home protection insurance plan shall require participation by all insurers insuring persons in this state under policies described in subchs. I or III of ch. 632 and all agents licensed to represent such insurers in this state except that the commissioner may exclude classes of persons for administrative convenience or because it is not equitable or practicable to require them to participate in the plan.
+619.01(1)(c)5.
+5.  A group home protection insurance plan shall require participation by all insurers insuring persons in this state under policies described in subchs. I or III of ch. 632 and all agents licensed to represent such insurers in this state except that the commissioner may exclude classes of persons for administrative convenience or because it is not equitable or practicable to require them to participate in the plan.
+619.01(1)(d)
+(d) 
+Voluntary participation.  The plan may provide for optional participation by insurers not required to participate under par. (c).
+619.01(1)(e)
+(e) 
+Classifications and rates.  Each plan shall provide for the method of classifying risks and making and filing rates applicable thereto.
+619.01(2)
+(2)â€‚Basis of participation.  The plan shall specify the basis of participation of insurers and agents and the conditions under which risks must be accepted.
+619.01(3)
+(3)â€‚Duty to provide service.  Every participating insurer and agent shall provide to any person seeking coverages of kinds available in the plans the services prescribed in the plans, including full information on the requirements and procedures for obtaining coverage under the plans whenever the business is not placed in the voluntary market.
+619.01(4)
+(4)â€‚Commissions.  The plan shall specify what commission rates shall be paid for business placed in the plans.
+619.01(5)
+(5)â€‚Provision of marketing facilities.  If the commissioner finds that the lack of cooperating insurers or agents in an area makes the functioning of the plan difficult, the commissioner may order that the plan set up branch service offices or take other appropriate steps to ensure that service is available.
+619.01(6)
+(6)â€‚Transition.  The existing assigned risk plan set up under s. 204.51 (2), 1967 stats., and the existing rejected risk plan set up under s. 205.15, 1967 stats., shall continue unless changed in accordance with this chapter.
+619.01(7)
+(7)â€‚Health care liability policy limits. 619.01(7)(a)(a) 
+Primary coverage plans.  Health care liability insurance plans established under this paragraph shall provide minimum coverage to insureds in the amount of not less than $200,000 for each occurrence and $600,000 for all occurrences in any one policy year for occurrences before July 1, 1987, $300,000 for each occurrence and $900,000 for all occurrences in any one policy year for occurrences on or after July 1, 1987, and before July 1, 1988, $400,000 for each occurrence and $1,000,000 for all occurrences in any one policy year for occurrences on or after July 1, 1988, and before July 1, 1997, and $1,000,000 for each occurrence and $3,000,000 for all occurrences in any one policy year for occurrences on or after July 1, 1997, for the protection of persons who are legally entitled to recover damages from the insured for errors, omissions or neglect in the performance of the insured's professional services.  If an insured has excess limits liability coverage or such coverage is available to the insured, the coverage provided under such plans shall be equal to the minimum level of such excess limits coverage.  If the insured does not have excess limits liability coverage and such coverage is not available to the insured, the commissioner may establish minimum levels of coverage higher than the minimum limits specified in this paragraph for such plans.
+619.01(7)(b)
+(b) 
+Supplemental liability coverage plans.  Health care liability insurance plans of the kind authorized under par. (a) may be established by the commissioner under this paragraph to provide coverage to supplement primary coverage provided by insurers authorized under ch. 611 or 618.  Such plans may be in an amount no greater than $100,000 for each occurrence and $300,000 for all occurrences in any one policy year, but the total combined primary and supplemental coverage may not exceed the limits established by s. 655.23 (4).
+619.01(8)
+(8)â€‚Health care liability policy provisions.  Health care liability insurance plans established under this chapter may include liability coverages normally incidental to health care liability insurance if such coverage is not readily available in the voluntary market.
+619.01(8m)
+(8m)â€‚Premium assessment.  Health care liability plans established under this chapter shall pay a fee equal to 2% of net premiums collected to the department of administration for services from state agencies not otherwise charged to the plan.
+619.01(9)
+(9)â€‚Foster home protection insurance.  In this section "foster home protection insurance" means insurance coverage to protect persons who receive a license to operate a foster home under s. 48.62 (1) against the unique risks, determined by the commissioner, to which those persons are exposed.  If the persons have insurance that covers any of those risks, the foster home protection insurance may insure against any or all of the other risks, and may provide additional or excess limits coverage for any or all of those risks.
+619.01(10)
+(10)â€‚Group home protection insurance.  In this section "group home protection insurance" means insurance coverage to protect persons who receive a license to operate a group home as provided in s. 48.625 against the unique risks, determined by the commissioner, to which such persons are exposed.  If the persons have insurance which covers any of these risks, the group home protection insurance may insure against any or all of the other risks, and may provide additional or excess limits coverage for any or all of these risks.
+619.01 History
+History:  1975 c. 2, 79; 1975 c. 147 s. 54; 1975 c. 199; 1977 c. 131, 172; 1979 c. 56, 57; 1979 c. 102 s. 236 (6); 1979 c. 177; 1983 a. 27, 158, 192; 1985 a. 135, 176, 335, 340; 1989 a. 56 s. 259; 1989 a. 187 s. 29; 1991 a. 315; 1993 a. 446; 1997 a. 11; 2009 a. 28.619.01 Cross-reference
+Cross-reference:  See also ch. Ins 17 and s. Ins 3.49, Wis. adm. code.619.01 Annotation
+Questions regarding plans under sub. (6) and boards governing them are discussed.  71 Atty. Gen. 127.619.02
+619.02â€ƒ
+State contribution for federally reinsured losses. 619.02(1)(1)â€‚
+Assessment of insurers.  The commissioner is authorized to assess each insurance company authorized to do business in this state an aggregate amount sufficient to provide a fund to reimburse the U.S. secretary of housing and urban development in the manner set forth in sec. 1223 (a) (1) of the national housing act as amended by sec. 1103 of the urban property protection and reinsurance act of 1968, P.L. 90-448, 82 Stat. 476.  The assessment shall be on those lines reinsured during the current year in this state by the U.S. secretary of housing and urban development pursuant to such act.  The assessment shall be in the proportion that the premiums earned during the preceding calendar year by each such company in this state bear to the aggregate premiums earned on those lines in this state by all insurers.  The fund may be provided in whole or in part from appropriations by the legislature.
+619.02(2)
+(2)â€‚Recoupment.  Rates used by an insurer shall not be deemed excessive because they contain an amount reasonably calculated to recoup assessments made under this section.
+619.02 Cross-reference
+Cross-reference:  See also s. Ins 4.10, Wis. adm. code.619.03
+619.03â€ƒ
+Voluntary risk-sharing plans.  Insurers doing business within this state are authorized to prepare voluntary plans providing any specified kind, line or class of insurance coverage or subdivision or combination thereof for all or any part of this state in which such insurance is not readily available in the voluntary market and in which the public interest requires the availability of such coverage.  Voluntary risk-sharing plans shall be submitted to the commissioner and if approved may be put into operation.
+619.03 History
+History:  1979 c. 102; 1991 a. 315.619.04
+619.04â€ƒ
+Mandatory health care liability risk-sharing plans. 619.04(1)(1)â€‚The commissioner shall promulgate rules establishing a plan of health care liability coverage for health care providers as defined in s. 655.001 (8).
+619.04(3)
+(3)â€‚The plan shall operate subject to the supervision and approval of a board of governors consisting of 3 representatives of the insurance industry appointed by and to serve at the pleasure of the commissioner, a person to be named by the State Bar Association, a person to be named by the Wisconsin Academy of Trial Lawyers, 2 persons to be named by the Wisconsin Medical Society, a person to be named by the Wisconsin Hospital Association, the commissioner or a designated representative employed by the office of the commissioner and 4 public members at least 2 of whom are not attorneys or physicians and are not professionally affiliated with any hospital or insurance company, appointed by the governor for staggered 3-year terms.  The commissioner or the commissioner's representative shall be the chairperson of the board of governors.  Board members shall be compensated at the rate of $50 per diem plus actual and necessary travel expenses.
+619.04(5)
+(5)â€‚The plan shall offer professional health care liability coverage in a standard policy form.  The plan shall include, but not be limited to, the following:
+619.04(5)(a)
+(a)  Rules for the classification of risks and rates which reflect past and prospective loss and expense experience in different areas of practice.
+619.04(5)(b)
+(b)  A rating plan which takes into consideration the loss and expense experience of the individual health care provider which resulted in the payment of money, by the plan or other sources, for damages arising out of the rendering of health care by the health care provider or an employee of the health care provider, except that an adjustment to a health care provider's premiums may not be made under this paragraph prior to the receipt of the recommendation of the injured patients and families compensation fund peer review council under s. 655.275 (5) (a) and the expiration of the time period provided, under s. 655.275 (7), for the health care provider to comment or prior to the expiration of the time period under s. 655.275 (5) (a).
+619.04(5)(c)
+(c)  Provisions as to rates for insureds who are semiretired or part-time professionals.
+619.04(5m)
+(5m)â€‚619.04(5m)(a)(a)  Every rule under sub. (5) (b) shall provide for an automatic increase in a health care provider's premiums, except as provided in par. (b), if the loss and expense experience of the plan and other sources with respect to the health care provider or an employee of the health care provider exceeds either a number of claims paid threshold or a dollar volume of claims paid threshold, both as established in the rule.  The rule shall specify applicable amounts of increase corresponding to the number of claims paid and the dollar volume of awards in excess of the respective thresholds.
+619.04(5m)(b)
+(b)  The rule shall provide that the automatic increase does not apply if the board determines that the performance of the injured patients and families compensation fund peer review council in making recommendations under s. 655.275 (5) (a) adequately addresses the consideration set forth in sub. (5) (b).
+619.04(6)
+(6)â€‚619.04(6)(a)(a)  If the plan accumulates funds in excess of the surplus required under s. 619.01 (1) (c) 2. and incurred liabilities, including reserves for claims incurred but not yet reported, the board of governors shall return those excess funds to the insureds by means of refunds or prospective rate decreases.
+619.04(6)(b)
+(b)  The board of governors shall annually determine whether excess funds have accumulated.
+619.04(6)(c)
+(c)  If it determines that excess funds have accumulated, the board of governors shall specify the method and formula for distributing the excess funds.
+ Down
+Down

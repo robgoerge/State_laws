@@ -1,0 +1,104 @@
+
+Up
+Up
+
+
+CHAPTER 443
+
+EXAMINING BOARD OF ARCHITECTS, LANDSCAPE ARCHITECTS, PROFESSIONAL
+ENGINEERS, DESIGNERS, AND PROFESSIONAL LAND SURVEYORS
+443.01   Definitions.
+443.015   Examining board to establish continuing education requirements; promulgate rules.
+443.02   Practice requirements and registration: general provisions.
+443.03   Registration requirements for architects.
+443.035   Registration requirements for landscape architects.
+443.04   Registration requirements for professional engineers.
+443.05   Certification of engineers-in-training.
+443.06   Licensure requirements for professional land surveyors.
+443.07   Permit requirements: designers of engineering systems.
+443.08   Registration requirement: firms, partnerships and corporations.
+443.09   Examinations and experience requirements for architect, landscape architect and engineer applicants.
+443.10   Applications, certificates, licenses, rules, and roster.
+443.11   Disciplinary proceedings against architects, landscape architects and engineers.
+443.12   Disciplinary proceedings against professional land surveyors.
+443.13   Disciplinary proceedings against designers of engineering systems.
+443.134   Exception for photogrammetry and construction surveying.
+443.14   Exempt persons.
+443.15   Exempt buildings.
+443.16   Change of name.
+443.17   Seal or stamp; aiding unauthorized practice.
+443.18   Penalties; law enforcement.
+
+
+Ch. 443 Cross-reference
+Cross-reference:  See definitions in s. 440.01.443.01
+443.01â€ƒ
+Definitions.  In this chapter, unless the context provides otherwise:
+443.01(1)
+(1)â€‚"Architect" means a person who is legally qualified to practice architecture.
+443.01(1m)
+(1m)â€‚"Construction surveying" means surveying or mapping that is performed in support of infrastructure design, in support of improvements related to private and public boundary lines, or in support of construction layout or historic preservation, and establishing any postconstruction documentation related to that surveying or mapping.
+443.01(2)
+(2)â€‚"Engineer-in-training" means a person who is a graduate in an engineering curriculum of 4 years or more from a school or college approved by the professional engineer section of the examining board as of satisfactory standing, or a person who has had 4 years or more of experience in engineering work of a character satisfactory to the professional engineer section; and who, in addition, has successfully passed the examination in the fundamental engineering subjects prior to the completion of the requisite years in engineering work, as provided in s. 443.05, and who has been granted a certificate of record by the professional engineer section stating that the person has successfully passed this portion of the professional examinations.
+443.01(3)
+(3)â€‚"Examining board" means the examining board of architects, landscape architects, professional engineers, designers, and professional land surveyors.
+443.01(3b)
+(3b)â€‚"Geodetic surveying" means surveying to determine the size and shape of the earth or the precise positions of points on the surface of the earth.
+443.01(3g)
+(3g)â€‚"Landscape architect" means a person who practices landscape architecture.
+443.01(3r)
+(3r)â€‚"Landscape architecture" means the performance of a professional service involving conceptual land planning and conceptual design for integrated land development based on the analysis of environmental characteristics, operational requirements, land use or commensurate land values.  "Landscape architecture" includes the investigation, selection or allocation of land or water resources for appropriate uses; the formulation of graphic or written criteria for a land planning or land construction program; the preparation, review or analysis of a master plan for land use or development; the production of a graphic land area, grading, drainage, planting or land construction plan; and the planning of a road, bridge or other structure with respect to the aesthetic requirements of the area on which it will be constructed, except that "landscape architecture" does not include any of the following:
+443.01(3r)(a)
+(a)  Professional services performed by a registered architect or by a person who has in effect a permit under s. 443.10 (1) (d).
+443.01(3r)(b)
+(b)  Professional services performed by a professional engineer or by a person who has in effect a permit under s. 443.10 (1) (d).
+443.01(3r)(c)
+(c)  Professional services performed by a professional land surveyor.
+443.01(3r)(d)
+(d)  The practice of planning as is customarily done by a regional, park, or urban planner, or by a person participating on a planning board or commission, within the scope of that practice.
+443.01(3r)(e)
+(e)  The practice of a natural resource professional, including a biologist, professional geologist, as defined in s. 470.01 (5), or professional soil scientist, as defined in s. 470.01 (7).
+443.01(3r)(f)
+(f)  The actions of a person who is under the supervision of a licensed landscape architect or an employee of a licensed landscape architect, unless the person assumes responsible charge, design, or supervision.
+443.01(3r)(g)
+(g)  Work performed on property by an individual who owns or has control over the property, or work performed by a person hired by an individual who owns or has control of the property.
+443.01(3r)(h)
+(h)  Making plans or drawings for the selection, placement, or use of plants or site features.
+443.01(5)
+(5)â€‚"Practice of architecture" includes any professional service, such as consultation, investigation, evaluation, planning, architectural and structural design, or responsible supervision of construction, in connection with the construction of any private or public buildings, structures, projects, or the equipment thereof, or addition to or alterations thereof, in which the public welfare or the safeguarding of life, health or property is concerned or involved.
+443.01(6)
+(6)â€‚"Practice of professional engineering" includes any professional service requiring the application of engineering principles and data, in which the public welfare or the safeguarding of life, health or property is concerned and involved, such as consultation, investigation, evaluation, planning, design, or responsible supervision of construction, alteration, or operation, in connection with any public or private utilities, structures, projects, bridges, plants and buildings, machines, equipment, processes and works.  A person offers to practice professional engineering if the person by verbal claim, sign, advertisement, letterhead, card or in any other way represents himself or herself to be a professional engineer; or who through the use of some other title implies that he or she is a professional engineer; or who holds himself or herself out as able to practice professional engineering.
+443.01(6s)
+(6s)â€‚"Practice of professional land surveying" means any of the following:
+443.01(6s)(a)
+(a)  Any service comprising the establishment or reestablishment of the boundaries of one or more tracts of land or the boundaries of any of the following interests in real property:
+443.01(6s)(a)1.
+1.  The rights-of-way of roads or streets.
+443.01(6s)(a)2.
+2.  Air or subsurface property rights.
+443.01(6s)(a)3.
+3.  Public or private easements.
+443.01(6s)(b)
+(b)  Designing or coordinating designs for the purpose of platting or subdividing land into smaller tracts.
+443.01(6s)(c)
+(c)  Placing, replacing, restoring, or perpetuating monuments in or on the ground to evidence the location of a point that is necessary to establish boundaries of one or more tracts of land or the subdivision or consolidation of one or more tracts of land or to describe the boundaries of any interest in real property identified in par. (a).
+443.01(6s)(d)
+(d)  Preparing maps that depict any interest in real property identified in par. (a) for the purpose of establishing the boundaries of any such interest in real property.
+443.01(6s)(e)
+(e)  Preparing any of the following:
+443.01(6s)(e)1.
+1.  An official map established or amended under s. 62.23 (6), established or amended under the authority of s. 61.35, or adopted under s. 60.61.
+443.01(6s)(e)2.
+2.  An assessor's plat under s. 70.27.
+443.01(6s)(e)3.
+3.  A map or plat of cemetery lands under s. 157.07.
+443.01(6s)(e)4.
+4.  A subdivision plat, certified survey map, or correction instrument under ch. 236.
+443.01(6s)(e)5.
+5.  A condominium plat or correction instrument under ch. 703.
+443.01(6s)(e)6.
+6.  A project and time-share property plat under s. 707.215.
+443.01(6s)(f)
+(f)  Performing construction surveying or geodetic surveying in connection with any of the practices specified in pars. (a) to (e).
+ Down
+Down

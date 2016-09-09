@@ -1,0 +1,102 @@
+
+Up
+Up
+
+
+CHAPTER 405
+
+UNIFORM COMMERCIAL CODE â€” LETTERS OF CREDIT
+405.101   Short title.
+405.102   Definitions.
+405.103   Scope.
+405.104   Formal requirements.
+405.105   Consideration.
+405.106   Issuance, amendment, cancellation, and duration.
+405.107   Confirmer, nominated person, and adviser.
+405.108   Issuer's rights and obligations.
+405.109   Fraud and forgery.
+405.110   Warranties.
+405.111   Remedies.
+405.112   Transfer of letter of credit.
+405.113   Transfer by operation of law.
+405.114   Assignment of proceeds.
+405.115   Statute of limitations.
+405.116   Choice of law and forum.
+405.117   Subrogation of issuer, applicant, and nominated person.
+405.118   Security interest of issuer or nominated person.
+
+
+Ch. 405 Cross-reference
+Cross-reference:  See definitions in s. 401.201.405.101
+405.101â€ƒ
+Short title.  This chapter may be cited as uniform commercial code â€” letters of credit.
+405.101 History
+History:  2005 a. 213.405.102
+405.102â€ƒ
+Definitions. 405.102(1)(1)â€‚In this chapter:
+405.102(1)(a)
+(a)  "Adviser" means a person who, at the request of the issuer, a confirmer, or another adviser, notifies, or requests another adviser to notify, the beneficiary that a letter of credit has been issued, confirmed, or amended.
+405.102(1)(b)
+(b)  "Applicant" means a person at whose request or for whose account a letter of credit is issued.  The term includes a person who requests an issuer to issue a letter of credit on behalf of another if the person making the request undertakes an obligation to reimburse the issuer.
+405.102(1)(c)
+(c)  "Beneficiary" means a person who under the terms of a letter of credit is entitled to have its complying presentation honored.  The term includes a person to whom drawing rights have been transferred under a transferable letter of credit.
+405.102(1)(d)
+(d)  "Confirmer" means a nominated person who undertakes, at the request or with the consent of the issuer, to honor a presentation under a letter of credit issued by another.
+405.102(1)(e)
+(e)  "Dishonor" of a letter of credit means failure timely to honor or to take an interim action, such as acceptance of a draft, that may be required by the letter of credit.
+405.102(1)(f)
+(f)  "Document" means a draft or other demand, document of title, investment security, certificate, invoice, or other record, statement, or representation of fact, law, right, or opinion that is presented in a written or other medium permitted by the letter of credit or, unless prohibited by the letter of credit, by the standard practice referred to in s. 405.108 (5) and that is capable of being examined for compliance with the terms and conditions of the letter of credit.  A document may not be oral.
+405.102(1)(g)
+(g)  "Good faith" means honesty in fact in the conduct or transaction concerned.
+405.102(1)(h)
+(h)  "Honor" of a letter of credit means performance of the issuer's undertaking in the letter of credit to pay or deliver an item of value.  Unless the letter of credit otherwise provides, honor occurs in any of the following circumstances:
+405.102(1)(h)1.
+1.  Upon payment.
+405.102(1)(h)2.
+2.  If the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity, its payment.
+405.102(1)(h)3.
+3.  If the letter of credit provides for incurring a deferred obligation, upon incurring the obligation and, at maturity, its performance.
+405.102(1)(i)
+(i)  "Issuer" means a bank or other person that issues a letter of credit, but does not include an individual who makes an engagement for personal, family, or household purposes.
+405.102(1)(j)
+(j)  "Letter of credit" means a definite undertaking that satisfies the requirements of s. 405.104 by an issuer to a beneficiary at the request or for the account of an applicant or, in the case of a financial institution, to itself or for its own account, to honor a documentary presentation by payment or delivery of an item of value.
+405.102(1)(k)
+(k)  "Nominated person" means a person whom the issuer:
+405.102(1)(k)1.
+1.  Designates or authorizes to pay, accept, negotiate, or otherwise give value under a letter of credit; and
+405.102(1)(k)2.
+2.  Undertakes by agreement or custom and practice to reimburse.
+405.102(1)(L)
+(L)  "Presentation" means delivery of a document to an issuer or nominated person for honor or giving of value under a letter of credit.
+405.102(1)(m)
+(m)  "Presenter" means a person making a presentation as or on behalf of a beneficiary or nominated person.
+405.102(1)(n)
+(n)  "Record" means information that is inscribed on a tangible medium, or that is stored in an electronic or other medium, and is retrievable in perceivable form.
+405.102(1)(o)
+(o)  "Successor of a beneficiary" means a person who succeeds to substantially all of the rights of a beneficiary by operation of law, including a corporation with or into which the beneficiary has been merged or consolidated, an administrator, executor, personal representative, trustee in bankruptcy, debtor in possession, liquidator, and receiver.
+405.102(2)
+(2)â€‚Definitions in other chapters applying to this chapter and the sections in which they appear are:
+405.102(2)(a)
+(a)  "Accept" or "acceptance", s. 403.409.
+405.102(2)(b)
+(b)  "Value", ss. 403.303 and 404.211
+405.102(3)
+(3)â€‚Chapter 401 contains certain additional general definitions and principles of construction and interpretation applicable throughout this chapter.
+405.102 History
+History:  2005 a. 213.405.103
+405.103â€ƒ
+Scope. 405.103(1)(1)â€‚This chapter applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit.
+405.103(2)
+(2)â€‚The statement of a rule in this chapter does not by itself require, imply, or negate application of the same or a different rule to a situation not provided for, or to a person not specified, in this chapter.
+405.103(3)
+(3)â€‚With the exception of this subsection, subs. (1) and (4), ss. 405.102 (1) (i) and (j), 405.106 (4) and 405.114 (4), and except to the extent prohibited in ss. 401.302 and 405.117 (4), the effect of this chapter may be varied by agreement or by a provision stated or incorporated by reference in an undertaking.  A term in an agreement or undertaking generally excusing liability or generally limiting remedies for failure to perform obligations is not sufficient to vary obligations prescribed by this chapter.
+405.103(4)
+(4)â€‚Rights and obligations of an issuer to a beneficiary or a nominated person under a letter of credit are independent of the existence, performance, or nonperformance of a contract or arrangement out of which the letter of credit arises or which underlies it, including contracts or arrangements between the issuer and the applicant and between the applicant and the beneficiary.
+405.103 History
+History:  2005 a. 213; 2011 a. 257.405.104
+405.104â€ƒ
+Formal requirements.  A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in any form that is a record and is authenticated by any of the following methods:
+405.104(1)
+(1)â€‚A signature.
+ Down
+Down

@@ -1,0 +1,88 @@
+
+Up
+Up
+
+
+CHAPTER 135
+
+DEALERSHIP PRACTICES
+135.01   Short title.
+135.02   Definitions.
+135.025   Purposes; rules of construction; variation by contract.
+135.03   Cancellation and alteration of dealerships.
+135.04   Notice of termination or change in dealership.
+135.045   Repurchase of inventories.
+135.05   Application to arbitration agreements.
+135.06   Action for damages and injunctive relief.
+135.065   Temporary injunctions.
+135.066   Intoxicating liquor dealerships.
+135.07   Nonapplicability.
+
+
+135.01
+135.01â€ƒ
+Short title.  This chapter may be cited as the "Wisconsin Fair Dealership Law".
+135.01 History
+History:  1973 c. 179.135.01 Annotation
+This chapter was enacted for the protection of the interests of the dealer whose economic livelihood may be imperiled by the dealership grantor, whatever its size.  Rossow Oil Co. v. Heiman, 72 Wis. 2d 696, 242 N.W.2d 176 (1976).135.01 Annotation
+This chapter covers only agreements entered into after April 5, 1974.  Wipperfurth v. U-Haul Co. of Western Wis., Inc. 101 Wis. 2d 586, 304 N.W.2d 767 (1981).135.01 Annotation
+This chapter is constitutional; it may be applied to out-of-state dealers when provided by contract.  C. A. Marine Sup. Co. v. Brunswick Corp. 557 F.2d 1163.  See: Boatland, Inc. v. Brunswick Corp. 558 F.2d 818.135.01 Annotation
+When a dealer did not comply with all the terms of acceptance of a dealership agreement, no contract was formed and this chapter did not apply.  Century Hardware Corp. v. Acme United Corp. 467 F. Supp. 350 (1979).135.01 Annotation
+Dealing with the dealers:  Scope of the Wisconsin fair dealership law.  Axe, WBB Aug. 1981.
+135.01 Annotation
+The fair dealership law:  Good cause for review.  Riteris and Robertson, WBB March, 1986.
+135.01 Annotation
+Changing Business Strategy Under the Wisconsin Fair Dealership Law.  Laufer.  Wis. Law. March 1991.
+135.01 Annotation
+Avoiding the Accidental Franchise.  Modell & Fittante.  Wis. Law. May 2003.
+135.01 Annotation
+Determining "Community of Interest" Under the WFDL.  Wright.  Wis. Law. Dec. 2004.
+135.01 Annotation
+Understanding the Wisconsin Fair Dealership Law.  Wright & Aquino.  Wis. Law. Nov. 2009.
+135.02
+135.02â€ƒ
+Definitions.  In this chapter:
+135.02(1)
+(1)â€‚"Community of interest" means a continuing financial interest between the grantor and grantee in either the operation of the dealership business or the marketing of such goods or services.
+135.02(2)
+(2)â€‚"Dealer" means a person who is a grantee of a dealership situated in this state.
+135.02(3)
+(3)â€‚"Dealership" means any of the following:
+135.02(3)(a)
+(a)  A contract or agreement, either expressed or implied, whether oral or written, between 2 or more persons, by which a person is granted the right to sell or distribute goods or services, or use a trade name, trademark, service mark, logotype, advertising or other commercial symbol, in which there is a community of interest in the business of offering, selling or distributing goods or services at wholesale, retail, by lease, agreement or otherwise.
+135.02(3)(b)
+(b)  A contract or agreement, either expressed or implied, whether oral or written, between 2 or more persons by which a wholesaler, as defined in s. 125.02 (21), is granted the right to sell or distribute intoxicating liquor or use a trade name, trademark, service mark, logotype, advertising or other commercial symbol related to intoxicating liquor.  This paragraph does not apply to dealerships described in s. 135.066 (5) (a) and (b).
+135.02(4)
+(4)â€‚"Good cause" means:
+135.02(4)(a)
+(a)  Failure by a dealer to comply substantially with essential and reasonable requirements imposed upon the dealer by the grantor, or sought to be imposed by the grantor, which requirements are not discriminatory as compared with requirements imposed on other similarly situated dealers either by their terms or in the manner of their enforcement; or
+135.02(4)(b)
+(b)  Bad faith by the dealer in carrying out the terms of the dealership.
+135.02(5)
+(5)â€‚"Grantor" means a person who grants a dealership.
+135.02(6)
+(6)â€‚"Person" means a natural person, partnership, joint venture, corporation or other entity.
+135.02 History
+History:  1973 c. 179; 1977 c. 171; 1983 a. 189; 1993 a. 482; 1999 a. 9.135.02 Annotation
+A cartage agreement between an air freight company and a trucking company did not create a "dealership" under this chapter.  Kania v. Airborne Freight Corp. 99 Wis. 2d 746, 300 N.W.2d 63 (1981).135.02 Annotation
+A manufacturer's representative was not a "dealership."  Foerster, Inc. v. Atlas Metal Parts Co. 105 Wis. 2d 17, 313 N.W.2d 60 (1981).135.02 Annotation
+This chapter applies exclusively to dealerships that do business within the geographic confines of the state.  Swan Sales Corp. v. Jos. Schlitz Brewing Co. 126 Wis. 2d 16, 374 N.W.2d 640 (Ct. App. 1985).135.02 Annotation
+Two guideposts for determining the existence of a "community of interest" under sub. (3) are: 1) a shared financial interest in the operation of the dealership or the marketing of a good or service; and 2) the degree of cooperation, coordination of activities, and sharing of common goals in the parties' relationship.  Ziegler Co., Inc. v. Rexnord, Inc. 139 Wis. 2d 593, 407 N.W.2d 873 (1987).135.02 Annotation
+A substantial investment distinguishes a dealership from a typical vendee-vendor relationship; establishing a loss of future profits is not sufficient.  Gunderjohn v. Loewen-America, Inc. 179 Wis. 2d 201, 507 N.W.2d 115 (Ct. App. 1993).135.02 Annotation
+Contracts between an HMO and chiropractors for the provision of chiropractic services to HMO members did not did not establish the chiropractors as dealerships under ch. 135.  Bakke Chiropractic Clinic v. Physicians Plus Insurance, 215 Wis. 2d 605, 573 N.W.2d 542 (Ct. App.1997), 97-1169.135.02 Annotation
+A dealership is a contract or agreement establishing a particular sort of commercial relationship that encompasses an extraordinary diverse set of business relationships not limited to the traditional franchise.  The focus of the analysis must be on whether the business relationship can be said to be situated in the state after examining a broad set of factors outlined by the court.  Baldewein Company v. Tri-Clover, Inc. 2000 WI 20, 233 Wis. 2d 57, 606 N.W.2d 145, 99-0541.  See also Baldewein Company v. Tri-Clover, Inc. 183 F. Supp. 2d 1116 (2002).135.02 Annotation
+Assuming without deciding that the size of the local economy relative to the cost of the putative dealer's inventory of the grantor's products is a relevant factor in determining the existence of a community of interest, that factor did not demonstrate the existence of a community of interest in this case.  Moe v. Benelli U.S.A. Corp. 2007 WI App 254, 306 Wis. 2d 812, 743 N.W.2d 691, 06-1512.135.02 Annotation
+When an otherwise protected party transfers a protected interest to a third party, a "community of interest" is destroyed and the party removed from WFDL protection. Lakefield Telephone Co. v. Northern Telecom, Inc. 970 F.2d 392 (1992).135.02 Annotation
+A community of interest exists when a large proportion of a dealer's revenues are derived from the dealership, or when the alleged dealer has made sizable investments specialized in the grantor's goods or services.  Frieburg Farm Equip. v. Van Dale, Inc. 978 F.2d 395 (1992).135.02 Annotation
+There is no "community of interest" in the sale of services not yet in existence when the availability of the services is dependent on the happening of an uncertain condition.  Simos v. Embassy Suites, Inc. 983 F.2d 1404 (1993).135.02 Annotation
+This chapter does not protect a manufacturer's representative that lacks the unqualified authorization to sell or the authority to commit the manufacturer to a sale.  Sales & Marketing Assoc., Inc. v. Huffy Corp. 57 F.3d 602 (1995).135.02 Annotation
+If a grantor is losing substantial money under the dealership relationship, it may constitute "good cause" for changes in the contract, including termination.  Morley-Murphy Co. v. Zenith Electronics, Inc. 142 F.3d 373 (1998).135.02 Annotation
+This chapter specifies who may take advantage of its protections through the terms "dealer" and "dealership" and obviates the need to resort to conflict of laws principles.  Investment in the state without in-state sales does not bring a party within the coverage of the chapter.  Generac Corp. v. Caterpillar, Inc. 172 F.3d 971 (1999).135.02 Annotation
+A manufacturer's right of approval of its distributors' subdistributors did not create a contractual relationship between the manufacturer and the subdistributor subject to this chapter.  Praefke Auto Electric & Battery Company, Inc. v. Tecumseh Products Company, Inc. 255 F.3d 460 (2001).135.02 Annotation
+The distinction between a dealer and a manufacturer's representative is discussed.  Al Bishop Agency, Inc. v. Lithonia-Division of National Services, Inc. 474 F. Supp. 828 (1979).135.02 Annotation
+The employment relationship in question was not a "dealership."  O'Leary v. Sterling Extruder Corp. 533 F. Supp. 1205 (1982).135.02 Annotation
+The plaintiff was not a "dealer" since money advanced to the company for fixtures and inventory was refundable.  Moore v. Tandy Corp. Radio Shack Div. 631 F. Supp. 1037 (1986).135.02 Annotation
+It is improper to determine whether under sub. (3) a "community of interest" exists by examining the effect termination has on a division of the plaintiff.  U.S. v. Davis, 756 F. Supp. 1162 (1990).135.02 Annotation
+The plaintiff's investment in "goodwill" was not sufficient to afford it protection under this chapter.  Team Electronics v. Apple Computer, 773 F. Supp. 153 (1991).135.02 Annotation
+The "situated in this state" requirement under sub. (2) is satisfied as long as the dealership conducts business in Wisconsin.  CSS-Wisconsin Office v. Houston Satellite Systems, 779 F. Supp. 979 (1991). Down
+Down

@@ -1,0 +1,93 @@
+
+Up
+Up
+
+
+CHAPTER 67
+
+MUNICIPAL BORROWING AND MUNICIPAL BONDS
+67.01   Definitions and interpretations.
+67.015   Housing authorities exempted.
+67.02   Validation of debt.
+67.025   Certification of municipal obligations.
+67.03   Grant of power to borrow; general limitations of indebtedness.
+67.035   Tax limitations not applicable to debt levies.
+67.04   Purposes of issuing municipal bonds and notes.
+67.045   Debt issuance conditions.
+67.05   Bond issues; procedure.
+67.06   Form and contents of bonds.
+67.07   Maturity and place of payment.
+67.08   Execution and negotiation.
+67.09   Registration of municipal obligations.
+67.10   Fiscal and administrative regulations.
+67.101   Debt amortization in 1st class cities.
+67.11   Debt service fund.
+67.12   Temporary borrowing and borrowing on promissory notes.
+67.15   Variable rate obligations.
+67.16   General obligation-local improvement bonds.
+67.17   Diversion of funds, liability of officers for.
+67.22   Issuance stayed by protest.
+67.24   Validation of obligations of incorporated municipality.
+67.25   Redevelopment bonds.
+67.26   Judgments on municipal orders.
+
+
+67.01
+67.01â€ƒ
+Definitions and interpretations.  In this chapter, unless the context or subject matter otherwise requires:
+67.01(1)
+(1)â€‚"Clerk" includes the secretary of the metropolitan sewerage commission under s. 200.27 (4).
+67.01(2)
+(2)â€‚"Governing body" includes a town or county board, the legislative body of a city or village, the commission of a metropolitan sewerage district created under ss. 200.21 to 200.65 and the board of any other municipality enumerated in sub. (5).
+67.01(3)
+(3)â€‚"Initial resolution" means any resolution adopted pursuant to s. 67.05 (1) or (2), by which a proceeding is instituted for the purpose of authorizing a municipality to borrow money and issue bonds or other municipal obligations.
+67.01(5)
+(5)â€‚"Municipality" means any of the following which is authorized to levy a tax: a county, city, village, town, school district, board of park commissioners, technical college district, metropolitan sewerage district created under ss. 200.01 to 200.15 or 200.21 to 200.65, town sanitary district under subch. IX of ch. 60, public inland lake protection and rehabilitation district established under s. 33.23, 33.235, or 33.24, and any other public body empowered to borrow money and issue obligations to repay the money out of public funds or revenues.  "Municipality" does not include the state.
+67.01(6)
+(6)â€‚"Municipal obligation" includes every lawful promise or engagement in writing by a municipality to pay at a specified future time a specified sum of money.
+67.01(7)
+(7)â€‚"Recorded" means copied at length in the record book required by s. 67.05 (12).
+67.01(8)
+(8)â€‚Every reference to the population of a municipality refers to its population according to the last United States census; and every reference to the value of the taxable property in a municipality refers to such value as equalized for state purposes.
+67.01(9)
+(9)â€‚This chapter is not applicable to appropriation bonds issued by a county under s. 59.85 or by a 1st class city under s. 62.62 and, except for ss. 67.08 (1), 67.09, and 67.10, is not applicable:
+67.01(9)(a)
+(a)  To the borrowing of moneys belonging to the common school fund, the normal school fund, the university fund or the agricultural college fund; all of which borrowing shall continue to be regulated by subch. II of ch. 24.67.01(9)(b)
+(b)  To the issue or payment of street, sewer, harbor or other improvement bonds or certificates which do not constitute a general liability of the municipality issuing them, and for the payment of which specified portions only of the taxable property in such municipality are taxable.
+67.01(9)(d)
+(d)  To drainage bonds issued by authority of ch. 88, 1963 stats., or of ch. 89, 1963 stats., as it existed prior to January 1, 1965, or of ch. 88.
+67.01(9)(g)
+(g)  To revenue bonds and revenue bond anticipation notes issued for the purpose of purchasing, acquiring, constructing, extending, adding to or improving public utilities under ss. 62.69, 66.0621 and 66.0801 to 66.0827, nor to refunding bonds authorized under s. 66.0621 (4) (b), nor to commercial paper issued under s. 200.55 (1) (fa), nor to public improvement bonds authorized under s. 66.0619.
+67.01(9)(h)
+(h)  To contractor's certificates or special assessment B bonds issued under s. 66.0713 except as provided in that section or to general obligation-local improvement bonds issued under s. 67.16, except as provided in that section.
+67.01 History
+History:  1971 c. 188; 1977 c. 163; 1981 c. 169, 282; 1981 c. 390 s. 252; 1983 a. 24; 1983 a. 189 ss. 74, 75, 329 (7); 1983 a. 207; 1985 a. 29, 187, 225, 332; 1987 a. 197; 1989 a. 56; 1993 a. 399; 1999 a. 150 ss. 621, 672; 2007 a. 115; 2009 a. 28; 2011 a. 32; 2013 a. 165.67.01 Annotation
+Wisconsin municipal debt finance:  An outlook for the eighties.  Schilling, Griggs and Ebert, 63 MLR 539 (1980).
+67.015
+67.015â€ƒ
+Housing authorities exempted.  This chapter shall not be applicable to borrowing by housing authorities or county veterans housing authorities under ss. 66.1201 to 66.1213.
+67.015 History
+History:  1999 a. 150 s. 672; 2005 a. 22.67.02
+67.02â€ƒ
+Validation of debt. 67.02(1)(1)â€‚Validations before January 1, 1922, effected by legislative enactments of defective or irregular procedure in the creation, execution or issue of municipal obligations continue unaffected by the repeal of the enactments or by the consolidation and revision of them in chapter 576, laws of 1921.
+67.02(2)
+(2)â€‚Defects and irregularities in any proceeding on or after January 1, 1922, which is for a lawful purpose, is unaffected by fraud, and does not exceed any statutory or constitutional limitation of amount, does not invalidate the bonds issued or the indebtedness incurred after the bonds have been sold or hypothecated and the proceeds received and appropriated by the municipality to a lawful purpose, nor after the performance of a contract has been entered upon by a party whose performance of the contract is the consideration for the bonds or other obligations.
+67.02(3)
+(3)â€‚A legislative, judicial or administrative determination, for any reason, that a municipality may not spend the proceeds of contracted debt, or that it has spent the proceeds for a purpose other than the stated purpose for which the debt was contracted or for a purpose for which a municipality may not spend money, shall not affect the enforceability of the debt nor the evidence of indebtedness for it.
+67.02 History
+History:  1971 c. 40; 1983 a. 207, 538.67.02 Annotation
+The sub. (2) validation provision does not apply to promissory notes securing unauthorized municipal debt.  Schmidt v. Town of Alvin, 145 Wis. 2d 806, 429 N.W.2d 541 (Ct. App. 1988).67.025
+67.025â€ƒ
+Certification of municipal obligations.  In any municipality, the officers charged with the negotiation and sale of its municipal obligations may, in their discretion, prior to the issuance thereof, submit to the attorney general or to an attorney employed under s. 67.10 (7) a certified copy of all its proceedings preliminary to such issue, and also a printer's proof or sample of or the unsigned obligations, for examination and certification.  Such attorney shall examine the proceedings and, if found regular and valid, shall execute a certificate of such examination and validity.  As soon as such certificate is returned, the clerk of the municipality shall cause such certificate to be recorded.  This section applies to obligations issued under ss. 59.57 (2), 59.82 (2) (c), 66.0621, 66.0713, 66.1103 and 66.1105 (9) (b).
+67.025 History
+History:  1971 c. 40; 1975 c. 221; 1977 c. 418; 1987 a. 197; 1989 a. 265; 1995 a. 201; 1999 a. 150 s. 672.67.025 Cross-reference
+Cross-reference:  See s. 893.77 for 30-day statute of limitations on municipal obligations which have been certified by an attorney.
+67.03
+67.03â€ƒ
+Grant of power to borrow; general limitations of indebtedness. 67.03(1)(1)â€‚ 67.03(1)(a)(a)  Except as provided in s. 67.01 (9), municipalities may borrow money and issue municipal obligations therefor only for the purposes and by the procedure specified in this chapter.  The aggregate amount of indebtedness, including existing indebtedness, of any municipality shall not exceed 5% of the value of the taxable property located in the municipality as equalized for state purposes except that the aggregate amount of indebtedness of any school district that offers no less than grades 1 to 12 and that at the time of incurring the debt is eligible to receive state aid under s. 121.08 shall not exceed 10% of the equalized value of the taxable property located in the school district.
+67.03(1)(b)
+(b)  Any school district about to incur indebtedness may apply to the state superintendent of public instruction for, and the state superintendent may issue, a certificate as to the eligibility of the school district to receive state aid under s. 121.08, which certificate shall be conclusive as to such eligibility for 30 days, but not beyond the next June 30.
+67.03(2)
+(2)â€‚The amount so limited includes such indebtedness only as has been or may be incurred independently by a municipality for its own separate purposes; and does not include any indebtedness, in whole or in part, that has been or may be incurred independently by any other municipality for its own separate purposes, even though the territory and taxable property of either municipality constitutes the whole or a part of the territory and taxable property of the other.
+ Down
+Down

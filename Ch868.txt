@@ -1,0 +1,111 @@
+
+Up
+Up
+
+
+CHAPTER 868
+
+PROBATE â€” ANCILLARY PROCEDURES
+868.01   Uniform probate of foreign wills act.
+868.03   Uniform ancillary administration of estates act.
+868.05   Foreign wills; certificate of assignment.
+
+
+Ch. 868 Cross-reference
+Cross-reference:  See definitions in ch. 851.868.01
+868.01â€ƒ
+Uniform probate of foreign wills act. 868.01(1)
+(1)â€‚
+Probate on proof of domiciliary probate; effect.  The written will of a testator who died domiciled outside this state, which upon probate may operate upon any property in this state, shall be admitted to probate upon proof that it stands probated or established in the jurisdiction where the testator died domiciled and is not being contested there.  A will probated under this subsection is sufficient to operate on any property within the terms of the will, subject to any limitations upon its operation imposed by the law of the jurisdiction where the testator died domiciled.  Rights to take against the will are not affected by this subsection.
+868.01(2)
+(2)â€‚Local contest limited; setting aside local probate.  A will offered for probate under sub. (1) may be contested only upon the ground that the conditions of that subsection are not met or that it has been finally rejected from probate in this state; but probate under sub. (1) shall be set aside upon proof that probate or establishment of the will has been set aside in the jurisdiction where the testator died domiciled, if, within one year after such probate in this state under sub. (1), application is made in this state to set aside such probate upon such ground, or verified notice that proceedings have been taken to contest the will in the jurisdiction where the testator died domiciled, is filed, and in the case of real property, also recorded as provided in sub. (3).
+868.01(3)
+(3)â€‚Protection of probate under sub. (1).  If within one year after probate under sub. (1), verified notice that proceedings have been taken to contest the will in the jurisdiction where the testator died domiciled is filed in the court of this state where probate was granted, and, in the case of real property, also recorded in the office of the register of deeds in the county where the real property is located, the protection of probate ceases until proof that the domiciliary proceedings have been terminated in favor of the will or were never actually taken is filed and, in the case of real property, also recorded as provided herein.
+868.01(4)
+(4)â€‚Effect of rejection of will at domicile.  Final rejection of the will from probate or establishment in the jurisdiction where the testator died domiciled is conclusive in this state except where the will has been rejected solely for a cause which is not ground for rejection of a will of a testator who died domiciled in this state, in which case the will nevertheless may be admitted to probate under sub. (5).
+868.01(5)
+(5)â€‚Original probate; when allowed.  Original probate of the will of a testator who died domiciled outside this state, which upon probate may operate upon any property in this state and is valid under the laws of this state, may be granted if the will does not stand rejected from probate or establishment in the jurisdiction where the testator died domiciled, or stands rejected from probate or establishment in the jurisdiction where the testator died domiciled solely for a cause which is not ground for rejection of a will of a testator who died domiciled in this state.  The court may delay passing on the application for probate under this subsection pending the result of probate or establishment or contest at the domicile or on the application for probate under sub. (1).
+868.01(6)
+(6)â€‚Proof of will by probate in nondomiciliary jurisdiction.  If a testator dies domiciled outside this state, an authenticated copy of the testator's will and of the probate or establishment thereof in a jurisdiction other than the one in which testator died domiciled shall be sufficient proof of the contents and legal sufficiency of the will to authorize the admission of the will to probate under sub. (5) if no objection is made thereto.  This subsection does not authorize the probate of any will which would not be admissible to probate under sub. (5), nor, in case objection is made to the will, to relieve proponent from offering proof of the contents and legal sufficiency of the will except that the original will need not be produced unless the court so orders.
+868.01(7)
+(7)â€‚Authentication and translation.  Proof contemplated by this section may be made by authenticated copies of the will and the records of judicial proceedings with reference thereto.  If the will has not been probated but is otherwise established under the laws of the jurisdiction where the testator died domiciled, its contents and establishment may be proved by the authenticated certificate of the notary or other official having custody of the will or having authority in connection with its establishment.  If the respective documents or any part thereof are not in the English language, verified translations may be attached thereto and shall be regarded as sufficient proof of the contents of the documents unless objection is made thereto.  If any person in good faith relies upon probate under this section the person shall not thereafter be prejudiced because of inaccuracy of such translations, or because of proceedings to set aside or modify the probate on that ground.
+868.01(8)
+(8)â€‚General law to apply.  Except where otherwise provided, the law of this state relating to wills and to the probate, contest and effect thereof shall apply in case of a testator who died domiciled outside this state.
+868.01(9)
+(9)â€‚Uniformity of interpretation.  This section shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact it.
+868.01 History
+History:  1993 a. 486.868.01 Cross-reference
+Cross-reference:  See s. 223.12 as to capacity of foreign trust company.868.01 Annotation
+"Original probate" under sub. (5) is an ancillary proceeding that is first in time.  In Matter of Estate of Tressing, 86 Wis. 2d 502, 273 N.W.2d 271 (1979).868.01 Annotation
+Granting original probate under sub. (5) is within a court's discretion, but the need to take judicial notice of foreign law is not, without more, grounds for refusal to exercise discretionary jurisdiction.  In Matter of Estate of Warner, 161 Wis. 2d 644, 468 N.W.2d 736 (Ct. App. 1991).868.03
+868.03â€ƒ
+Uniform ancillary administration of estates act. 868.03(1)(1)â€‚
+Definitions.  As used in this section:
+868.03(1)(a)
+(a)  "Representative" means a personal representative, testamentary trustee, guardian, or other fiduciary of the estate of a decedent or a ward duly appointed by a court and qualified.  It includes any corporation so appointed, regardless of whether the corporation is eligible to act under the law of this state.  This section does not change the powers or duties of a testamentary trustee under the nonstatutory law or under the terms of a trust.
+868.03(1)(b)
+(b)  "Foreign representative" means any representative who has been appointed by the court of another jurisdiction in which the decedent was domiciled at the time of the decedent's death, or in which the ward is domiciled, and who has not also been appointed by a court of this state.
+868.03(1)(c)
+(c)  "Local representative" means any representative appointed as ancillary representative by a court of this state who has not been appointed by the domiciliary court.
+868.03(1)(d)
+(d)  "Local and foreign representative" means any representative appointed by both the domiciliary court and by a court of this state.
+868.03(2)
+(2)â€‚Application for ancillary letters and notice thereof. 868.03(2)(a)(a) 
+Qualifications of and preference for foreign representative.  Any foreign representative upon the filing of an authenticated copy of the domiciliary letters with the court may be granted ancillary letters in this state notwithstanding that the representative is a nonresident of this state or is a foreign corporation.  If the foreign representative is a foreign corporation it need not qualify under any other law of this state to authorize it to act as local and foreign representative in the particular estate if it complies with subs. (4) and (5).  If application is made for the issuance of ancillary letters to the foreign representative, the court shall give preference in appointment to the foreign representative unless the court finds that it will not be for the best interests of the estate or the decedent has otherwise directed.
+868.03(2)(b)
+(b) 
+Intervention upon application.  When application is made for issuance of ancillary letters any interested person may intervene and pray for the appointment of any person who is eligible under this section or the law of this state.
+868.03(2)(c)
+(c) 
+Notice to foreign representative.  When application is made for issuance of ancillary letters to any person other than the foreign representative, the applicant shall send notice of the application by registered mail to the foreign representative if the latter's name and address are known and to the court which appointed the foreign representative if the court is known.  These notices shall be mailed upon filing the application if the necessary facts are then known, or as soon thereafter as the facts are known.  If notices are not given prior to the appointment of the local representative, the local representative shall give similar notices of his or her appointment as soon as the necessary facts are known to the local representative.  Notice by ordinary mail is sufficient if it is impossible to send the notice by registered mail.  Notice under this paragraph is not jurisdictional.
+868.03(3)
+(3)â€‚Denial of ancillary letters.  The court may deny the application for ancillary letters if it appears that the estate may be settled conveniently without ancillary administration.  Such denial is without prejudice to any subsequent application if it later appears that ancillary administration should be had.
+868.03(4)
+(4)â€‚Bond.  No nonresident shall be granted ancillary letters unless the nonresident gives an administration bond.
+868.03(5)
+(5)â€‚Agent to accept service of process.  No nonresident shall be granted ancillary letters and no person shall be granted leave to remove assets under sub. (7), until the person files in the court an authorization appointing the register in probate as his or her agent to accept and be subject to service of process or of notice in any action or proceeding relating to the administration of the estate.  The register in probate shall forthwith forward to the representative at his or her last-known address any process or notice so received, by registered mail requesting a return receipt signed by addressee only.  Forwarding by ordinary mail is sufficient if when tendered at a U.S. post office an envelope containing such notice addressed to such representative is refused registration.
+868.03(6)
+(6)â€‚Substitution of foreign for local representative. 868.03(6)(a)(a) Application and procedure.  If any other person has been appointed local representative, the foreign representative, not later than 14 days after the mailing of notice to the foreign representative under sub. (2), unless this period is extended by the court because the foreign representative resides outside continental United States or in Alaska, or for other cause which the court deems adequate, may apply for revocation of the appointment and for grant of ancillary letters to himself or herself.  Ten days' written notice of hearing shall be given to the local representative.  If the court finds that it is for the best interests of the estate, it may grant the application and direct the local representative to deliver all the assets, documents, books and papers pertaining to the estate in the local representative's possession and make a full report of his or her administration to the local and foreign representative as soon as the letters are issued and the local and foreign representative is qualified.  The local representative shall also account to the court.  The hearing on the account may be forthwith or upon such notice as the court directs.  Upon compliance with the court's directions, the local representative shall be discharged.
+868.03(6)(b)
+(b) 
+Effect of substitution.  Upon qualification, the local and foreign representative shall be substituted in all actions and proceedings brought by or against the local representative in the local representative's representative capacity, and shall be entitled to all the rights and be subject to all the burdens arising out of the uncompleted administration in all respects as if it had been continued by the local representative.  If the latter has served or been served with any process or notice, no further service shall be necessary nor shall the time within which any steps may or must be taken be changed unless the court in which the action or proceedings are pending so orders.
+868.03(7)
+(7)â€‚Removal of assets to domiciliary jurisdiction. 868.03(7)(a)(a) Application.  Prior to the final disposition of the ancillary estate under sub. (12) and upon giving the notice provided in s. 879.03, the foreign representative or the local and foreign representative may apply for leave to remove all or any part of the assets from this state to the domiciliary jurisdiction for the purpose of administration and distribution.
+868.03(7)(b)
+(b) 
+Prerequisites to granting application.  Before granting such application, the court shall require compliance with sub. (5) and the filing of a bond by the foreign representative or of an additional bond for the protection of the estate and all interested persons unless the court finds that the bond given under sub. (4) by the local and foreign representative is sufficient.
+868.03(7)(c)
+(c) 
+Granting application; terms and consequences.  Upon compliance with this subsection, the court shall grant the application upon such conditions as it sees fit unless it finds cause for the denial thereof or for postponement until further facts appear.  The granting of the application shall not terminate any proceedings for the administration of property in this state unless the court finds that such proceedings are unnecessary.  If the court so finds, it may order the administration in this state closed, subject to reopening within one year for cause.
+868.03(8)
+(8)â€‚Effect of adjudications for or against representatives.  A prior adjudication rendered in any jurisdiction for or against any representative of the estate shall be as conclusive as to the local or the local and foreign representative as if the local or the local and foreign representative were a party to the adjudication unless it resulted from fraud or collusion of the party representative to the prejudice of the estate.  This subsection shall not apply to adjudications in another jurisdiction admitting or refusing to admit a will to probate.
+868.03(9)
+(9)â€‚Payment of claims.  No claim against the estate shall be paid in the ancillary administration in this state unless it has been proceeded upon in the manner and within the time required for claims in domiciliary administrations in the state.
+868.03(10)
+(10)â€‚Liability of local assets.  All local assets are subject to the payment of all claims, allowances and charges, whether they are established or incurred in this state or elsewhere.  For this purpose local assets may be sold in this state and the proceeds forwarded to the representative in the jurisdiction where the claim was established or the charge incurred.
+868.03(11)
+(11)â€‚Payment of claims in case of insolvency. 868.03(11)(a)(a) 
+Equality subject to preferences and security.  If the estate either in this state or as a whole is insolvent, it shall be disposed of so that, as far as possible, each creditor whose claim has been allowed, either in this state or elsewhere, shall receive an equal proportion of the creditor's claim subject to preferences and priorities and to any security which a creditor has as to particular assets.  If a preference, priority or security is allowed in another jurisdiction but not in this state, the creditor so benefited shall receive dividends from local assets only upon the balance of the creditor's claim after deducting the amount of such benefit.  Creditors who have security claims upon property not exempt from the claims of general creditors, and who have not released or surrendered them, shall have the value of the security determined by converting it to money according to the terms of the security agreement, or by such creditor and the personal representative by agreement, arbitration, compromise or litigation, as the court directs, and the value so determined shall be credited upon the claim, and dividends shall be computed and paid only on the unpaid balance.  Such determination shall be under the supervision and control of the court.
+868.03(11)(b)
+(b) 
+Procedure.  In case of insolvency and if local assets permit, each claim allowed in this state shall be paid its proportion, and any balance of assets shall be disposed of in accordance with sub. (12).  If local assets are not sufficient to pay all claims allowed in this state the full amount to which they are entitled under this subsection, local assets shall be marshaled so that each claim allowed in this state shall be paid its proportion as far as possible, after taking into account all dividends on claims allowed in this state from assets in other jurisdictions.
+868.03(12)
+(12)â€‚Transfer of residue to domiciliary representative.  Unless the court otherwise orders, any movable assets remaining on hand after payment of all claims allowed in this state and of all taxes and charges levied or incurred in this state shall be ordered transferred to the representative in the domiciliary jurisdiction.  The court may decline to make the order until such representative furnishes security or additional security in the domiciliary jurisdiction, for the proper administration and distribution of the assets to be transferred.
+868.03(13)
+(13)â€‚General law to apply.  Except where special provision is made otherwise, the law and procedure in this state relating generally to administration and representatives apply to ancillary administration and representatives.
+868.03(14)
+(14)â€‚Uniformity of interpretation.  This section shall be so interpreted and construed as to effectuate its general purpose to make uniform the law of those states which enact it.
+868.03 History
+History:  1977 c. 449; 1989 a. 141; 1993 a. 486; 2001 a. 102.868.03 Cross-reference
+Cross-reference:  See s. 877.16 as to power of foreign representative to act in this state when no personal representative has been appointed in this state.
+868.05
+868.05â€ƒ
+Foreign wills; certificate of assignment. 868.05(1)(1)â€‚
+Petition.  If a will devising or bequeathing property in this state or any interest therein has been admitted to probate in any state, and 6 years have passed since the death of the decedent, the court of any county in which any of the property is situated may, upon petition accompanied by an authenticated copy of the will and its probate, issue a certificate of assignment.
+868.05(2)
+(2)â€‚Certificate.  If it appears that the foreign will has been admitted to probate and that no Wisconsin death tax is owing or has been paid, the court may issue a certificate so showing; the certificate shall give the names of the beneficiaries, a description of the property and interest of each in the property.  The certificate or a duplicate or a certified copy when recorded in the office of the register of deeds of the county in which the property is situated shall be prima facie evidence of the facts recited.
+868.05 History
+History:  1977 c. 449; 1987 a. 27 s. 3200 (47).868.05 Cross-reference
+Cross-reference:  See s. 72.27 (2) which deals with jurisdiction to determine inheritance tax on property of nonresident decedents.
+ Down
+Down

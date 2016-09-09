@@ -1,0 +1,101 @@
+
+Up
+Up
+
+
+CHAPTER 623
+
+INSURANCE â€” ACCOUNTING AND RESERVES
+623.01   Applicability.
+623.02   Standards for accounting rules.
+623.03   Valuation of assets.
+623.04   Valuation of liabilities.
+623.06   Standard valuation law.
+623.11   Amount of compulsory surplus.
+623.12   Amount of security surplus.
+623.15   Fraternal rates and reserves.
+623.21   Adjustment of reserves.
+623.34   Accounting for repurchased shares.
+
+
+Ch. 623 Cross-reference
+Cross-reference:  See definitions in ss. 600.03 and 628.02.Ch. 623 Cross-reference
+Cross-reference:  See also chs. Ins 41, 50, 51, 52, and 55, Wis. adm. code.623.01
+623.01â€ƒ
+Applicability.  Except as otherwise provided, this chapter and the rules promulgated under it apply to all insurers authorized to do business in this state.
+623.01 History
+History:  1979 c. 102.623.01 Cross-reference
+Cross-reference:  See also s. Ins 3.17, Wis. adm. code.623.02
+623.02â€ƒ
+Standards for accounting rules.  When promulgating accounting rules, the commissioner shall consider recommendations made by the National Association of Insurance Commissioners, generally accepted accounting principles both in the insurance industry and outside it, the requirements of the law and the needs of regulation, including detection of insolvency, and the needs for information of insureds, investors, and the public.
+623.02 History
+History:  1973 c. 293.623.02 Cross-reference
+Cross-reference:  See also ch. Ins 50, Wis. adm. code.623.02 Note
+NOTE:  The bill that created 623.02 to 623.04 and 623.21, 1973 SB 174, contained extensive explanatory notes that may be found in the bill drafting file in the Legislative Reference Bureau for Chapter 293, laws of 1973.623.03
+623.03â€ƒ
+Valuation of assets.  The commissioner shall promulgate rules for the valuation of assets to be reported on the statements submitted under s. 601.42 (1g) (a) as well as for other purposes.  The commissioner may specify that certain classes of assets shall be valued at zero or given a nominal value, and when necessary to achieve the purposes of this section may specify different bases of valuation for different purposes.
+623.03 History
+History:  1973 c. 293; 1979 c. 102 s. 236 (7); 1987 a. 247.623.03 Cross-reference
+Cross-reference:  See also ch. Ins 50, Wis. adm. code.623.04
+623.04â€ƒ
+Valuation of liabilities.  The commissioner shall promulgate rules specifying the liabilities required to be reported by insurers in the financial statements submitted under s. 601.42 (1g) (a) and the methods of valuing them.  In the case of life insurance such methods shall be consistent with s. 623.06.
+623.04 History
+History:  1973 c. 293; 1977 c. 153 s. 6; 1977 c. 339 s. 44; 1987 a. 247.623.04 Cross-reference
+Cross-reference:  See also ch. Ins. 50 and s. Ins 3.04, Wis. adm. code.623.06
+623.06â€ƒ
+Standard valuation law. 623.06(1)
+(1)â€‚In this section:
+623.06(1)(a)
+(a)  "Accident and health insurance contract" means a contract that incorporates morbidity risk and provides protection against economic loss resulting from accident, sickness, or medical conditions and as may be specified in the valuation manual.
+623.06(1)(b)
+(b)  "Appointed actuary" means a qualified actuary who is appointed in accordance with the valuation manual to prepare the actuarial opinion required in sub. (1r).
+623.06(1)(c)
+(c)  "Deposit-type contract" means a contract that does not incorporate mortality or morbidity risks and as may be specified in the valuation manual.
+623.06(1)(d)
+(d)  "Law enforcement agency," "National Association of Insurance Commissioners," or "regulatory agency" includes the employees, agents, consultants, and contractors of each such entity.
+623.06(1)(e)
+(e)  "Life insurance," "life insurance contract," "life insurance policy," or "plan of life insurance" means a contract that incorporates mortality risk, including annuity and pure endowment contracts, and as may be specified in the valuation manual.
+623.06(1)(f)
+(f)  "Operative date of the valuation manual" means the date determined under sub. (9) (b).
+623.06 Note
+NOTE:  Par. (f) is repealed and recreated effective on the date specified in the notice published in the Wisconsin Administrative Register under 2015 Wis. Act 90, section 87 (1), to read as shown below.  The legislative reference bureau will insert the effective date into the text in the location indicated in accordance with the published notice.
+Effective date text
+(f)  "Operative date of the valuation manual" means the effective date of this paragraph .... [LRB inserts date], as determined under sub. (9) (b).
+623.06(1)(g)
+(g)  "Principle-based valuation" means a reserve valuation that uses one or more methods, or one or more assumptions, determined by the insurer and that is required to comply with sub. (10) as specified in the valuation manual.
+623.06(1)(h)
+(h)  "Qualified actuary" means an individual who is qualified to sign the applicable statement of actuarial opinion in accordance with the American academy of actuaries qualification standards for actuaries signing such statements and who meets the requirements specified in the valuation manual, if the valuation manual is in effect, and any other requirements that the commissioner may by rule specify.
+623.06(1)(i)
+(i)  "Tail risk" means a risk that occurs either when the frequency of low probability events is higher than expected under a normal probability distribution or when there are observed events of very significant size or magnitude.
+623.06(1)(j)
+(j)  "Valuation manual" means the manual of valuation instructions as adopted by the National Association of Insurance Commissioners under sub. (9) or as subsequently amended.
+623.06(1f)
+(1f)â€‚623.06(1f)(a)(a)  For policies and contracts issued before the operative date of the valuation manual, the commissioner shall annually value, or cause to be valued, the reserve liabilities (hereinafter called reserves) for all outstanding life insurance policies and annuity and pure endowment contracts of every life insurance company doing business in this state and may certify the amount of any such reserves, specifying the mortality table or tables, rate or rates of interest and methods (net level premium method or other) used in the calculation of such reserves.  In calculating such reserves, the commissioner may use group methods and approximate averages for fractions of a year or otherwise.  In lieu of the valuation of the reserves herein required of any foreign or alien company, the commissioner may accept any valuation made, or caused to be made, by the insurance supervisory official of any state or other jurisdiction if such valuation complies with the minimum standard herein provided and if the official of such state or jurisdiction accepts as sufficient and valid for all legal purposes the certificate of valuation of the commissioner when such certificate states the valuation to have been made in a specified manner according to which the aggregate reserves would be at least as large as if they had been computed in the manner prescribed by the law of that state or jurisdiction.  Subsections (2) to (7) apply to all policies and contracts issued before the operative date of the valuation manual.
+623.06(1f)(b)
+(b)  For policies and contracts issued on or after the operative date of the valuation manual, the commissioner shall annually value, or cause to be valued, the reserve liabilities (hereinafter called reserves) for all outstanding life insurance contracts, annuity and pure endowment contracts, accident and health insurance contracts, and deposit-type contracts of every insurer doing business in this state.  In lieu of the valuation of the reserves required of a foreign or alien company, the commissioner may accept a valuation made, or caused to be made, by the insurance supervisory official of any state or other jurisdiction if the valuation complies with the minimum standard provided in this section.  Subsections (9) and (10) apply to all policies and contracts issued on or after the operative date of the valuation manual.
+623.06(1m)
+(1m)â€‚Before the operative date of the valuation manual, all of the following apply:
+623.06(1m)(a)
+(a) 623.06(1m)(a)1.1.  For each year ending on or after December 31, 1996, every life insurance company doing business in this state shall submit to the commissioner, with its annual statement due by March 1 of the following year, an opinion by a qualified actuary as to whether the reserves and related actuarial items held in support of the policies and contracts specified by the commissioner by rule satisfy all of the following:
+623.06(1m)(a)1.a.
+a.  They are computed appropriately.
+623.06(1m)(a)1.b.
+b.  They are based on assumptions that satisfy contractual provisions.
+623.06(1m)(a)1.c.
+c.  They are consistent with prior reported amounts.
+623.06(1m)(a)1.d.
+d.  They comply with the applicable laws of this state.
+623.06(1m)(a)2.
+2.  The commissioner shall by rule specify in detail the nature of the information required in the opinion under subd. 1. and may by rule require any additional information that the commissioner determines is necessary to the scope of the opinion.
+623.06(1m)(b)
+(b) 623.06(1m)(b)1.1.  Every life insurance company not exempted by rule shall include with the opinion required under par. (a) the opinion of the qualified actuary as to whether the reserves and related actuarial items held in support of the policies and contracts specified by the commissioner by rule, when considered in light of the assets held by the company with respect to the reserves and related actuarial items, including but not limited to the investment earnings on the assets and the considerations anticipated to be received and retained under the policies and contracts, make adequate provision for the company's obligations under the policies and contracts, including but not limited to the benefits under and expenses associated with the policies and contracts.  The commissioner may by rule provide for a transition period for an insurance company to establish any higher reserves that the qualified actuary determines are necessary to make adequate provision for the company's obligations under the policies and contracts.
+623.06(1m)(b)2.
+2.  An insurance company that is required to submit an opinion under subd. 1. shall have prepared by the qualified actuary who renders the opinion a memorandum in support of the opinion under subd. 1.  The commissioner shall specify by rule the form and content of the memorandum.  The insurance company shall provide the memorandum to the commissioner, at the commissioner's request, for his or her examination.  After examination, the commissioner shall return the memorandum to the insurance company.  The memorandum shall not be considered a record of the commissioner's office.
+623.06(1m)(b)3.
+3.  If an insurance company fails to provide a supporting memorandum to the commissioner upon request within the period specified by rule, or if the commissioner determines that the supporting memorandum provided by an insurance company fails to meet the standards prescribed by rule or is otherwise unacceptable, the commissioner may retain a qualified actuary at the expense of the insurance company to review the opinion required under subd. 1. and the basis for the opinion and to prepare such supporting memorandum as the commissioner requires.
+623.06(1m)(c)
+(c)  The following provisions apply to an opinion required under par. (a) or (b):
+623.06(1m)(c)1.
+1.  The opinion shall apply to all business in force, including individual and group health insurance plans, in form and substance acceptable to the commissioner as specified by rule.
+ Down
+Down

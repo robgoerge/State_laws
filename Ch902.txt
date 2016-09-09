@@ -1,0 +1,81 @@
+
+Up
+Up
+
+
+CHAPTER 902
+
+EVIDENCE â€” JUDICIAL NOTICE
+902.01   Judicial notice of adjudicative facts.
+902.02   Uniform judicial notice of foreign law act.
+902.03   County and municipal ordinances; administrative rules of state and federal agencies.
+
+
+Ch. 902 Note
+NOTE:  Extensive comments by the Judicial Council Committee and the Federal Advisory Committee are printed with chs. 901 to 911 in 59 Wis. 2d.  The court did not adopt the comments but ordered them printed with the rules for information purposes.
+902.01
+902.01â€ƒ
+Judicial notice of adjudicative facts. 902.01(1)
+(1)â€‚
+Scope.  This section governs only judicial notice of adjudicative facts.
+902.01(2)
+(2)â€‚Kinds of facts.  A judicially noticed fact must be one not subject to reasonable dispute in that it is any of the following:
+902.01(2)(a)
+(a)  A fact generally known within the territorial jurisdiction of the trial court.
+902.01(2)(b)
+(b)  A fact capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned.
+902.01(3)
+(3)â€‚When discretionary.  A judge or court may take judicial notice, whether requested or not.
+902.01(4)
+(4)â€‚When mandatory.  A judge or court shall take judicial notice if requested by a party and supplied with the necessary information.
+902.01(5)
+(5)â€‚Opportunity to be heard.  A party is entitled upon timely request to an opportunity to be heard as to the propriety of taking judicial notice and the tenor of the matter noticed.  In the absence of prior notification, the request may be made after judicial notice has been taken.
+902.01(6)
+(6)â€‚Time of taking notice.  Judicial notice may be taken at any stage of the proceeding.
+902.01(7)
+(7)â€‚Instructing jury.  The judge shall instruct the jury to accept as established any facts judicially noticed.
+902.01 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R23 (1973); 1999 a. 85.902.01 Annotation
+When evidence was in conflict as to whether a substance found in the defendant's possession was heroin, the judge could not take judicial notice of other sources without proper notice to the parties.  State v. Barnes, 52 Wis. 2d 82, 187 N.W.2d 845 (1971).
+902.01 Annotation
+The supreme court cannot take judicial notice of proceedings in a court other than that from which the appeal is taken.  Perkins v. State, 61 Wis. 2d 341, 212 N.W.2d 141 (1973).
+902.01 Annotation
+The supreme court declined to take judicial notice of the suggested fact that other employment of a like character was available to wrongfully suspended employees.  State ex rel. Schilling & Klingler v. Baird, 65 Wis. 2d 394, 222 N.W.2d 666 (1974).902.01 Annotation
+An affidavit on file in another case does not meet the standards regarding judicial notice of facts outside of the record.  Kornitz v. Commonwealth Land Title Ins. Co. 81 Wis. 2d 322, 260 N.W.2d 680 (1978).902.01 Annotation
+Courts may take judicial notice of the reliability of underlying principles of speed radar detection.  State v. Hanson, 85 Wis. 2d 233, 270 N.W.2d 212 (1978).902.01 Annotation
+A court properly took judicial notice of the fact that rapid consumption of 1/2 quart of liquor probably caused a girl's death.  State ex rel. Cholka v. Johnson, 96 Wis. 2d 704, 292 N.W.2d 835 (1980).902.01 Annotation
+The trial court erred by relying on its own experience in determining whether a demonstrative videotape was admissible as the judge's opinion was not part of the record or a generally known fact suitable for judicial notice.  State v. Peterson, 222 Wis. 2d 449, 588 N.W.2d 84 (Ct. App. 1998), 97-3737.902.01 Annotation
+A jury instruction under sub. (7) directing the jury to accept a judicially-noticed fact as true when applied to an element of a criminal offense eliminates the jury's opportunity to reach an independent, beyond-a-reasonable-doubt decision on that element and is constitutional error, although it is subject to harmless error analysis.  State v. Harvey, 2002 WI 93, 254 Wis. 2d 442, 647 N.W.2d 189, 00-0541.902.01 Annotation
+Judicial notice may be taken at any stage of the proceeding.  This means that an appellate court may take judicial notice when it is appropriate.  A party against whom the taking of judicial notice is sought must have a chance to object as to whether the matters are capable of indisputable proof and, therefore, subject to the taking of judicial notice.  Sisson v. Hansen Storage Company, 2008 WI App 111, 313 Wis. 2d 411, 756 N.W.2d 667, 07-1426.902.01 Annotation
+In Defense of Wisconsin's Judicial Notice Rule.  Beilin. 2003 WLR 499.
+902.02
+902.02â€ƒ
+Uniform judicial notice of foreign law act. 902.02(1)(1)â€‚
+Courts take notice.  Every court of this state shall take judicial notice of the common law and statutes of every state, territory and other jurisdiction of the United States.
+902.02(2)
+(2)â€‚Information of the court.  The court may inform itself of such laws in such manner as it may deem proper, and the court may call upon counsel to aid it in obtaining such information.
+902.02(3)
+(3)â€‚Determined by court; ruling reviewable.  The determination of such laws shall be made by the court and not by the jury, and shall be reviewable.
+902.02(4)
+(4)â€‚Evidence of foreign law.  Any party may also present to the trial court any admissible evidence of such laws, but, to enable a party to offer evidence of the law in another jurisdiction or to ask that judicial notice be taken thereof, reasonable notice shall be given to the adverse parties either in the pleadings or otherwise.
+902.02(5)
+(5)â€‚Foreign country.  The law of a jurisdiction other than those referred to in sub. (1) shall be an issue for the court, but shall not be subject to the foregoing provisions concerning judicial notice.
+902.02(6)
+(6)â€‚Interpretation.  This section shall be so interpreted as to make uniform the law of those states which enact it.
+902.02(7)
+(7)â€‚Short title.  This section may be cited as the Uniform Judicial Notice of Foreign Law Act.
+902.02 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R38 (1973); 1979 c. 89.902.03
+902.03â€ƒ
+County and municipal ordinances; administrative rules of state and federal agencies. 902.03(1)
+(1)â€‚The courts of this state, including the court of appeals and the supreme court, shall take judicial notice of:
+902.03(1)(a)
+(a)  County and municipal ordinances in those counties in which the particular court has jurisdiction; and
+902.03(1)(b)
+(b)  All rules of state agencies which have been published in the Wisconsin administrative code or register and all orders of such agencies.
+902.03(2)
+(2)â€‚The courts of this state, including the court of appeals and the supreme court, may take judicial notice, if requested by a party and supplied with the necessary information, of all rules and orders of federal agencies.
+902.03 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R40 (1973); 1977 c. 187; 1993 a. 246.902.03 Annotation
+The failure of counsel to obey a court order to produce a certified copy of a county ordinance was not reversible error.  Krauza v. Mauritz, 78 Wis. 2d 276, 254 N.W.2d 251. Down
+Down

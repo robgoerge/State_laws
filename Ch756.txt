@@ -1,0 +1,101 @@
+
+Up
+Up
+
+
+CHAPTER 756
+
+JURIES
+756.001   State policy on jury service; opportunity and obligation to serve as juror.
+756.01   Definitions.
+756.02   Juror qualifications.
+756.03   Excuse; deferral.
+756.04   Prospective juror lists; number; how compiled.
+756.05   Jury summons, when and how issued.
+756.06   Jury selection.
+756.07   Insufficient jurors.
+756.08   Oaths and affirmations.
+756.25   Juror fees and mileage.
+756.255   Leave of absence.
+756.28   Length of juror service; periods of required availability.
+756.30   Penalties.
+
+
+Ch. 756 Note
+NOTE:  See s. 805.08 and Article I, Section 7, for notes on court decisions related to jurors and jury trials.
+756.001
+756.001â€ƒ
+State policy on jury service; opportunity and obligation to serve as juror. 756.001(1)
+(1)â€‚Trial by jury is a cherished constitutional right.
+756.001(2)
+(2)â€‚Jury service is a civic duty.
+756.001(3)
+(3)â€‚No person who is qualified and able to serve as a juror may be excluded from that service in any court of this state on the basis of sex, race, color, sexual orientation as defined in s. 111.32 (13m), disability, religion, national origin, marital status, family status, lawful source of income, age or ancestry or because of a physical condition.
+756.001(4)
+(4)â€‚All persons selected for jury service shall be selected at random from the population of the area served by the circuit court.  All qualified persons shall have an equal opportunity to be considered for jury service in this state and the obligation to serve as jurors when summoned under this chapter for that purpose.  Any manual or automated method of selection that provides each qualified person with an equal probability of selection for jury service or that provides each prospective juror with an equal opportunity for assignment to a particular trial may be used.
+756.001(5)
+(5)â€‚The presiding judge of each circuit court, or, if there is none, the circuit judge designated by the chief judge to supervise the jury system, shall be responsible for administering the jury system in that court and shall discharge that duty in an efficient, equitable and cost-effective manner, in accordance with this chapter.  The clerk of circuit court, if delegated by and under the supervision of the judge responsible for administering the jury system, may select and manage juries under policies and rules established by the judges in that circuit court.
+756.001 History
+History:  1991 a. 271; Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997).Effective date note
+Judicial Council Note, 1996: Subsections (1) and (2) are based on prior s. 756.001(1). Subsection (3) implements ABA Standard 4 by expanding the nondiscrimination clause of prior s. 756.01(3) to all classes protected under the state equal rights statute, s. 101.22. Subsection (4) implements ABA Standard 3 and is based on prior s. 756.001(2). Subsection (5), based on the same prior statute, implements ABA Standard 10. [Re SCO No. 96-08 eff. 7-1-97]756.001 Annotation
+Wisconsin law does not permit a court to deliberately summon a greater number of potential jurors from some geographic areas than from others in an attempt to ensure that the racial and ethnic makeup of juries better reflects a representative cross-section of the community served by the court.  Wisconsin law requires that all qualified persons have an equal opportunity to be randomly summoned for jury service.  It does not permit a jury selection system that gives some persons greater, some lesser, opportunities to be summoned, depending on the area of the community where they live.  OAG 3-08.756.01
+756.01â€ƒ
+Definitions.  In this chapter:
+756.01(1)
+(1)â€‚"Juror" means a person summoned in compliance with this chapter or who has taken an oath or affirmation under s. 756.08 (1).
+756.01(2)
+(2)â€‚"Jury" means the jurors and alternates sworn to hear a trial.
+756.01(3)
+(3)â€‚"Jury array" means the annual list of prospective jurors in each county qualified as eligible to serve under s. 756.02.
+756.01(4)
+(4)â€‚"Jury panel" means the jurors present for voir dire in a specific case.
+756.01(5)
+(5)â€‚"Jury venire" means the jurors summoned for a date-specific term of service.
+756.01(6)
+(6)â€‚"Jury year" means the calendar year beginning January 1 and ending December 31.
+756.01 History
+History:  Sup. Ct. Order No. 08-01, 2008 WI 102, filed 7-17-08, eff. 1-1-09.756.02
+756.02â€ƒ
+Juror qualifications.  Every resident of the area served by a circuit court who is at least 18 years of age, a U.S. citizen and able to understand the English language is qualified to serve as a juror in that circuit unless that resident has been convicted of a felony and has not had his or her civil rights restored.
+756.02 History
+History:  Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997).Effective date note
+Judicial Council Note, 1996: This section, based on prior s. 756.01 (1), implements ABA Standard 4. [Re SCO No. 96-08 eff. 7-1-97]756.02 Annotation
+An ability to understand the English language is necessary in order to satisfy the statutory requirements of ss. 756.02 and 756.04. If a juror cannot meet the statutory requirements, then the entire trial process may be nothing more than an "exercise in futility." A defendant was prejudiced when a juror was allowed to serve who was not qualified under the statutes and did not have a sufficient understanding of English to meaningfully participate in the trial process.  State v. Carlson, 2003 WI 40, 261 Wis. 2d 97, 661 N.W.2d 51, 01-1136.756.02 Annotation
+That a father and son had the same first and last names, middle initial, phone number, and address, the jury summons did not include any specific identifying information, and the son appeared and served on the jury when the summons was intended for the father, did not make the son an improper juror.  State v. Turner, 2013 WI App 23, 346 Wis. 2d 229, 827 N.W.2d 654, 12-0297.756.03
+756.03â€ƒ
+Excuse; deferral. 756.03(1)(1)â€‚
+Excuse.  The court to which a person is summoned for jury service may excuse the person from jury service if the court determines that the person cannot fulfill the responsibilities of a juror.  The court shall not consider any structural limitations of a facility when making that determination.
+756.03(2)
+(2)â€‚Deferral.  The court to which a person is summoned for jury service may, upon request of that person, defer to a later date set by the court the period in which the person must serve if the court determines that service as a juror would entail undue hardship, extreme inconvenience or serious obstruction or delay in the fair and impartial administration of justice.
+756.03(3)
+(3)â€‚Clerk authorized to grant.  The judge responsible for administering the jury system in the circuit court may authorize the clerk of circuit court to grant excuses or deferrals under this section.  The authorization may limit the grounds on which the clerk of circuit court may grant the excuse or deferral and may require persons seeking an excuse or deferral to document the basis for any excuse or deferral.
+756.03 History
+History:  Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997).Effective date note
+Judicial Council Note, 1996: This proposal, implementing ABA Standard 6, repeals the concept of exclusions and exemptions under prior s. 756.02. Instead, it allows judicial excuses for persons who clearly cannot fulfill the duties of a juror and deferrals for undue hardship. Periods of required availability for jury service are set forth in s. 756.28. [Re SCO No. 96-08 eff. 7-1-97]756.03 Annotation
+Excusing and deferring prospective jurors under this section is one component of a circuit judge's obligation to administer the jury system.  The judge may delegate the authority to the clerk of circuit court under sub. (3).  The task need not be by a judge in court or with the prospective juror present in person, and may take place in advance of a particular trial.  A defendant's presence cannot be required when the judge or clerk is acting in an administrative capacity under this section.  State v. Gribble, 2001 WI App 227, 248 Wis. 2d 409, 636 N.W.2d 488, 00-1821.756.04
+756.04â€ƒ
+Prospective juror lists; number; how compiled. 756.04(2)(2)â€‚Jurors for all circuit courts shall be selected under ss. 756.04 to 756.07, subject to all of the following:
+756.04(2)(a)
+(a)  Each year, the office of the director of state courts shall compile a master list of potential jurors for use by the circuit courts of each county during the coming year.  The master list shall be compiled as described in this section.
+756.04(2)(b)
+(b)  Each year, on a date agreed upon with the office of the director of state courts, the department of transportation shall compile a list that includes the name, address, county, date of birth, race, gender, identification number and renewal date of each person residing in the state who is licensed as a motor vehicle operator under ch. 343 or who has received an identification card under s. 343.50 or 343.51, and social security number, as permitted by law and any record sharing agreement between the department of transportation and the office of the director of state courts.  The office of the director of state courts shall establish the format of the list by agreement with the department of transportation.  The department of transportation shall transmit the list to the office of the director of state courts, without charge.
+756.04(2)(c)
+(c)  The office of the director of state courts may use any of the following lists in addition to the list provided by the department of transportation under par. (b) in order to create the master list of potential jurors compiled under par. (a).  The director may each year request any of the following information from the custodians of that information:
+756.04(2)(c)1.
+1.  A list of registered voters from the elections commission.
+Effective date note
+NOTE:  Subd. 1. is shown as amended eff. 6-30-16 by 2015 Wis. Act 118.  Prior to 6-30-16 it reads:
+Effective date text
+1.  A list of registered voters from the government accountability board.
+756.04(2)(c)2.
+2.  A list of all natural persons that may have filed a state income tax return with the department of revenue.
+756.04(2)(c)3.
+3.  A list of child support payors and payees from the department of workforce development.
+756.04(2)(c)4.
+4.  A list of recipients of unemployment compensation from the department of workforce development.
+756.04(2)(c)5.
+5.  A list of residents of this state issued approvals or licenses from the department of natural resources.
+756.04(2)(d)
+(d)  If the records listed in par. (c) are requested, the director of state courts may enter into a record sharing agreement with the custodian of the records.  Any record sharing agreement shall be in writing for a prescribed period of time and shall identify data that would allow for a match of personally identifiable information on the list maintained by that custodian with personally identifiable information in the master list of potential jurors to the extent required to identify duplicate names and to determine current addresses of prospective jurors.  Any list provided under par. (c) shall contain no data other than the data provided in par. (b).  The agreement shall establish the format of the list and date of transmission of the list.
+ Down
+Down

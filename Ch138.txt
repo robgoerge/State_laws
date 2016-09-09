@@ -1,0 +1,99 @@
+
+Up
+Up
+
+
+CHAPTER 138
+
+MONEY AND RATES OF INTEREST
+138.01   Money.
+138.02   Contracts not affected.
+138.03   Judgments, how computed.
+138.04   Legal rate.
+138.041   Federal rate parity.
+138.045   Method of calculating interest.
+138.05   Maximum rate; prepayment, disclosure; corporations.
+138.051   Residential mortgage loans.
+138.052   Residential mortgage loans.
+138.053   Regulation of interest adjustment provisions.
+138.055   Variable rate contracts.
+138.056   Variable rate loans.
+138.057   Penalties.
+138.058   Reverse mortgage loans.
+138.06   Effect of usury and penalties.
+138.09   Licensed lenders.
+138.10   Pawnbrokers.
+138.12   Insurance premium finance companies.
+138.14   Payday loans.
+138.16   Title loans.
+138.20   Discrimination in granting credit or loans prohibited.
+
+
+138.01
+138.01â€ƒ
+Money.  The money of account of this state shall be the dollar, cent and mill; and all accounts in public offices, and other public accounts, and, except as provided in ss. 806.30 to 806.44, all proceedings in courts shall be kept and had in conformity to this regulation.
+138.01 History
+History:  1991 a. 236.138.02
+138.02â€ƒ
+Contracts not affected.  Nothing contained in s. 138.01 shall vitiate or affect any account, charge or entry originally made or any note, bond or other instrument expressed in any other money of account; but, except as provided in ss. 806.30 to 806.44, the same shall be reduced to dollars or parts of a dollar as hereinbefore directed in any suit thereupon.
+138.02 History
+History:  1991 a. 236.138.03
+138.03â€ƒ
+Judgments, how computed.  Except as provided in ss. 806.30 to 806.44, in all judgments or decrees rendered by any court of justice for any debt, damages or costs and in all executions issued thereon the amount shall be computed, as near as may be, in dollars and cents, rejecting smaller fractions; and no judgment or other proceeding shall be considered erroneous for such omissions.  In actions or proceedings under ss. 806.30 to 806.44, the court, in the interest of justice, may direct that all evidence submitted to the jury and the jury verdict be in U.S. dollars at a rate of exchange established by the court.  The court shall convert the jury verdict to the foreign money at that rate of exchange.
+138.03 History
+History:  1991 a. 236.138.04
+138.04â€ƒ
+Legal rate.  The rate of interest upon the loan or forbearance of any money, goods or things in action shall be $5 upon the $100 for one year and according to that rate for a greater or less sum or for a longer or a shorter time; but parties may contract for the payment and receipt of a rate of interest not exceeding the rate allowed in ss. 138.041 to 138.056, 138.09 to 138.14, 218.0101 to 218.0163, or 422.201, in which case such rate shall be clearly expressed in writing.
+138.04 History
+History:  1981 c. 45 s. 51; 1999 a. 31; 2009 a. 405.138.04 Annotation
+A creditor is entitled to interest on a liquidated claim from the time payment was due by the terms of the contract and, if no time is specified, then from the time demand was made or from commencement of the action.  Estreen v. Bluhm, 79 Wis. 2d 142, 255 N.W.2d 473 (1977).138.04 Annotation
+A merchant who first informed the customer of the 24% interest to be charged on an open account in statements of the account provided after the account was opened violated s. 422.302 (2).  The merchant was only entitled to interest under this section.  Severson Agri-Service, Inc. v. Lander, 172 Wis. 2d 269, 493 N.W.2d 230 (Ct. App. 1992).
+138.04 Annotation
+The writing expressing the interest to be charged need not be subscribed by the party charged.  Advance Concrete Forms v. Mc Cann Const.  916 F.2d 412 (1990).138.04 Annotation
+Prejudgment interest in Wisconsin personal injury cases.  Brennan.  WBB Aug. 1983.
+138.041
+138.041â€ƒ
+Federal rate parity. 138.041(1)
+(1)â€‚In order to prevent discrimination against state-chartered financial institutions with respect to interest rates, state-chartered banks, credit unions and savings banks may take, receive, reserve and charge on any loan or forbearance made on or after April 6, 1980 and before November 1, 1981, and on any renewal, refinancing, extension or modification made on or after April 6, 1980 and before November 1, 1981, of any loan or forbearance, interest at a federal rate prescribed for federally chartered banks, credit unions and savings banks, respectively, notwithstanding any other statutes.  The federal rate described in this section does not include any rate permitted under a federal law which refers to a rate limit established by a state law which does not apply to state-chartered banks, credit unions or savings banks.
+138.041(2)
+(2)â€‚In order to prevent discrimination against state-chartered financial institutions with respect to interest rates, state-chartered banks, credit unions, savings and loan associations and savings banks may take, receive, reserve and charge on any loan or forbearance made on or after November 1, 1981 and before November 1, 1984, or after October 31, 1987, and on any renewal, refinancing, extension or modification made on or after November 1, 1981 and before November 1, 1984, or after October 31, 1987, of any loan or forbearance, interest at a federal rate prescribed for federally chartered banks, credit unions, savings and loan associations and savings banks, respectively, notwithstanding any other statutes.  The federal rate described in this section does not include any rate permitted under a federal law which refers to a rate limit established by a state law which does not apply to state-chartered banks, credit unions, savings and loan associations or savings banks.
+138.041 History
+History:  1979 c. 168; 1981 c. 45; 1991 a. 221.138.045
+138.045â€ƒ
+Method of calculating interest.  Interest on any note, bond, or other instrument computed on the declining unpaid principal balance from time to time outstanding may be computed and charged on actual unpaid balances at 1/360 of the annual rate for the actual number of days outstanding if the use of this calculation method is disclosed in the note, bond, or other instrument.  This section does not apply to pawnbrokers' loans under s. 138.10.
+138.045 History
+History:  2011 a. 32.138.05
+138.05â€ƒ
+Maximum rate; prepayment, disclosure; corporations. 138.05(1)(1)â€‚Except as authorized by other statutes, no person shall, directly or indirectly, contract for, take or receive in money, goods or things in action, or in any other way, any greater sum or any greater value, for the loan or forbearance of money, goods or things in action, than:
+138.05(1)(a)
+(a)  At the rate of $12 upon $100 for one year computed upon the declining principal balance of the loan or forbearance;
+138.05(1)(b)
+(b)  With respect to loans or forbearances repayable in substantially equal weekly or monthly installments and the face amounts of which include predetermined interest charges, at the rate of $6 upon $100 for one year computed upon that portion of the original principal amount of any such loan or forbearance, not including interest charges, for the time of such loan or forbearance, disregarding part payments and the dates thereof; and
+138.05(1)(c)
+(c)  With respect to loans or forbearances repayable in installments other than of the type described in par. (b), the amount of interest may be predetermined at the rate set forth in par. (a) at the time the loan is made on the basis of the agreed rate of interest and the principal balances agreed to be outstanding and stated in the note or loan contract as an addition to the principal; provided that if any agreed balance of principal or principal and interest combined or any installment of principal or principal and interest combined is prepaid in full by cash or renewal the unearned interest shall be refunded as provided in sub. (2) (b).  In the computation of interest upon any bond, note, or other instrument or agreement, interest shall not be compounded, nor shall the interest thereon be construed to bear interest, unless an agreement to that effect is clearly expressed in writing, and signed by the party to be charged therewith.
+138.05(2)
+(2)â€‚Any loan for which the rate of interest charged exceeds $10 per $100 for one year computed upon the declining principal balance may be prepaid by the borrower at any time in whole or in part.  Upon prepayment of any such loan in full by cash, renewal or refinancing, the borrower shall be entitled to a refund of unearned interest charged which shall be determined as follows:
+138.05(2)(a)
+(a)  On any such loan which is repayable in substantially equal, successive installments at approximately equal intervals of time and the face amount of which includes predetermined interest charges, the amount of such refund shall be as great a proportion of the total interest charged as the sum of the balances scheduled to be outstanding during the full installment periods commencing with the installment date nearest the date of prepayment bears to the sum of the balances scheduled to be outstanding for all installment periods of the loan.
+138.05(2)(b)
+(b)  On any other such loan, the amount of such refund shall not be less than the difference between the interest charged and interest, at the rate contracted for, computed upon the unpaid principal balances of the loan from time to time outstanding prior to prepayment in full.
+138.05(3)
+(3)â€‚A contract to make loans or an evidence of indebtedness may provide for a rate of interest or penalty payable upon the principal amount of an extension of a loan or forbearance or upon any amount in default under a loan or forbearance which shall not exceed the rate allowed in sub. (1) (a).
+138.05(4)
+(4)â€‚Any person making a loan for which interest is agreed to be paid at a rate exceeding the rate of $10 upon $100 for one year computed upon the declining principal of the loan shall, at or prior to making such loan, deliver to the borrower a statement, which may be incorporated in a copy of the evidence of indebtedness, setting forth all of the terms of the transaction in clear and distinct language, including:
+138.05(4)(a)
+(a)  The rate of interest agreed upon in terms either of simple interest computed on the declining principal balance or of the actual interest cost in money, and
+138.05(4)(b)
+(b)  A statement that the loan may be prepaid in full or in part and that, if the loan is prepaid in full, the borrower may receive a refund of interest charged.
+138.05(5)
+(5)â€‚This section shall not apply to loans to corporations or limited liability companies.
+138.05(6)
+(6)â€‚This section does not apply to transactions governed by chs. 421 to 427 and 429 or to discounts described in s. 422.201 (8).
+138.05(7)
+(7)â€‚This section does not apply to any loan or forbearance in the amount of $150,000 or more made after May 26, 1978 unless secured by an encumbrance on a one- to four-family dwelling which the borrower uses as his or her principal place of residence.  For the purposes of this section, a loan is deemed a loan which is in the amount of $150,000 or more if:
+138.05(7)(a)
+(a)  The outstanding principal indebtedness under the loan initially exceeds $150,000; or
+138.05(7)(b)
+(b)  The parties to the loan agree that the principal indebtedness may exceed $150,000 at some time during the term of the loan and, when the agreement was made, the principal indebtedness was reasonably expected to exceed $150,000 notwithstanding the fact that less than $150,000 in the aggregate was initially or later advanced.
+ Down
+Down

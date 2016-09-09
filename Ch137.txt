@@ -1,0 +1,103 @@
+
+Up
+Up
+
+
+CHAPTER 137
+
+AUTHENTICATIONS AND ELECTRONIC TRANSACTIONS AND RECORDS
+
+SUBCHAPTER I
+
+NOTARIES AND COMMISSIONERS OF DEEDS;
+NONELECTRONIC NOTARIZATION AND
+ACKNOWLEDGEMENT
+137.01   Notaries.
+137.02   Commissioners of deeds.
+
+SUBCHAPTER II
+
+ELECTRONIC TRANSACTIONS AND RECORDS;
+ELECTRONIC NOTARIZATION AND
+ACKNOWLEDGEMENT
+137.11   Definitions.
+137.12   Application.
+137.13   Use of electronic records and electronic signatures; variation by agreement.
+137.14   Construction.
+137.15   Legal recognition of electronic records, electronic signatures, and electronic contracts.
+137.16   Provision of information in writing; presentation of records.
+137.17   Attribution and effect of electronic records and electronic signatures.
+137.18   Effect of change or error.
+137.19   Notarization and acknowledgement.
+137.20   Retention of electronic records; originals.
+137.21   Admissibility in evidence.
+137.22   Automated transactions.
+137.23   Time and place of sending and receipt.
+137.24   Transferable records.
+137.25   Submission of written documents.
+137.26   Interoperability.
+
+
+subch. I of ch. 137
+SUBCHAPTER I
+
+NOTARIES AND COMMISSIONERS OF DEEDS;
+NONELECTRONIC NOTARIZATION AND
+ACKNOWLEDGEMENT
+137.01
+137.01â€ƒ
+Notaries. 137.01(1)(1)â€‚
+Notaries public who are not attorneys. 137.01(1)(a)(a)  The secretary of financial institutions shall appoint notaries public who shall be United States residents and at least 18 years of age.  Applicants who are not attorneys shall file an application with the department of financial institutions and pay a $20 fee.
+137.01(1)(b)
+(b)  The secretary of financial institutions shall satisfy himself or herself that the applicant has the equivalent of an 8th grade education, is familiar with the duties and responsibilities of a notary public and, subject to ss. 111.321, 111.322 and 111.335, does not have an arrest or conviction record.
+137.01(1)(c)
+(c)  If an application is rejected the fee shall be returned.
+137.01(1)(d)
+(d)  Qualified applicants shall be notified by the department of financial institutions to take and file the official oath and execute and file an official bond in the sum of $500, with a surety executed by a surety company and approved by the secretary of financial institutions.
+137.01(1)(e)
+(e)  The qualified applicant shall file his or her signature, post-office address and an impression of his or her official seal, or imprint of his or her official rubber stamp with the department of financial institutions.
+137.01(1)(f)
+(f)  A certificate of appointment as a notary public for a term of 4 years stating the expiration date of the commission shall be issued to applicants who have fulfilled the requirements of this subsection.
+137.01(1)(g)
+(g)  At least 30 days before the expiration of a commission the department of financial institutions shall mail notice of the expiration date to the holder of a commission.
+137.01(1)(h)
+(h)  A notary shall be entitled to reappointment.
+137.01(1)(i)
+(i)  A notary public appointed under this subsection may not do any of the following:
+137.01(1)(i)1.
+1.  State or imply that he or she is an attorney licensed to practice law in this state.
+137.01(1)(i)2.
+2.  Solicit or accept compensation to prepare documents for or otherwise represent the interests of another person in a judicial or administrative proceeding, including a proceeding relating to immigration to the United States or U.S. citizenship.
+137.01(1)(i)3.
+3.  Solicit or accept compensation to obtain relief of any kind on behalf of another person from any officer, agent, or employee of this state, a political subdivision of this state, or the United States.
+137.01(1)(i)4.
+4.  Use the phrase "notario," "notarizaciones," "notarizamos," or "notario publico," or otherwise advertise in a language other than English on signs, pamphlets, stationery, or other written communication, by radio or television, or on the Internet his or her services as a notary public if the advertisement fails to include, in English and the language of the advertisement, all of the following:
+137.01(1)(i)4.a.
+a.  The statement, if in a written advertisement, in all capital letters and the same type size:  "I AM NOT AN ATTORNEY LICENSED TO PRACTICE LAW IN WISCONSIN AND MAY NOT GIVE LEGAL ADVICE OR ACCEPT FEES FOR LEGAL ADVICE."  If the advertisement is given orally, the statement may be modified but must include substantially the same message and be understandable.
+137.01(1)(i)4.b.
+b.  The fees that a notary public may charge under sub. (9).
+137.01(1)(j)
+(j)  The prohibitions under par. (i) 2. and 3. do not apply to a notary public who is an accredited representative, as defined in 8 CFR 292.1 (a) (4).137.01(1)(k)
+(k)  A person who violates par. (i) may be fined not more than $10,000 or imprisoned for not more than 9 months or both.  A person who commits a 2nd or subsequent violation of par. (i) may be fined not more than $10,000 or imprisoned for not more than 6 years or both.
+137.01(2)
+(2)â€‚Notaries public who are attorneys. 137.01(2)(a)(a)  Except as provided in par. (am), any United States resident who is licensed to practice law in this state is entitled to a permanent commission as a notary public upon application to the department of financial institutions and payment of a $50 fee.  The application shall include a certificate of good standing from the supreme court, the signature and post-office address of the applicant and an impression of the applicant's official seal, or imprint of the applicant's official rubber stamp.
+137.01(2)(am)
+(am)  If a United States resident has his or her license to practice law in this state suspended or revoked, upon reinstatement of his or her license to practice law in this state, the person may be entitled to receive a certificate of appointment as a notary public for a term of 4 years.  An eligible notary appointed under this paragraph is entitled to reappointment for 4-year increments.  At least 30 days before the expiration of a commission under this paragraph the department of financial institutions shall mail notice of the expiration date to the holder of the commission.
+137.01(2)(b)
+(b)  The secretary of financial institutions shall issue a certificate of appointment as a notary public to persons who qualify under the requirements of this subsection.  The certificate shall state that the notary commission is permanent or is for 4 years.
+137.01(2)(c)
+(c)  The supreme court shall file with the department of financial institutions notice of the surrender, suspension or revocation of the license to practice law of any attorney who holds a permanent commission as a notary public.  Such notice shall be deemed a revocation of said commission.
+137.01(3)
+(3)â€‚Notarial seal or stamp. 137.01(3)(a)(a)  Except as authorized in s. 137.19, every notary public shall provide an engraved official seal which makes a distinct and legible impression or official rubber stamp which makes a distinct and legible imprint on paper.  The impression of the seal or the imprint of the rubber stamp shall state only the following:  "Notary Public," "State of Wisconsin" and the name of the notary.  But any notarial seal in use on August 1, 1959, shall be considered in compliance.
+137.01(3)(b)
+(b)  The impression of the notarial seal upon any instrument or writing or upon wafer, wax or other adhesive substance and affixed to any instrument or writing shall be deemed an affixation of the seal, and the imprint of the notarial rubber stamp upon any instrument or writing shall be deemed an affixation of the rubber stamp.
+137.01(4)
+(4)â€‚Attestation. 137.01(4)(a)(a)  Every official act of a notary public shall be attested by the notary public's written signature or electronic signature, as defined in s. 137.11 (8).
+137.01(4)(b)
+(b)  Except as authorized in s. 137.19, all certificates of acknowledgments of deeds and other conveyances, or any written instrument required or authorized by law to be acknowledged or sworn to before any notary public, within this state, shall be attested by a clear impression of the official seal or imprint of the rubber stamp of said officer, and in addition thereto shall be written or stamped either the day, month and year when the commission of said notary public will expire, or that such commission is permanent.
+137.01(4)(c)
+(c)  The official certificate of any notary public, when attested and completed in the manner provided by this subsection, shall be presumptive evidence in all cases, and in all courts of the state, of the facts therein stated, in cases where by law a notary public is authorized to certify such facts.
+137.01(5)
+(5)â€‚Powers.  Notaries public have power to act throughout the state.  Notaries public have power to demand acceptance of foreign and inland bills of exchange and payment thereof, and payment of promissory notes, and may protest the same for nonacceptance or nonpayment, may administer oaths, take depositions and acknowledgments of deeds, and perform such other duties as by the law of nations, or according to commercial usage, may be exercised and performed by notaries public.
+ Down
+Down

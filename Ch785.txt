@@ -1,0 +1,100 @@
+
+Up
+Up
+
+
+CHAPTER 785
+
+CONTEMPT OF COURT
+785.01   Definitions.
+785.02   Power of court to punish for contempt of court.
+785.03   Procedure.
+785.04   Sanctions authorized.
+785.05   Limitation on imprisonment.
+785.06   Court commissioners, municipal courts and administrative agencies.
+785.07   Contempt orders imposing confinement.
+
+
+Ch. 785 Note
+NOTE:  Chapter 257, laws of 1979, which repealed and recreated this chapter, contains explanatory notes.
+785.01
+785.01â€ƒ
+Definitions.  In this chapter:
+785.01(1)
+(1)â€‚"Contempt of court" means intentional:
+785.01(1)(a)
+(a)  Misconduct in the presence of the court which interferes with a court proceeding or with the administration of justice, or which impairs the respect due the court;
+785.01(1)(b)
+(b)  Disobedience, resistance or obstruction of the authority, process or order of a court;
+785.01(1)(bm)
+(bm)  Violation of any provision of s. 767.117 (1);
+785.01(1)(br)
+(br)  Violation of an order under s. 813.1285 (4) (b) 2.;
+785.01(1)(c)
+(c)  Refusal as a witness to appear, be sworn or answer a question; or
+785.01(1)(d)
+(d)  Refusal to produce a record, document or other object.
+785.01(2)
+(2)â€‚"Punitive sanction" means a sanction imposed to punish a past contempt of court for the purpose of upholding the authority of the court.
+785.01(3)
+(3)â€‚"Remedial sanction" means a sanction imposed for the purpose of terminating a continuing contempt of court.
+785.01 History
+History:  1979 c. 257; 1983 a. 189; 1993 a. 78; 2005 a. 443 s. 265; 2013 a. 321.785.01 Annotation
+When a father ordered to pay support and annually provide financial records to his ex-spouse only provided the records the day before a contempt hearing, it was no longer possible to produce the information in a timely manner as was required.  The circumstances made full compliance with the court's order impossible, and partial compliance with the court's order was ineffectual.  Unless the court is able to fashion an alternative purge condition to compensate the mother and children for their loss, they and the court will be defeated.  Frisch v. Henrichs, 2007 WI 102, 304 Wis. 2d 1, 736 N.W.2d 85, 05-0534.785.01 Annotation
+There need not be a specific injunction against a particular action to apply contempt sanctions to an order.  An order that requires specific conduct, either to do, or to refrain from, specific actions, can be enforced by contempt.  Neither sub. (1) nor case law requires that an order contain the specific term "enjoin" or "injunction" to allow the court to use contempt powers to enforce its orders, nor is the possibility of a separate civil action a bar to use of contempt to enforce a court order.  Carney v. CNH Health & Welfare Plan, 2007 WI App 205, 305 Wis. 2d 443, 740 N.W.2d 625, 06-1529.785.01 Annotation
+To allow a successor corporation to defend contempt based upon its agent's ignorance of court orders in the possession of the successor corporation and binding on both the predecessor and successor corporations would make a mockery of court orders.  Understandable sympathy for an individual agent, when the agent acts in good faith, but without knowledge of what is in the files the agent is charged to administer, would permit easy corporate avoidance of responsibility by simply hiring a new employee with no actual knowledge of the order.  Carney v. CNH Health & Welfare Plan, 2007 WI App 205, 305 Wis. 2d 443, 740 N.W.2d 625, 06-1529.785.02
+785.02â€ƒ
+Power of court to punish for contempt of court.  A court of record may impose a remedial or punitive sanction for contempt of court under this chapter.
+785.02 History
+History:  1979 c. 257.785.02 Annotation
+A juvenile was improperly held in contempt of court when the court did not sufficiently consider less restrictive alternative dispositions.  A juvenile may be found in contempt and incarcerated subject to enumerated conditions.  In Interest of D.L.D. 110 Wis. 2d 168, 327 N.W.2d 682 (1983).785.02 Annotation
+A contemnor whose liberty interests are at risk must be given an opportunity to show the court that the failure to comply with purge conditions was not willful and intentional.  V.J.H. v. C.A.B. 163 Wis. 2d 833, 472 N.W.2d 939 (Ct. App. 1991).785.02 Annotation
+Necessary conditions for imposition of summary contempt are enumerated.  Extreme intoxication of a criminal defendant at a sentencing hearing was properly punished by summary contempt.  Shepard v. Outagamie County Circuit Court, 189 Wis. 2d 279, 525 N.W.2d 769 (Ct. App. 1994).785.02 Annotation
+When dealing with a payment as a remedial sanction to compensate a party for a loss suffered as a result of contempt, it is possible for there to be a purge condition without a sanction or for the purge condition to be the same as the sanction.  Frisch v. Henrichs, 2007 WI 102, 304 Wis. 2d 1, 736 N.W.2d 85, 05-0534.785.02 Annotation
+Courts may hold juveniles in contempt of court.  The limited circumstances under which the sanction of imprisonment may be imposed is discussed.  70 Atty. Gen. 98.
+785.02 Annotation
+Contempt of court:  Wisconsin's erasure of the blurred distinction between civil and criminal contempt.  66 MLR 369 (1983).
+785.03
+785.03â€ƒ
+Procedure. 785.03(1)(1)â€‚
+Nonsummary procedure. 785.03(1)(a)(a) Remedial sanction.  A person aggrieved by a contempt of court may seek imposition of a remedial sanction for the contempt by filing a motion for that purpose in the proceeding to which the contempt is related.  The court, after notice and hearing, may impose a remedial sanction authorized by this chapter.
+785.03(1)(b)
+(b) 
+Punitive sanction.  The district attorney of a county, the attorney general or a special prosecutor appointed by the court may seek the imposition of a punitive sanction by issuing a complaint charging a person with contempt of court and reciting the sanction sought to be imposed.  The district attorney, attorney general or special prosecutor may issue the complaint on his or her own initiative or on the request of a party to an action or proceeding in a court or of the judge presiding in an action or proceeding.  The complaint shall be processed under chs. 967 to 973.  If the contempt alleged involves disrespect to or criticism of a judge, that judge is disqualified from presiding at the trial of the contempt unless the person charged consents to the judge presiding at the trial.
+785.03(1)(c)
+(c) 
+Joint hearing and trial.  The court may hold a hearing on a motion for a remedial sanction jointly with a trial on a complaint seeking a punitive sanction.
+785.03(2)
+(2)â€‚Summary procedure.  The judge presiding in an action or proceeding may impose a punitive sanction upon a person who commits a contempt of court in the actual presence of the court.  The judge shall impose the punitive sanction immediately after the contempt of court and only for the purpose of preserving order in the court and protecting the authority and dignity of the court.
+785.03(3)
+(3)â€‚Appeal.  A defendant aggrieved by a determination under this chapter may appeal in accordance with s. 809.30 if the proceeding was prosecuted by the state.
+785.03 History
+History:  1979 c. 257; 1983 a. 377.785.03 Annotation
+Juvenile courts must follow the procedures in ch. 785 when exercising contempt powers.  Contempt Finding Against B.L.P. 118 Wis. 2d 33, 345 N.W.2d 510 (Ct. App. 1984).
+785.03 Annotation
+A contempt proceeding prosecuted by a family court commissioner under s. 767.29 (1) [now s. 767.57 (1)] was "prosecuted by the state" within the meaning of sub. (3).  Biel v. Biel, 130 Wis. 2d 335, 387 N.W.2d 295 (Ct. App. 1986).785.03 Annotation
+A contemnor has the right to allocution in summary contempt proceedings.  Contempt in State v. Dewerth, 139 Wis. 2d 544, 407 N.W.2d 862 (1987).785.03 Annotation
+When a trial court had no personal knowledge of the circumstances surrounding a subpoenaed witness's failure to appear, summary procedures were inappropriate.  Matter of Contempt in State v. Levin, 146 Wis. 2d 166, 430 N.W.2d 718 (Ct. App. 1988).
+785.03 Annotation
+A summary contempt proceeding is not "prosecuted by the state" and an appeal is pursuant to s. 808.04 (1).  Matter of Contempt in State v. Simmons, 150 Wis. 2d 178, 441 N.W.2d 308 (Ct. App. 1989).785.03 Annotation
+An attorney's tardiness is not contempt committed in the actual presence of the court.  Summary procedures under sub. (2) are unavailable.  Gower v. Marinette County Circuit Court, 154 Wis. 2d 1, 452 N.W.2d 354 (1990).785.03 Annotation
+A sentence requiring imprisonment for a definite period of time without the possibility of purging through compliance with a court order is permitted only via punitive sanction proceedings.  State ex rel. N.A. v. G.S., 156 Wis. 2d 338, 456 N.W.2d 867 (Ct. App. 1990).
+785.03 Annotation
+Defense counsel's audible remark, "ridiculous," uttered upon entry of the sentence against her client sufficiently impinged on the court's ability to discharge its duties.  Summary contempt was warranted, but failure to allow allocution rendered the order unenforceable.  Olivetto v. Crawford County Circuit Court, 194 Wis. 2d 418, 533 N.W.2d 819 (1995).785.03 Annotation
+A remedial sanction must be purgeable.  A punitive sanction need not be purgeable but may only be imposed after provision of a due process by proceeding under sub. (1) (b).  In re Paternity of Cy C. J. 196 Wis. 2d 964, 539 N.W.2d 703 (Ct. App. 1995), 94-3375.785.03 Annotation
+A nonsummary contempt motion is a part of the underlying action from which it arises.  The time for requesting judicial substitution runs from the commencement of the action, not from receipt of notice of the contempt proceeding.  James L. J. v. Walworth County Circuit Court, 200 Wis. 2d 496, 546 N.W.2d 460 (1996), 94-2043.785.03 Annotation
+When a defendant's liberty is threatened in a remedial contempt action, the court must advise the defendant of the right to appointed counsel if the defendant is indigent.  The circuit court must initiate a colloquy clearly conveying the right to the defendant and inquiring whether the defendant believes himself or herself indigent.  State v. Pultz, 206 Wis. 2d 112, 556 N.W.2d 708 (1996), 94-2806.785.03 Annotation
+Because a guardian ad litem's allegedly contumacious act or omission had nothing to do with the violation of a pretrial, scheduling, or procedural order, the circuit court's authority to sanction the guardian ad litem for noncompliance with its substantive order directing the disposition of a minors' settlement proceeds was more firmly grounded in sub. (1) (a) rather than s. 805.03.  Reed v. Luebke, 2003 WI App 207, 267 Wis. 2d 596, 671 N.W.2d 304, 02-2211.785.03 Annotation
+Remedial sanctions under sub. (1) (a) are sanctions imposed for the purpose of terminating a continuing contempt of court.  For a remedial sanction to be entertained, there must be a motion to the court by an aggrieved person other than the trial court.  Upon the filing of a motion seeking remedial sanctions for contempt, an on-the-record hearing must be held for due process purposes and the evidence must support findings that the contemnor engaged in intentional disobedience, resistance, or obstruction of the authority, process, or order of a court.  Reed v. Luebke, 2003 WI App 207, 267 Wis. 2d 596, 671 N.W.2d 304, 02-2211.785.04
+785.04â€ƒ
+Sanctions authorized. 785.04(1)
+(1)â€‚
+Remedial sanction.  A court may impose one or more of the following remedial sanctions:
+785.04(1)(a)
+(a)  Payment of a sum of money sufficient to compensate a party for a loss or injury suffered by the party as the result of a contempt of court.
+785.04(1)(b)
+(b)  Imprisonment if the contempt of court is of a type included in s. 785.01 (1) (b), (bm), (c) or (d).  The imprisonment may extend only so long as the person is committing the contempt of court or 6 months, whichever is the shorter period.
+785.04(1)(c)
+(c)  A forfeiture not to exceed $2,000 for each day the contempt of court continues.
+ Down
+Down

@@ -1,0 +1,100 @@
+
+Up
+Up
+
+
+CHAPTER 201
+
+SECURITIES OF PUBLIC SERVICE CORPORATIONS
+201.01   Definitions.
+201.02   Power of alienation, state control.
+201.03   Issue of securities.
+201.04   Consideration for securities.
+201.05   Securities.
+201.06   Certificate of authority, impounding securities.
+201.07   Securities accounted for.
+201.08   Court review.
+201.09   Penalties.
+201.10   Fees for authority to issue securities, expenses.
+201.11   Impaired capital.
+201.12   Judicial sale of corporation, reorganization.
+201.13   Stock.
+201.14   Validation of securities issued without certificate.
+
+
+Ch. 201 Cross-reference
+Cross-reference:  See also ch. PSC 108, Wis. adm. code.201.01
+201.01â€ƒ
+Definitions.  In this chapter, unless the context otherwise requires:
+201.01(1)
+(1)â€‚"Commission" means the office of the commissioner of railroads in the case of water carriers and the public service commission in the case of other public service corporations.
+201.01(2)
+(2)â€‚"Public service corporation" means and embraces every corporation, except municipalities and other political subdivisions, which is a public utility as defined in s. 196.01, and every corporation which is a water carrier as defined in s. 195.02, but shall not include a public utility corporation receiving an annual gross revenue of less than $1,000 for the calendar year next preceding the issuance of any securities by it.  "Public service corporation" includes a holding company, as defined under s. 196.795 (1) (h), which is a public utility, as defined under s. 196.01 (5).  "Public service corporation" does not include a telecommunications provider, as defined in s. 196.01 (8p).  "Public service corporation" does not include any other holding company unless the holding company was formed after November 28, 1985, and unless the commission has determined, under s. 196.795 (7) (a), that each nonutility affiliate, as defined under s. 196.795 (1) (j), does not and cannot reasonably be expected to do at least one of the items specified in s. 196.795 (7) (a).  "Public service corporation" does not include a company, as defined in s. 196.795 (1) (f), which owns, operates, manages or controls a telecommunications provider, as defined in s. 196.01 (8p), unless such company also owns, operates, manages or controls a public utility which is not a telecommunications provider.  "Public service corporation" does not include a transmission company, as defined in s. 196.485 (1) (ge).
+201.01(3)
+(3)â€‚"Securities" means capital stock and evidences of indebtedness of a public service corporation, but do not include any of the following:
+201.01(3)(a)
+(a)  Any obligation of a public service corporation which is not a public utility as defined in the federal Power Act, falling due one year or less after its date and bearing date not later than the day of sale.
+201.01(3)(b)
+(b)  Any evidence of indebtedness of a public service corporation which is a public utility as defined in the federal Power Act, the issuance, renewal or assumption of which is exempt from section 204 (a) of the federal Power Act by the provisions of section 204 (e) thereof.
+201.01(3)(c)
+(c)  Any obligation issued to the United States of America in connection with loans for rural telecommunications facilities made pursuant to the Rural Electrification Act of 1936, as amended.
+201.01(3)(d)
+(d)  Any securities issued by a corporation organized under ch. 185 or 193 for the purpose of furnishing telecommunications service in rural areas.
+201.01(3)(e)
+(e)  Any environmental trust bonds issued pursuant to a financing order of the commission under s. 196.027 (2).
+201.01 History
+History:  1971 c. 164 s. 88; 1977 c. 29; 1981 c. 347 s. 80 (2); 1983 a. 189; 1985 a. 79; 1985 a. 297 ss. 13, 76; 1993 a. 16, 123, 496, 1997 a. 140 s. 11; Stats. 1997 s. 200.01; 1999 a. 9; 1999 a. 150 s. 653; Stats. 1999 s. 201.01; 2003 a. 152; 2005 a. 179, 441; 2011 a. 22.201.01 Annotation
+A contract by a utility for the purchase of all of the stock of a corporation in installments over a period of years is not a "security." Wisconsin Southern Gas Co. v. PSC, 57 Wis. 2d 643, 205 N.W.2d 403 (1973).201.01 Annotation
+Sub. (2) does not violate the interstate commerce clause of the U. S. constitution.  Alliant Energy Corporation v. Bie, 330 F.3d 904 (2003).201.02
+201.02â€ƒ
+Power of alienation, state control.  The power to create liens or mortgages on corporate property by public service corporations in this state, or to deed such property in trust, or to issue capital stock, is a special privilege, the right of supervision, regulation, restriction and control of which shall be vested in the state, and such power shall be exercised according to the provisions of these statutes.
+201.02 History
+History:  1997 a. 140 s. 11; Stats. 1997 s. 200.02; 1999 a. 150 s. 653; Stats. 1999 s. 201.02.
+201.03
+201.03â€ƒ
+Issue of securities. 201.03(1)(1)â€‚No securities shall be issued by any public service corporation until it shall first have obtained from the commission, and recorded upon its books a certificate authorizing such issue; and the commission shall not authorize the issuance of securities for any purposes which are not proper corporate purposes, or in an amount greater than is reasonably necessary for such corporate purposes, having in view the immediate requirements of the corporation and its prospective requirements over a reasonable period in the future, and other relevant considerations.
+201.03(2)
+(2)â€‚All securities issued in violation of any of the provisions of this chapter shall be void.
+201.03 History
+History:  1997 a. 140 s. 11; Stats. 1997 s. 200.03; 1999 a. 150 s. 653; Stats. 1999 s. 201.03.
+201.03 Cross-reference
+Cross-reference:  See also ch. PSC 108, Wis. adm. code.201.03 Annotation
+Securities valid when issued will not be voided by sub. (2) if the issuance has not been stayed.  Wisconsin Electric Power Co. v. Bardwell, 71 Wis. 2d 718, 239 N.W.2d 78 (1976).201.03 Annotation
+Sub. (1) does not violate the interstate commerce clause of the U. S. constitution.  Alliant Energy Corporation v. Bie, 330 F.3d 904 (2003).201.04
+201.04â€ƒ
+Consideration for securities. 201.04(1)
+(1)â€‚No securities shall be issued by any public service corporation except for money, property or services actually received by it.  The amount of money, and the value of the property or the services to be so received shall be:
+201.04(1)(a)
+(a)  In case of stock having a par value, not less than the par value thereof;
+201.04(1)(b)
+(b)  In case of stock having no par value, not less than the amount specified in the commission's certificate of authority as the selling price of the stock; and
+201.04(1)(c)
+(c)  In case of evidences of indebtedness, a sum that the commission determines to be a reasonable price, but in any event not less than 75% of their face value.
+201.04(2)
+(2)â€‚The limitations of this section shall not apply to the sale of evidences of indebtedness of a public service corporation by way of enforcement of a pledge of the evidences of indebtedness, made by the corporation pursuant to a certificate of authority issued by the commission, as security for lawful indebtedness of the corporation; but in all such cases the instrument of pledge shall contain a provision to the effect that none of the pledged securities shall be sold or become the absolute property of the pledgee, either directly or indirectly, except at public sale, notice whereof shall be published as a class 3 notice, under ch. 985, in the place where the sale shall take place, and further to the effect that the sale shall not be made below the price fixed therefor by the commission in its certificate authorizing the pledging of the securities.
+201.04 History
+History:  1995 a. 225; 1997 a. 140 s. 11; Stats. 1997 s. 200.04; 1999 a. 150 s. 653; Stats. 1999 s. 201.04.
+201.05
+201.05â€ƒ
+Securities. 201.05(1)(1)â€‚
+Application to issue.  Any public service corporation desiring to issue securities shall file with the commission an application verified by its president or vice president and its secretary or assistant secretary or by the signers of its articles of organization if it has not yet elected officers, setting forth:
+201.05(1)(a)
+(a)  The amount and character of the proposed securities;
+201.05(1)(b)
+(b)  The purposes for which they are to be issued;
+201.05(1)(c)
+(c)  The terms on which they are to be issued, including a detailed description and a detailed statement of the value of any property or services that are to be received in full or partial payment therefor, and of any property or services already received by the corporation, the cost of which is to be reimbursed to the corporation by the proceeds of such securities; and
+201.05(1)(d)
+(d)  A statement of the assets and liabilities of the corporation as of the most recent available date, together with such further financial information as the commission may require.
+201.05(2)
+(2)â€‚Hearings and inquiries.  In order to determine whether the proposed issue complies with the provisions of this chapter, the commission may make such inquiry or investigation, hold such hearings, and examine such witnesses, books, papers, documents or contracts, as it may deem material.  It shall determine the value of any property or services for which the securities, in whole or in part, are to be issued.  It may also make a valuation, in detail, of all property of the corporation and may determine the full amount of its liabilities if deemed pertinent.
+201.05(3)
+(3)â€‚Valuation of franchises.  In determining the value of property under this chapter, no franchise to be a corporation and no franchise or privilege granted to a corporation shall be appraised at more than the sum paid therefor to the state or municipality granting the same.
+201.05(4)
+(4)â€‚Classes proportionate.  The amount of securities of each class which any public service corporation may issue shall bear a reasonable proportion to each other and to the value of the property, due consideration being given to the nature of the business of the corporation, its credit and prospects, the possibility that the value of the property may change from time to time, the effect which such issue will have upon the management and operation of the corporation by reason of the relative amount of financial interest which the various classes of stockholders will have in the corporation, and other considerations deemed relevant by the commission.  The provisions of this subsection shall not apply to common stock issued by a public service corporation which has issued or proposes to issue its notes, bonds or other evidences of indebtedness to the United States of America in connection with loans for rural telecommunications facilities made pursuant to the rural electrification act of 1936, as amended.
+201.05 History
+History:  1985 a. 297 s. 76; 1985 a. 332; 1997 a. 140 s. 11; Stats. 1997 s. 200.05; 1999 a. 150 s. 653; Stats. 1999 s. 201.05.201.06
+201.06â€ƒ
+Certificate of authority, impounding securities. 201.06(1)(1)â€‚ 201.06(1)(a)(a)  Upon the conclusion of its investigation, if the commission shall find that the proposed issue complies with the provisions of this chapter and that the financial condition, plan of operation and proposed undertakings of the corporation will afford reasonable protection to purchasers of the securities to be issued, the commission shall issue to the corporation a certificate of authority stating all of the following:
+ Down
+Down

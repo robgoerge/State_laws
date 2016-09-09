@@ -1,0 +1,110 @@
+
+Up
+Up
+
+
+CHAPTER 909
+
+EVIDENCE â€” AUTHENTICATION AND IDENTIFICATION
+909.01   General provision.
+909.015   General provision; illustrations.
+909.02   Self-authentication.
+909.03   Subscribing witness' testimony unnecessary.
+
+
+Ch. 909 Note
+NOTE:  Extensive comments by the Judicial Council Committee and the Federal Advisory Committee are printed with chs. 901 to 911 in 59 Wis. 2d.  The court did not adopt the comments but ordered them printed with the rules for information purposes.
+909.01
+909.01â€ƒ
+General provision.  The requirements of authentication or identification as a condition precedent to admissibility are satisfied by evidence sufficient to support a finding that the matter in question is what its proponent claims.
+909.01 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R329 (1973); 1975 c. 41.909.01 Annotation
+Unauthenticated ledger and signature cards bearing the entry "P.O.D. to (plaintiff)" were not competent evidence of the decedent's intent to make a savings and loan account payable on death to the plaintiff.  Bruckner v. Prairie Fed. Savings & Loan Association, 81 Wis. 2d 215, 260 N.W.2d 256 (1977).909.01 Annotation
+Before a demonstrative videotape may be admitted, there must be a foundation that it is a fair and accurate reproduction of what was seen and that it was produced under conditions reasonably similar to conditions of the actual event.  Even with the foundation established, the evidence may be excluded on a finding that its probative value is outweighed by its prejudicial effect.  State v. Peterson, 222 Wis. 2d 449, 588 N.W.2d 84 (Ct. App. 1998), 97-3737.909.01 Annotation
+Computer-generated animation used as a demonstrative exhibit to show the scene and events of an alleged crime is not exempt from longstanding foundation requirements.  Demonstrative computer-generated animation should be introduced in conjunction with the witness's testimony it seeks to clarify, as any diagram or photo intended to clarify a lay witness's testimony would be introduced.  In this case, the animation was testified to by the animator and not by any witness and was nothing more than bits and pieces from each of the state's witnesses that, when mixed together, effectively represented the animator's own version of what occurred at the time and place in question.  State v. Denton, 2009 WI App 78, 319 Wis. 2d 718, 768 N.W.2d 250, 07-2825.909.01 Annotation
+A court should not afford a presumption of accuracy to a particular electronic monitoring device (EMD) report or EMD until the state has put forth evidence regarding the installation of the specific device and testimony as to its accuracy and reliability by a department of corrections employee familiar with its operation.  Consequently, the state is permitted to authenticate and lay a foundation for an EMD report by providing testimony describing the electronic monitoring system and the process by which the daily summary reports are generated and showing that this process produces an accurate result.  State v. Kandutsch, 2011 WI 78, 336 Wis. 2d 478, 799 N.W.2d 865, 09-1351.909.01 Annotation
+Authentication does not require proving that the documents are incontrovertibly what they purport to be, but rather authentication requires presenting evidence sufficient to support a finding that the documents are what they purport to be.  Horak v. Building Services Industrial Sales Company, 2012 WI App 54, 329 Wis. 2d 240, 815 N.W.2d 400, 11-0414.909.015
+909.015â€ƒ
+General provision; illustrations.  By way of illustration only, and not by way of limitation, the following are examples of authentication or identification conforming with the requirements of s. 909.01:
+909.015(1)
+(1)â€‚Testimony of witness with knowledge.  Testimony of a witness with knowledge that a matter is what it is claimed to be.
+909.015(2)
+(2)â€‚Nonexpert opinion on handwriting.  Nonexpert opinion as to the genuineness of handwriting, based upon familiarity not acquired for purposes of the litigation.
+909.015(3)
+(3)â€‚Comparison by trier of fact or expert witness.  Comparison by the trier of fact or by expert witnesses with specimens which have been authenticated.
+909.015(4)
+(4)â€‚Distinctive characteristics and the like.  Appearance, contents, substance, internal patterns, or other distinctive characteristics, taken in conjunction with circumstances.
+909.015(5)
+(5)â€‚Voice identification.  Identification of a voice, whether heard firsthand or through mechanical or electronic transmission or recording, by opinion based upon hearing the voice at any time under circumstances connecting it with the alleged speaker.
+909.015(6)
+(6)â€‚Telephone conversations.  Telephone conversations, by evidence that a call was made to the number assigned at the time by the telecommunications company to a particular person or business, if:
+909.015(6)(a)
+(a)  In the case of a person, circumstances, including self-identification, show the person answering to be the one called; or
+909.015(6)(b)
+(b)  In the case of a business, the call was made to a place of business and the conversation related to business reasonably transacted over the telephone.
+909.015(7)
+(7)â€‚Public records or reports.  Evidence that a writing authorized by law to be recorded or filed and in fact recorded or filed in a public office, or a purported public record, report, statement, or data compilation, in any form, is from the public office where items of this nature are kept.
+909.015(8)
+(8)â€‚Ancient documents or data compilations.  Evidence that a document or data compilation, in any form:
+909.015(8)(a)
+(a)  Is in a condition that creates no suspicion concerning its authenticity;
+909.015(8)(b)
+(b)  Was in a place where it, if authentic, would likely be; and
+909.015(8)(c)
+(c)  Has been in existence 20 years or more at the time it is offered.
+909.015(9)
+(9)â€‚Process or system.  Evidence describing a process or system used to produce a result and showing that the process or system produces an accurate result.
+909.015(10)
+(10)â€‚Methods provided by statute or rule.  Any method of authentication or identification provided by statute or by other rules adopted by the supreme court.
+909.015 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R332 (1973); 1985 a. 297; 1999 a. 85.909.015 Annotation
+Alleged statements of self-identification made in a phone call and in personal contact may not themselves be used to identify the speakers.  Nischke v. Farmers & Merchants Bank, 187 Wis. 2d 96, 522 N.W.2d 542 (Ct. App. 1994).909.015 Annotation
+Tapes are properly identified and authenticated when a party to the recorded conversation identifies the defendant's voice and testifies that the tapes accurately depict the conversation.  State v. Curtis, 218 Wis. 2d 550, 582 N.W.2d 409 (Ct. App. 1998), 96-2884.909.015 Annotation
+Thinking Outside the "Business Records" Box:  Evidentiary Foundations for Computer Records.  O'Shea.  Wis. Law. Feb. 2008.
+909.02
+909.02â€ƒ
+Self-authentication.  Extrinsic evidence of authenticity as a condition precedent to admissibility is not required with respect to any of the following:
+909.02(1)
+(1)â€‚Public documents under seal.  A document bearing a seal purporting to be that of the United States, or of any state, district, commonwealth, territory, or insular possession thereof, or the Panama Canal Zone, or the Trust Territory of the Pacific Islands, or of a political subdivision, department, officer or agency thereof, and a signature purporting to be an attestation or execution.
+909.02(2)
+(2)â€‚Public documents not under the seal.  A document purporting to bear the signature in the official capacity of an officer or employee of any entity included in sub. (1), having no seal, if a public officer having a seal and having official duties in the district or political subdivision of the officer or employee certifies under seal that the signer has the official capacity and that the signature is genuine.
+909.02(3)
+(3)â€‚Public documents of foreign countries.  A document purporting to be executed or attested in his or her official capacity by a person authorized by the laws of a foreign country to make the execution or attestation, and accompanied by a final certification as to the genuineness of the signature and official position of the executing or attesting person, or of any foreign official whose certificate of genuineness of signature and official position relates to the execution or attestation or is in a chain of certificates of genuineness of signature and official position relating to the execution or attestation.  A final certification may be made by a secretary of embassy or legation, consul general, consul, vice consul, or consular agent of the United States, or a diplomatic or consular official of the foreign country assigned or accredited to the United States.  If reasonable opportunity has been given to all parties to investigate the authenticity and accuracy of official documents, the judge may, for good cause shown, order that they be treated as presumptively authentic without final certification or permit them to be evidenced by an attested summary with or without final certification.
+909.02(4)
+(4)â€‚Certified copies of public records.  A copy of an official record or report or entry therein, or of a document authorized by law to be recorded or filed and actually recorded or filed in a public office, including data compilations in any form, certified as correct by the custodian or other person authorized to make the certification, by certificate complying with sub. (1), (2) or (3) or complying with any statute or rule adopted by the supreme court, or, with respect to records maintained by the department of transportation under s. 110.20 or chs. 194, 218, 341 to 343, 345, or 348, certified electronically in any manner determined by the department of transportation to conform with the requirements of s. 909.01.
+909.02(5)
+(5)â€‚Official publications.  Books, pamphlets or other publications purporting to be issued by public authority.
+909.02(6)
+(6)â€‚Newspapers and periodicals.  Printed materials purporting to be newspapers or periodicals.
+909.02(7)
+(7)â€‚Trade inscriptions and the like.  Inscriptions, signs, tags or labels purporting to have been affixed in the course of business and indicating ownership, control or origin.
+909.02(8)
+(8)â€‚Acknowledged and authenticated documents.  Documents accompanied by a certificate of acknowledgment under the hand and seal or rubber stamp of a notary public or other person authorized by law to take acknowledgments or any public officer entitled by virtue of public office to administer oaths or authenticated or acknowledged as otherwise authorized by statute.
+909.02(9)
+(9)â€‚Commercial paper and related documents.  Commercial paper, signatures thereon, and documents relating thereto to the extent provided by chs. 401 to 411.
+909.02(10)
+(10)â€‚Statutory rules.  Any signature, document or other matter declared by statute to be presumptively or prima facie genuine or authentic.
+909.02(11)
+(11)â€‚Patient health care records.  Records served upon or made available to all parties under s. 908.03 (6m).
+909.02(12)
+(12)â€‚Certified domestic records of regularly conducted activity. 909.02(12)(a)(a)  The original or a duplicate of a domestic record of regularly conducted activity that would be admissible under s. 908.03 (6) if accompanied by a written certification of its custodian or other qualified person, in a manner complying with any statute or rule adopted by the supreme court, certifying all of the following:
+909.02(12)(a)1.
+1.  That the record was made at or near the time of the occurrence of the matters set forth by, or from information transmitted by, a person with knowledge of those matters.
+909.02(12)(a)2.
+2.  That the record was kept in the course of the regularly conducted activity.
+909.02(12)(a)3.
+3.  That the record was made of the regularly conducted activity as a regular practice.
+909.02(12)(b)
+(b)  A party intending to offer a record into evidence under par. (a) must provide written notice of that intention to all adverse parties and must make the record and certification available for inspection sufficiently in advance of the offer of the record and certification into evidence to provide an adverse party with a fair opportunity to challenge the record and certification.
+909.02(13)
+(13)â€‚Certified foreign records of regularly conducted activity. 909.02(13)(a)(a)  The original or a duplicate of a foreign record of regularly conducted activity that would be admissible under s. 908.03 (6) if accompanied by a written declaration by its custodian or other qualified person certifying all of the following:
+909.02(13)(a)1.
+1.  That the record was made at or near the time of the occurrence of the matters set forth by, or from information transmitted by, a person with knowledge of those matters.
+909.02(13)(a)2.
+2.  That the record was kept in the course of the regularly conducted activity.
+909.02(13)(a)3.
+3.  That the record was made of the regularly conducted activity as a regular practice.
+909.02(13)(b)
+(b)  The declaration under par. (a) must be signed in a manner that, if falsely made, would subject the maker to criminal penalty under the laws of the country where the declaration is signed.  A party intending to offer a record into evidence under par. (a) must provide written notice of that intention to all adverse parties, and must make the record and declaration available for inspection sufficiently in advance of the offer of the record and declaration into evidence to provide an adverse party with a fair opportunity to challenge the record and declaration.
+ Down
+Down

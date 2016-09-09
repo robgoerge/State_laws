@@ -1,0 +1,84 @@
+
+Up
+Up
+
+
+CHAPTER 783
+
+MANDAMUS AND PROHIBITION
+783.01   Mandamus, return to first writ.
+783.02   Pleadings and proceedings.
+783.03   Issues of fact; election cases, trial of.
+783.04   Damages and costs.
+783.05   Recovery to bar another action.
+783.07   Fine or imprisonment.
+783.08   Writs of prohibition, how issued.
+783.09   Service and return of.
+783.10   Proceedings on adoption of return.
+783.11   Proceedings if return not adopted.
+783.12   Judgment.
+783.13   Judgment if return adopted.
+
+
+783.01
+783.01â€ƒ
+Mandamus, return to first writ.  Mandamus is a civil action.  The writ of mandamus shall specify the time within which the defendant shall make return thereto.  Before such time expires the defendant may move to quash the writ and such motion shall be deemed a motion to dismiss the complaint under s. 802.06 (2).
+783.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 762 (1975); 1979 c. 32 s. 60; Stats. 1979 s. 783.01.
+783.01 Annotation
+The necessity of resolving by construction an apparent ambiguity in statutes to arrive at the nature of the duty sought to be compelled does not preclude resort to mandamus as a remedy.  Morrissette v. DeZonia, 63 Wis. 2d 429, 217 N.W.2d 377 (1974).783.01 Annotation
+Mandamus lies to compel an official to perform prescribed duties that are clear and unequivocal when the responsibility to act is imperative and the petitioner shows substantial damage will result from failure to perform the act.  Burns v. City of Madison, 92 Wis. 2d 232, 284 N.W.2d 631 (1979).783.01 Annotation
+It is an abuse of discretion to compel an action through mandamus when the duty to act is not clear and unequivocal and requires the exercise of discretion.  A writ of mandamus to compel town officials to enforce ordinances was properly denied.  Vretenar v. Hebron, 144 Wis. 2d 655, 424 N.W.2d 714 (1988).783.02
+783.02â€ƒ
+Pleadings and proceedings.  Whenever a return is made to the writ the plaintiff may move to strike the return.  Otherwise the defenses alleged in the return shall be deemed controverted and like proceedings shall be had as in other civil actions.
+783.02 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 762 (1975); 1979 c. 32 s. 60; Stats. 1979 s. 783.02.
+783.03
+783.03â€ƒ
+Issues of fact; election cases, trial of. 783.03(1)
+(1)â€‚Issues of fact in mandamus proceedings instituted in the supreme court shall be tried in the circuit court of the county within which the cause of action arose or in such other county as the supreme court, for cause shown, may order, and the circuit courts may try the issues of fact and may summon a jury for that purpose and prescribe the manner of summoning the jury.
+783.03(2)
+(2)â€‚In mandamus against a board of canvassers in the supreme court to compel the execution and delivery of a certificate of election to any person claiming to have been elected state senator or member of the assembly, or United States senator or representative in congress, or presidential elector, the court may if deemed necessary inquire into the facts of such election, irrespective of the election returns, and determine who received the greater number of legal votes cast, and the certificate issued in pursuance of such determination shall be the only lawful certificate of election to such office, and any other certificate of election to the same office shall be null and void.  Such issue of fact may be tried as hereinbefore provided or according to such rules as the court may prescribe.
+783.03 History
+History:  1977 c. 449; 1979 c. 32 s. 60; Stats. 1979 s. 783.03; 1993 a. 184.783.04
+783.04â€ƒ
+Damages and costs.  If judgment be for the plaintiff, the plaintiff shall recover damages and costs.
+783.04 History
+History:  1979 c. 32 s. 60; 1979 c. 176; Stats. 1979 s. 783.04.783.05
+783.05â€ƒ
+Recovery to bar another action.  A recovery of damages by virtue of this chapter against any party who shall have made a return to a writ of mandamus shall be a bar to any other action against the same party for the making of such return.
+783.05 History
+History:  1979 c. 32 s. 60; Stats. 1979 s. 783.05.783.07
+783.07â€ƒ
+Fine or imprisonment.  Whenever a peremptory mandamus is directed to any public officer, body, board or person commanding the performance of any duty specially enjoined by law and the officer or person or any member of the body or board has, without just excuse, refused or neglected to perform the duty so enjoined, the officer, person or member of the body or board is guilty of a Class H felony.
+783.07 History
+History:  1979 c. 32 s. 60; 1979 c. 176; Stats. 1979 s. 783.07; 1981 c. 20; 1997 a. 283; 2001 a. 109.783.08
+783.08â€ƒ
+Writs of prohibition, how issued.  Writs of prohibition issued out of the supreme court shall be applied for upon relation or affidavits filed in the same manner as for writs of mandamus; and if the cause shown shall appear to the court to be sufficient a writ shall be thereupon issued, which shall command the court and party to whom it shall be directed to desist and refrain from any further proceedings in the action or matter specified therein until a day therein named to be fixed by the court and the further order of such court thereon; and then to show cause why they should not be absolutely restrained from any further proceedings in such action or matter.
+783.08 History
+History:  1979 c. 32 s. 60; Stats. 1979 s. 783.08.783.08 Annotation
+In an action for a writ of prohibition to prevent a state agency from conducting a hearing on grounds that the agency had no jurisdiction, the trial court abused its discretion in denying the writ after concluding the agency did not have jurisdiction.  Judicial review after allowing the agency to proceed on the merits, although allowed, would have been grossly inadequate, the required extraordinary harm being "inherent in the situation."  State ex rel. DPI v. DILHR, 68 Wis. 2d 677, 229 N.W.2d 591 (1975).783.08 Annotation
+In seeking a writ of prohibition to restrain a county court from proceeding to trial in a traffic violation case, the petitioner failed to meet her burden of alleging facts sufficient to show the inadequacy of an appeal, extraordinary hardship, and a clear absence of jurisdiction when: 1) the speeding violation was a routine matter of minor significance both in terms of possible sanction and time involved; 2) there was nothing to indicate that appeal would not be an adequate method of correcting any errors in the proceeding; and 3) the asserted grounds for dismissal required basic changes in Wisconsin law, which the court had no clear duty to overturn.  State ex rel. Prentice v. County Court, 70 Wis. 2d 230, 234 N.W.2d 283 (1975).783.08 Annotation
+A writ of prohibition is an extraordinary remedy available to courts as part of their supervisory jurisdiction over inferior tribunals.  A circuit court may exercise its supervisory authority over a state agency to prevent the agency from exceeding its statutory authority.  A writ of prohibition will issue only when the duty of the court below is plain and there is a clear refusal to meet that duty or a clear intent to disregard it.  The petitioner must also show that ordinary remedies are inadequate and that extraordinary hardship will result if the writ does not issue.  City of Madison v. DWD, 2002 WI App 199, 257 Wis. 2d 348, 651 N.W.2d 292, 01-1910.  Reversed on other grounds.  2003 WI 76, 262 Wis. 2d 652, 664 N.W.2d 584, 01-1910.783.08 Annotation
+A writ of prohibition is the appropriate remedy to restrain the exercise of judicial functions outside or beyond the jurisdiction of a court, or to restrain an official acting in a judicial capacity, when great hardship would otherwise result.  Individual Subpoenaed to Appear at Waukesha County John Doe Case No. 2003 JD 001 v. Davis, 2005 WI 70, 281 Wis. 2d 431, 697 N.W.2d 803, 04-1804.783.09
+783.09â€ƒ
+Service and return of.  Such writ shall be served upon the court and party to whom it shall be directed in the same manner as a writ of mandamus; and a return shall in like manner be made thereto by such court, which may be enforced by attachment.
+783.09 History
+History:  1979 c. 32 s. 60; Stats. 1979 s. 783.09.783.10
+783.10â€ƒ
+Proceedings on adoption of return.  If the party to whom such writ of prohibition shall have been directed shall, by an instrument in writing to be signed by the party and annexed to such return, adopt the same return and rely upon the matters therein contained as sufficient cause why such court should not be restrained, as mentioned in the writ, said party shall thenceforth be deemed the defendant in such matter; and the person prosecuting such writ may take issue or move to strike the matters so relied upon by such defendant; and the like proceedings shall be had for the trial of issues of law or fact joined between the parties and for the rendering of judgment thereupon as in personal actions.
+783.10 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 763 (1975); 1975 c. 218; 1979 c. 32 s. 60; Stats. 1979 s. 783.10.783.11
+783.11â€ƒ
+Proceedings if return not adopted.  If the party to whom such writ of prohibition shall be directed shall not adopt such return, as above provided, the party prosecuting such writ shall bring on the argument of such return, as upon a rule to show cause, and may, by personal affidavit and other proofs, controvert the matters set forth in such return.
+783.11 History
+History:  1979 c. 32 s. 60; 1979 c. 176; Stats. 1979 s. 783.11.783.12
+783.12â€ƒ
+Judgment.  The court, after hearing the proofs and allegations of the parties, shall render judgment either that a prohibition absolute, restraining the said court and party from proceeding in such action or matter, do issue, or a writ of consultation, authorizing the court and party to proceed in the action or matter in question.
+783.12 History
+History:  1979 c. 32 s. 60; Stats. 1979 s. 783.12.783.13
+783.13â€ƒ
+Judgment if return adopted.  If the party to whom such first writ of prohibition shall be directed shall adopt the return of the court thereto, as above provided, and judgment shall be rendered for the party prosecuting such writ, a prohibition absolute shall be issued; but if judgment be given against such party a writ of consultation shall be issued as above provided.
+783.13 History
+History:  1979 c. 32 s. 60; Stats. 1979 s. 783.13. Down
+Down

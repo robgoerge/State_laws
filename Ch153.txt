@@ -1,0 +1,101 @@
+
+Up
+Up
+
+
+CHAPTER 153
+
+HEALTH CARE INFORMATION
+
+SUBCHAPTER I
+
+INFORMATION COLLECTION AND DISSEMINATION
+153.01   Definitions.
+153.05   Collection and dissemination of health care and related information.
+153.08   Hospital rate increases or charges in excess of rates.
+153.10   Health care data reports.
+153.20   Uncompensated health care services report.
+153.21   Consumer guide; list for hospital charge disclosures.
+153.22   Patient-level data utilization, charge, and quality report.
+153.45   Release of data by department.
+153.455   Data organization; contract contingency.
+153.46   Release of data by entity.
+153.50   Protection of patient confidentiality.
+153.55   Protection of confidentiality.
+153.60   Department expenditure estimate.
+153.65   Provision of special information; user fees.
+153.75   Rule making.
+153.76   Civil liability.
+153.77   Immunity from liability.
+153.78   Penalties.
+
+SUBCHAPTER II
+
+ELECTRONIC HEALTH INFORMATION EXCHANGE
+153.80   Definitions.
+153.81   Requirements for designation and funding.
+153.82   Creation of corporation.
+
+
+subch. I of ch. 153
+SUBCHAPTER I
+
+INFORMATION COLLECTION AND DISSEMINATION
+153.01
+153.01â€ƒ
+Definitions.  In this subchapter:
+153.01(1d)
+(1d)â€‚"Administrator" has the meaning given in s. 633.01 (1).
+153.01(1g)
+(1g)â€‚"Ambulatory surgery center" has the meaning given under 42 CFR 416.2.153.01(2g)
+(2g)â€‚"Calculated variable" means a data element that is computed or derived from an original data item or derived using another data source.
+153.01(2m)
+(2m)â€‚"Data element" means an item of information from a uniform patient billing form.
+153.01(3g)
+(3g)â€‚"Data organization" means a nonstock corporation organized under ch. 181 that is described in section 501 (c) (3) of the Internal Revenue Code, is exempt from federal income tax under section 501 (a) of the Internal Revenue Code, and, in its capacity as a public health authority, does all of the following:
+153.01(3g)(a)
+(a)  Represents health care consumers, insurers, administrators, and health care providers.
+153.01(3g)(b)
+(b)  Is formed specifically to do all of the following:
+153.01(3g)(b)1.
+1.  Create a centralized claims repository for this state with credible and useful data elements for the purposes of quality improvement, health care provider performance comparisons, ready understandability, and consumer decision making.
+153.01(3g)(b)2.
+2.  Use the information it collects to develop and disseminate unified public reports on health care quality, safety, and efficiency.
+153.01(4)
+(4)â€‚"Department" means the department of health services.
+153.01(4h)
+(4h)â€‚"Employer coalition" means an organization of employers formed for the purpose of purchasing health care coverage or services as a group.
+153.01(4j)
+(4j)â€‚"Entity" means a nonstock corporation organized under ch. 181 that is described in section 501 (c) (6) of the Internal Revenue Code and is exempt from federal income tax under section 501 (a) of the Internal Revenue Code, and that does all of the following:
+153.01(4j)(a)
+(a)  Represents at least 70% of the hospitals in Wisconsin.
+153.01(4j)(b)
+(b)  Receives oversight with respect to services performed by the entity under this subchapter from the secretary of health services.
+153.01(4p)
+(4p)â€‚"Health care plan" means an insured or self-insured plan providing coverage of health care expenses or an employer coalition.
+153.01(4t)
+(4t)â€‚"Health care provider" has the meaning given in s. 146.81 (1) (a) to (p) and includes an ambulatory surgery center.
+153.01(5)
+(5)â€‚"Hospital" has the meaning given under s. 50.33 (2).
+153.01(5m)
+(5m)â€‚"Insurer" has the meaning given under s. 632.745 (15).
+153.01(7)
+(7)â€‚"Patient" means a person who receives health care services from a health care provider.
+153.01(8)
+(8)â€‚"Payer" means a 3rd-party payer, including an insurer, federal, state or local government or another who is responsible for payment of a hospital charge.
+153.01(8m)
+(8m)â€‚"Public health authority" means the department or a person acting under this subchapter under a grant of authority from or contract with the department.
+153.01 History
+History:  1987 a. 399; 1993 a. 16, 185, 491; 1997 a. 27, 231; 1999 a. 9 s. 2280ge; 1999 a. 32; 2003 a. 33; 2005 a. 228, 253; 2007 a. 20 s. 9121 (6) (a); 2009 a. 28, 274.153.05
+153.05â€ƒ
+Collection and dissemination of health care and related information. 153.05(1)
+(1)â€‚In order to provide to health care providers, insurers, consumers, governmental agencies and others information concerning health care providers and uncompensated health care services, and in order to provide information to assist in peer review for the purpose of quality assurance:
+153.05(1)(a)
+(a)  Subject to s. 153.455, the department shall collect from health care providers other than hospitals and ambulatory surgery centers, analyze, and disseminate health care information, as adjusted for case mix and severity, in language that is understandable to laypersons.
+153.05(1)(b)
+(b)  The entity under contract under sub. (2m) (a) shall collect from hospitals and ambulatory surgery centers the health care information required of hospitals and ambulatory surgery centers by the department under ch. 153, 2001 stats., and the rules promulgated under ch. 153, 2001 stats., including, by the date that is 18 months after the date of the contract under sub. (2m) (a), outpatient hospital-based services.  The entity shall analyze and disseminate that health care information, as adjusted for case mix and severity, in the manner required under this subchapter, under ch. 153, 2001 stats., and under the rules promulgated under ch. 153, 2001 stats., and in language that is understandable to laypersons.
+153.05(1)(c)
+(c)  Subject to s. 153.455 (1) to (3), the data organization under contract under sub. (2r) may request health care claims information from insurers and administrators.  The data organization shall analyze and publicly report the health care claims information with respect to the cost, quality, and effectiveness of health care, in language that is understandable by lay persons, and shall develop and maintain a centralized data repository.  The data organization shall provide to the department, without charge, health care claims information collected by and reports produced by the data organization that the department requests.  If s. 153.455 (4) applies, the department may request health care claims information, which may be voluntarily provided by insurers and administrators, and may perform or contract for the performance of the other duties specified for the data organization under this paragraph.
+153.05(2m)
+(2m)â€‚ Down
+Down

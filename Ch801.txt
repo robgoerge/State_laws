@@ -1,0 +1,79 @@
+
+Up
+Up
+
+
+CHAPTER 801
+
+CIVIL PROCEDURE â€” COMMENCEMENT OF ACTION AND VENUE
+801.01   Kinds of proceedings; scope of chs. 801 to 847.801.02   Commencement of action.
+801.03   Jurisdiction; definitions.
+801.04   Jurisdictional requirements for judgments against persons, status and things.
+801.05   Personal jurisdiction, grounds for generally.
+801.06   Personal jurisdiction, grounds for without service of summons.
+801.07   Jurisdiction in rem or quasi in rem, grounds for generally.
+801.08   Objection to personal jurisdiction.
+801.09   Summons, contents of.
+801.095   Summons form.
+801.10   Summons, by whom served.
+801.11   Personal jurisdiction, manner of serving summons for.
+801.12   Jurisdiction in rem or quasi in rem, manner of serving summons for; notice of object of action.
+801.13   Summons; when deemed served.
+801.14   Service and filing of pleadings and other papers.
+801.145   Form of papers.
+801.15   Time.
+801.16   Filing.
+801.17   Electronic filing.
+801.19   Protected information in circuit court records.
+801.20   When documents may be filed as confidential.
+801.21   Motions to seal.
+801.50   Venue in civil actions or special proceedings.
+801.51   Challenges to improper venue.
+801.52   Discretionary change of venue.
+801.53   Determination of motion for change of venue.
+801.54   Discretionary transfer of civil actions to tribal court.
+801.56   Change of venue if judge disqualified by interest.
+801.58   Substitution of judge.
+801.59   Assigned judge.
+801.61   Proceedings after order for change of venue.
+801.62   Conclusiveness of change of venue; second motion.
+801.63   Stay of proceeding to permit trial in a foreign forum.
+801.64   Legislative findings; 2007 Wisconsin Act 1.
+
+Ch. 801 Note
+NOTE:  Chapter 801 was created by Sup. Ct. Order, 67 Wis. 2d 585 (1975), which contains explanatory notes.  Statutes prior to the 1983-84 edition also contain these notes.
+801.01
+801.01â€ƒ
+Kinds of proceedings; scope of chs. 801 to 847. 801.01(1)(1)â€‚
+Kinds.  Proceedings in the courts are divided into actions and special proceedings.  "Action", as used in chs. 801 to 847, includes "special proceeding" unless a specific provision of procedure in special proceedings exists.
+801.01(2)
+(2)â€‚Scope. Chapters 801 to 847 govern procedure and practice in circuit courts of this state in all civil actions and special proceedings whether cognizable as cases at law, in equity or of statutory origin except where different procedure is prescribed by statute or rule.  Chapters 801 to 847 shall be construed to secure the just, speedy and inexpensive determination of every action and proceeding.
+801.01(3)
+(3)â€‚Effective dates. 801.01(3)(a)(a) Chapters 801 to 803 shall apply to all actions commenced on or after January 1, 1976.
+801.01(3)(b)
+(b) Chapters 804 to 807 shall apply to all actions pending or commenced on or after January 1, 1976, except those actions in which trial has commenced prior to January 1, 1976, as to which the statutes and rules in effect prior to January 1, 1976, shall continue to apply.
+801.01(3)(c)
+(c)  Amendments and repeals of sections outside of chs. 801 to 807 shall be effective as follows:
+801.01(3)(c)1.
+1.  Amendments and repeals effected in order to conform with provisions in chs. 801 to 803 shall apply to all actions commenced on or after January 1, 1976.
+801.01(3)(c)2.
+2.  Amendments and repeals other than those effected in order to conform with provisions in chs. 801 to 803 shall take effect on January 1, 1976, as to all actions then pending or thereafter commenced, except as provided in par. (b).
+801.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 588 (1975); 1977 c. 449; 1979 c. 89; 1981 c. 390.801.01 Annotation
+Chapters 801 to 847 apply to in rem actions under s. 161.555 [now 961.555] and under s. 801.07 may not be brought against an inanimate object as sole "defendant."  State v. One 1973 Cadillac, 95 Wis. 2d 641, 291 N.W.2d 626 (Ct. App. 1980).801.01 Annotation
+An "action" includes special proceedings such as probate.  In Matter of Estate of Martz, 171 Wis. 2d 89, 491 N.W.2d 772 (Ct. App. 1992).801.01 Annotation
+The applicability of chs. 801 to 847 in civil actions is not determined by a "mere alleged incompatibility" of statutes.  Without an explicit or implicit prescription by the statute of a "different procedure," chs. 801 to 847 are applicable in civil proceedings.  State v. Brown, 215 Wis. 2d 716, 573 N.W.2d 884 (Ct. App. 1997), 96-1211.801.01 Annotation
+Summary judgment procedure is inconsistent with, and unworkable in, ch. 345 forfeiture proceedings.  State v. Schneck, 2002 WI App 239, 257 Wis. 2d 704, 652 N.W.2d 434, 02-0513.801.01 AnnotationSummary judgment is inapplicable in ch. 343 hearings.  State v. Baratka, 2002 WI App 288, 258 Wis. 2d 342, 654 N.W.2d 875, 02-0770.801.01 Annotation
+The new Wisconsin rules of civil procedure: Chapters 801-803.  Clausen and Lowe.  59 MLR 1.
+801.02
+801.02â€ƒ
+Commencement of action. 801.02(1)
+(1)â€‚A civil action in which a personal judgment is sought is commenced as to any defendant when a summons and a complaint naming the person as defendant are filed with the court, provided service of an authenticated copy of the summons and of the complaint is made upon the defendant under this chapter within 90 days after filing.
+801.02(2)
+(2)â€‚A civil action in which only an in rem or quasi in rem judgment is sought is commenced as to any defendant when a summons and a complaint are filed with the court, provided service of an authenticated copy of the summons and of either the complaint or a notice of object of action under s. 801.12 is made upon the defendant under this chapter within 90 days after filing.
+801.02(3)
+(3)â€‚The original summons and complaint shall be filed together.  The authenticated copies shall be served together except:
+801.02(3)(a)
+(a)  In actions in which a personal judgment is sought, if the summons is served by publication, only the summons need be published, but a copy of the complaint shall be mailed with a copy of the summons as required by s. 801.11, and;
+ Down
+Down

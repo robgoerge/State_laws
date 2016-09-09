@@ -1,0 +1,88 @@
+
+Up
+Up
+
+
+CHAPTER 194
+
+MOTOR VEHICLE TRANSPORTATION
+194.01   Definitions.
+194.02   Legislative intent.
+194.025   Discrimination prohibited.
+194.03   Interstate commerce and intrastate commerce.
+194.04   Certificates; licenses; permits.
+194.05   Exemption.
+194.06   Public interest.
+194.07   Operations subject to law.
+194.08   Effect of this chapter on powers of department and municipalities.
+194.09   Marking carrier vehicles.
+194.10   Service of process on nonresident carriers.
+194.11   Inspection of premises or vehicles.
+194.145   Hearing; decision.
+194.16   Operation while delinquent unlawful.
+194.17   Penalties.
+194.178   Uniform traffic citation.
+194.20   Certificates and licenses for carriers in interstate commerce and intrastate commerce.
+194.23   Certificate required.
+194.24   Application; form.
+194.25   Nature of certificates.
+194.31   Inspection of records.
+194.32   Buses, restrictions.
+194.33   Municipal consent.
+194.34   Contract motor carriers; license; application and hearing.
+194.355   Operation under certificate, license or permit.
+194.37   Enforcement.
+194.38   Regulatory powers of department.
+194.407   Unified carrier registration system.
+194.41   Contract of liability for damage to person or property.
+194.42   Exemption from undertaking; proof of financial responsibility; revocation.
+194.43   Private motor carriers; regulation by department.
+194.46   Amendment, suspension, or revocation of certificate, license, or permit; hearing.
+194.51   Suit to recover protested tax.
+194.53   Certain liability provisions in motor carrier transportation contracts prohibited.
+
+
+Ch. 194 Cross-reference
+Cross-reference:  See also chs. Trans 177, 325, and 326, Wis. adm. code.194.01
+194.01â€ƒ
+Definitions.  In this chapter, unless the context otherwise requires:
+194.01(1)
+(1)â€‚"Common motor carrier" means any person who holds himself or herself out to the public as willing to undertake for hire to transport passengers or property by motor vehicle upon the public highways.  The transportation of passengers in taxicab service or in commuter car pool or van pool vehicles that are designed to carry less than 8 passengers, including the driver, or in a school bus under s. 120.13 (27) or in a motor vehicle being used to provide transportation network services, as defined in s. 440.40 (7), is not transportation by a common motor carrier.
+194.01(2)
+(2)â€‚"Contract motor carrier" means any person engaged in the transportation by motor vehicle over a regular or irregular route upon the public highways of property for hire, including the transportation of buildings, as defined in s. 348.27 (12m) (a) 1.  The transportation of property in a motor vehicle being used subject to subch. IV of ch. 440 is not transportation by a contract motor carrier.
+194.01(3)
+(3)â€‚"Department" means the department of transportation.
+194.01(3m)
+(3m)â€‚"Division of hearings and appeals" means the division of hearings and appeals in the department of administration.
+194.01(4)
+(4)â€‚"For hire" means for compensation, and includes compensation obtained by a motor carrier indirectly, by subtraction from the purchase price or addition to the selling price of property transported, where the purchase or sale thereof is not a bona fide purchase or sale.  Any person who pretends to purchase property to be transported by such person or who purchases property immediately prior to and sells it immediately after the transportation thereof shall be deemed to be transporting the property for hire and not a bona fide purchaser or seller thereof.  The rental of a motor vehicle to a person for transportation of the person's property which rental directly or indirectly includes the services of a driver shall be deemed to be transportation for hire and not private carriage.  This subsection does not apply to motor vehicle operations which are conducted merely as an incident to or in furtherance of any business or industrial activity.
+194.01(5)
+(5)â€‚"Gross weight", when applied to a motor vehicle used for the transportation of passengers, shall mean the actual weight of the motor vehicle unloaded plus 150 pounds for each person capable of being seated in the motor vehicle.
+194.01(6)
+(6)â€‚The term "gross weight" when applied to a motor vehicle used for the transportation of property shall mean the actual weight of such motor vehicle unloaded plus the licensed carrying capacity of such motor vehicle.
+194.01(6m)
+(6m)â€‚"Interstate commerce" includes foreign commerce.
+194.01(7)
+(7)â€‚"Motor vehicle" means any automobile, truck, trailer, semitrailer, tractor, motor bus or any self-propelled or motor driven vehicle, except a motorcycle, moped, motor bicycle, electric personal assistive mobility device, or vehicle operated on rails.
+194.01(8)
+(8)â€‚"Municipality" means a town, village, or city.
+194.01(10)
+(10)â€‚"Person" means and includes any individual, firm, partnership, limited liability company, corporation, company, association, including express and forwarding companies or agencies and railroad companies, or their lessees, trustees or receivers.
+194.01(11)
+(11)â€‚"Private motor carrier" means any person who provides transportation of property or passengers by commercial motor vehicle, as defined in 49 CFR 390.5, and is not a for-hire motor carrier.
+194.01(12)
+(12)â€‚"Public highway" means every public street, alley, road, highway or thoroughfare of any kind, except waterways, in this state while open to public travel and use.
+194.01(13)
+(13)â€‚"Secretary" means the secretary of transportation.
+194.01 History
+History:  1971 c. 164 s. 88; 1977 c. 29 ss. 1303, 1304, 1654 (9) (c), (f), (10) (a); 1979 c. 34, 110, 221, 355; 1981 c. 347; 1983 a. 189, 243; 1985 a. 29, 187; 1993 a. 16, 112, 490; 1997 a. 254; 2001 a. 90, 107; 2005 a. 250; 2013 a. 364; 2015 a. 16, 55; 2015 a. 135 s. 4.194.01 Annotation
+A buy-sell arrangement whereby the carrier "buys" property at the shipping point, immediately transports it to a delivery point, and there "sells" it to the real purchaser â€” with the carrier's profit amounting only to the price of the transportation between the 2 points â€” raises a rebuttable presumption under sub. (15) [now sub. (4)], that the property is being transported "for hire."  Gensler v. Dept. of Revenue, 70 Wis. 2d 1108, 236 N.W.2d 648 (1975).194.02
+194.02â€ƒ
+Legislative intent.  It is the intent of the legislature to remove the economic regulations which limit motor carrier operations in the state.  The legislature intends to let the market promote competitive and efficient transportation services, while maintaining the safety regulations necessary to protect the welfare of the traveling and shipping public.  It is the intent of the legislature that this chapter be interpreted in a manner which gives the most liberal construction to achieve the aim of a safe, competitive transportation industry.
+194.02 History
+History:  1977 c. 29 s. 1654 (9) (c); 1981 c. 347.194.02 Annotation
+This section's statement of intent to let the market promote competitive and efficient transportation services is specific to motor carriers and does not apply to regulations regarding taxis.  County of Milwaukee v. Williams, 2007 WI 69, 301 Wis. 2d 134, 732 N.W.2d 770, 05-2686.194.025
+194.025â€ƒ
+Discrimination prohibited.  No motor carrier may engage in any practice, act or omission which results in discrimination on the basis of race, creed, sex or national origin.
+ Down
+Down

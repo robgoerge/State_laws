@@ -1,0 +1,105 @@
+
+Up
+Up
+
+
+CHAPTER 852
+
+INTESTATE SUCCESSION
+852.01   Basic rules for intestate succession.
+852.03   Related rules.
+852.05   Status of child born to unmarried parents for purposes of intestate succession.
+852.09   Assignment of home to surviving spouse or surviving domestic partner.
+852.10   Disinheritance from intestate share.
+852.11   Advancement.
+852.12   Debts to decedent.
+852.13   Right to disclaim intestate share.
+
+
+Ch. 852 Cross-reference
+Cross-reference:  See definitions in ch. 851.852.01
+852.01â€ƒ
+Basic rules for intestate succession. 852.01(1)
+(1)â€‚
+Who are heirs.  Except as modified by the decedent's will under s. 852.10 (1), any part of the net estate of a decedent that is not disposed of by will passes to the decedent's surviving heirs as follows:
+852.01(1)(a)
+(a)  To the spouse or domestic partner:
+852.01(1)(a)1.
+1.  If there are no surviving issue of the decedent, or if the surviving issue are all issue of the surviving spouse or surviving domestic partner and the decedent, the entire estate.
+852.01(1)(a)2.
+2.  If there are surviving issue one or more of whom are not issue of the surviving spouse or surviving domestic partner, one-half of decedent's property other than the following property:
+852.01(1)(a)2.a.
+a.  The decedent's interest in marital property.
+852.01(1)(a)2.b.
+b.  The decedent's interest in property held equally and exclusively with the surviving spouse or surviving domestic partner as tenants in common.
+852.01(1)(b)
+(b)  To the issue, per stirpes, the share of the estate not passing to the spouse or surviving domestic partner, under par. (a), or the entire estate if there is no surviving spouse or surviving domestic partner.
+852.01(1)(c)
+(c)  If there is no surviving spouse, surviving domestic partner, or issue, to the parents.
+852.01(1)(d)
+(d)  If there is no surviving spouse, surviving domestic partner, issue, or parent, to the brothers and sisters and the issue of any deceased brother or sister per stirpes.
+852.01(1)(f)
+(f)  If there is no surviving spouse, surviving domestic partner, issue, parent, or issue of a parent, to the grandparents and their issue as follows:
+852.01(1)(f)1.
+1.  One-half to the maternal grandparents equally if both survive, or to the surviving maternal grandparent; if both maternal grandparents are deceased, to the issue of the maternal grandparents or either of them, per stirpes.
+852.01(1)(f)2.
+2.  One-half to the paternal relations in the same manner as to the maternal relations under subd. 1.
+852.01(1)(f)3.
+3.  If either the maternal side or the paternal side has no surviving grandparent or issue of a grandparent, the entire estate to the decedent's relatives on the other side.
+852.01(2)
+(2)â€‚Survivorship requirement.  Survivorship under sub. (1) is determined as provided in s. 854.03.
+852.01(2m)
+(2m)â€‚Heir who kills decedent.  If a person under sub. (1) killed the decedent, the inheritance rights of that person are governed by s. 854.14.
+852.01(3)
+(3)â€‚Escheat.  If there are no heirs of the decedent under subs. (1) and (2), the net estate escheats to the state to be added to the capital of the school fund.
+852.01 History
+History:  1977 c. 214, 449; 1981 c. 228; 1983 a. 186; 1985 a. 37; 1987 a. 222; 1987 a. 393 s. 53; 1991 a. 224; 1993 a. 486; 1997 a. 188; 2005 a. 216; 2009 a. 28.852.01 Note
+NOTE:  See notes in 1985 Wis. Act 37 (marital property trailer bill) and 1991 Wis. Act 224.852.01 Cross-reference
+Cross-reference:  See ss. 863.37 (2) and 863.39 (1) for deposit of funds with state treasurer.
+852.01 Annotation
+Sub. (1) (a) 2. entitles the surviving spouse to one-half of the decedent's nonmarital property.  However, it assigns the survivor no interest in their marital property.  Therefore, under sub. (1) (b), all of the decedent's interest in marital property passes to the decedent's issue.  Estate of Carroll, 2001 WI App 120, 244 Wis. 2d 280, 628 N.W.2d 411, 00-1734.852.01 Annotation
+Wisconsin's New Probate Code. Erlanger.  Wis. Law. Oct. 1998.
+852.03
+852.03â€ƒ
+Related rules. 852.03(1)(1)â€‚
+Per stirpes.  If per stirpes distribution is called for under s. 852.01 (1) (b), (d) or (f), the rules under s. 854.04 apply.
+852.03(3)
+(3)â€‚Relatives of the half blood.  Inheritance rights of relatives of the half blood are governed by s. 854.21 (4).
+852.03(4)
+(4)â€‚Posthumous heirs.  Inheritance rights of a person specified in s. 852.01 (1) who was born after the death of the decedent are governed by s. 854.21 (5).
+852.03(5)
+(5)â€‚Related through 2 lines.  Inheritance rights of a person who is related to the decedent through 2 lines of relationship are governed by s. 854.21 (6).
+852.03(6)
+(6)â€‚Taking through or by alien.  No person is disqualified from taking as an heir because the person or a person through whom he or she claims is not or at some time was not a U.S. citizen.  The rights of an alien to acquire or hold land in the state are governed by ss. 710.01 to 710.03.
+852.03 History
+History:  1993 a. 486; 1997 a. 188.852.05
+852.05â€ƒ
+Status of child born to unmarried parents for purposes of intestate succession. 852.05(1)
+(1)â€‚A child born to unmarried parents, or the child's issue, is treated in the same manner as a child, or the issue of a child, born to married parents with respect to intestate succession from and through the child's mother, and from and through the child's father if any of the following applies:
+852.05(1)(a)
+(a)  The father has been adjudicated to be the father in a paternity proceeding under ch. 767 or by final order or judgment of a court of competent jurisdiction in another state.
+852.05(1)(b)
+(b)  The father has admitted in open court that he is the father.
+852.05(1)(c)
+(c)  The father has acknowledged himself to be the father in writing signed by him.
+852.05(2)
+(2)â€‚Property of a child born to unmarried parents passes in accordance with s. 852.01 except that the father or the father's kindred can inherit only if the father has been adjudicated to be the father in a paternity proceeding under ch. 767 or by final order or judgment of a court of competent jurisdiction in another state or has been determined to be the father under s. 767.805 or a substantially similar law of another state.
+852.05(3)
+(3)â€‚852.05(3)(a)(a)  This section does not apply to a child who becomes a marital child by the subsequent marriage of the child's parents under s. 767.803.
+852.05(3)(b)
+(b)  The status of a child born to unmarried parents who is legally adopted is governed by s. 854.20.
+852.05(4)
+(4)â€‚Section 895.01 (1) applies to paternity proceedings under ch. 767.
+852.05 History
+History:  1979 c. 32 s. 92 (2); 1979 c. 352; 1981 c. 391; 1983 a. 447; 1993 a. 486; 1997 a. 188, 191; 2005 a. 216; 2005 a. 443 s. 265.852.05 Annotation
+Although a paternity proceeding may not be maintained posthumously, sub. (1) does not deny equal protection or due process to posthumous nonmarital children.  In re Estate of Blumreich, 84 Wis. 2d 545, 267 N.W.2d 870 (1978).852.05 Annotation
+The court properly looked to extrinsic evidence to determine whether a signed letter constituted a reasonably clear and certain acknowledgment of paternity.  C. R. v. American Standard Ins. Co. 113 Wis. 2d 12, 334 N.W.2d 121 (Ct. App. 1983).852.05 Annotation
+One claiming to be a nonmarital child under sub. (1) must first prove that status and overcome any presumption of paternity in effect.  In Matter of Estate of Schneider, 150 Wis. 2d 286, 441 N.W.2d 335 (Ct. App. 1989).852.05 Annotation
+Section 893.88, limiting only an action for the establishment of paternity, does not preclude a motion for the purpose of determining paternity in a probate proceeding.  DiBenedetto v. Jaskolski, 2003 WI App 70, 261 Wis. 2d 723, 661 N.W.2d 869, 01-2189.852.09
+852.09â€ƒ
+Assignment of home to surviving spouse or surviving domestic partner.  If the intestate estate includes an interest in a home, assignment of that interest to the surviving spouse or surviving domestic partner is governed by s. 861.21.
+852.09 History
+History:  1993 a. 486; 1997 a. 188; 2009 a. 28.852.10
+852.10â€ƒ
+Disinheritance from intestate share.  Down
+Down

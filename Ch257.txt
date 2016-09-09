@@ -1,0 +1,112 @@
+
+Up
+Up
+
+
+CHAPTER 257
+
+EMERGENCY VOLUNTEER HEALTH CARE PRACTITIONERS
+257.01   Definitions.
+257.02   Volunteer registry.
+257.03   Volunteer practitioners indemnified.
+257.04   Health care facilities indemnified.
+
+
+257.01
+257.01â€ƒ
+Definitions.  In this chapter:
+257.01(1)
+(1)â€‚"Behavioral health provider" means any of the following:
+257.01(1)(a)
+(a)  An individual who, under ch. 455, is licensed as a psychologist or, under ch. 457, is certified as a social worker or licensed as a clinical social worker, a marriage and family therapist, or a professional counselor.
+257.01(1)(b)
+(b)  An individual who was at any time within the previous 10 years, but is not currently, licensed as a psychologist under ch. 455 or certified as a social worker or licensed as a clinical social worker, a marriage and family therapist, or a professional counselor under ch. 457, if the individual's license or certification was never revoked, limited, suspended, or denied renewal.
+257.01(1)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is licensed or certified to perform.
+257.01(1g)
+(1g)â€‚"Clinical laboratory technician" means an individual who holds a valid, unexpired certification as a clinical laboratory technician or technologist from an organization from which the department recognizes certification for purposes of this chapter.
+257.01(2)
+(2)â€‚"Emergency medical services provider" means any of the following:
+257.01(2)(a)
+(a)  An individual who is licensed as an emergency medical technician or certified as a first responder under s. 256.15.
+257.01(2)(b)
+(b)  An individual who was at any time in the previous 10 years, but is not currently, licensed as an emergency medical technician or certified as a first responder under s. 256.15, if the individual's license was never revoked, limited, suspended, or denied renewal.
+257.01(2)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is licensed or certified to perform.
+257.01(3)
+(3)â€‚"Funeral director" means any of the following:
+257.01(3)(a)
+(a)  An individual who is licensed as a funeral director under ch. 445.
+257.01(3)(b)
+(b)  An individual who was at any time within the previous 10 years, but is not currently, licensed as a funeral director under ch. 445, if the individual's license was never revoked, limited, suspended, or denied renewal.
+257.01(3)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is licensed to perform.
+257.01(4)
+(4)â€‚"Health care facility" has the meaning given in s. 150.84 (2).
+257.01(5)
+(5)â€‚"Health care provider" means any of the following:
+257.01(5)(a)
+(a)  An individual who is licensed as a physician, a physician assistant, or a podiatrist under ch. 448, licensed as a registered nurse, licensed practical nurse, or nurse-midwife under ch. 441, licensed as a dentist under ch. 447, licensed as a pharmacist under ch. 450, licensed as a veterinarian or certified as a veterinary technician under ch. 89, or certified as a respiratory care practitioner under ch. 448.
+257.01(5)(b)
+(b)  An individual who was at any time within the previous 10 years, but is not currently, licensed as a physician, a physician assistant, or a podiatrist under ch. 448, licensed as a registered nurse, licensed practical nurse or nurse-midwife, under ch. 441, licensed as a dentist under ch. 447, licensed as a pharmacist under ch. 450, licensed as a veterinarian or certified as a veterinary technician under ch. 89, or certified as a respiratory care practitioner under ch. 448, if the individual's license or certification was never revoked, limited, suspended, or denied renewal.
+257.01(5)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is licensed or certified to perform.
+257.01(6)
+(6)â€‚"Mass clinic" means a designated space that is arranged by a local health department or by the department and operated during a defined period of time to provide vaccination, prophylaxis, medication, or other specialized treatment to a population in response to a public health emergency.
+257.01(7)
+(7)â€‚"Nurse aide" means any of the following:
+257.01(7)(a)
+(a)  An individual who satisfies the requirements for a nurse aide under s. 146.40 (2) (a), (ac), (c), (e), (em), or (g).
+257.01(7)(b)
+(b)  An individual who did at any time within the previous 10 years, but does not currently, satisfy the requirements for a nurse aide under s. 146.40 (2) (a), (ac), (c), (e), (em), or (g), if the individual's name has never been listed under s. 146.40 (4g) (a) 2., 2005 stats., or s. 146.40 (4g) (a) 2.
+
+257.01(7)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is qualified to perform.
+257.01(8)
+(8)â€‚"Practitioner" means a behavioral health provider, clinical laboratory technician, emergency medical services provider, funeral director, health care provider, nurse aide, pupil services provider, or substance abuse prevention provider.
+257.01(9)
+(9)â€‚"Pupil services provider" means any of the following:
+257.01(9)(a)
+(a)  An individual who is licensed as a school counselor, school psychologist, or school social worker under rules promulgated by the department of public instruction.
+257.01(9)(b)
+(b)  An individual who was at any time within the previous 10 years, but is not currently, licensed as a school counselor, a school psychologist, or a school social worker under rules promulgated by the department of public instruction, if the individual's license was never revoked, limited, suspended, or denied renewal.
+257.01(9)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is licensed to perform.
+257.01(10)
+(10)â€‚"State of emergency" means a state of emergency declared under s. 323.10 or 323.11 or a federal state of emergency.
+257.01(11)
+(11)â€‚"Substance abuse prevention provider" means any of the following:
+257.01(11)(a)
+(a)  An individual who is certified as a counselor, supervisor, or specialist described under s. HFS 75.02 (11) and (84), Wis. Adm. Code, in effect on January 20, 2006, or certified as a substance abuse counselor, clinical supervisor, or prevention specialist under s. 440.88.
+257.01(11)(b)
+(b)  An individual who was at any time in the previous 10 years, but is not currently, certified as a counselor, supervisor, or specialist described under s. HFS 75.02 (11) and (84), Wis. Adm. Code, in effect on January 20, 2006, or certified as a substance abuse counselor, clinical supervisor, or prevention specialist under s. 440.88, if the individual's certification was never revoked, limited, suspended, or denied renewal.
+257.01(11)(c)
+(c)  An individual who holds a valid, unexpired license, certification, or registration issued by another state or territory that authorizes or qualifies the individual to perform acts that are substantially the same as those acts that an individual under par. (a) is certified to perform.
+257.01 History
+History:  2009 a. 42 ss. 245 to 250, 258 to 267; Stats. 2009 s. 257.01; 2009 a. 42; 2013 a. 357; 2015 a. 55.257.02
+257.02â€ƒ
+Volunteer registry.  The department shall establish and maintain an electronic system that may be used to verify the credentials of and register volunteer practitioners before or during a state of emergency.
+257.02 History
+History:  2009 a. 42.257.03
+257.03â€ƒ
+Volunteer practitioners indemnified. 257.03(1)
+(1)â€‚Except as provided in sub. (3), a practitioner who, during a state of emergency and in a geographic area in which the state of emergency applies, provides services for which the individual is or has been licensed, certified, registered, or, in the case of a nurse aide, qualified, is, for any claim arising from the provision of the services, a state agent of the department under ss. 165.25 (6), 893.82, and 895.46 and, except as provided in sub. (2), is considered an employee of the state for worker's compensation benefits under ch. 102 if all of the following apply:
+257.03(1)(a)
+(a)  The services are provided on behalf of a health care facility or mass clinic, or at the request of the department or a local health department.
+257.03(1)(b)
+(b)  The health care facility, mass clinic, department, or local health department on whose behalf the practitioner provides the services does not compensate the practitioner for the services, except the health care facility, mass clinic, department, or local health department may reimburse the practitioner for travel, lodging, or meals.  The practitioner's employer may compensate the practitioner for the services as long as the employer is not the health care facility, mass clinic, department, or local health department on whose behalf the services are provided.
+257.03(1)(c)
+(c)  The practitioner is registered in the system under s. 257.02.
+257.03(1)(d)
+(d)  If the practitioner provides the services at a health care facility or mass clinic, the practitioner first registers in writing with the health care facility or mass clinic.
+257.03(2)
+(2)â€‚A practitioner who provides services under sub. (1) is not considered an employee of the state for worker's compensation benefits under ch. 102 if the practitioner's employer compensates the practitioner for providing the services.
+257.03(3)
+(3)â€‚A practitioner is not a state agent of the department under ss. 165.25 (6), 893.82, and 895.46 if the practitioner's acts or omissions involve reckless, wanton, or intentional misconduct.
+257.03 History
+History:  2009 a. 42 ss. 251, 270 to 273.257.04
+257.04â€ƒ
+Health care facilities indemnified.  The health care facility on whose behalf services under s. 257.03 are provided is, for the provision of the services, a state agent of the department for purposes of ss. 165.25 (6), 893.82, and 895.46.
+257.04 History
+History:  2009 a. 42. Down
+Down
