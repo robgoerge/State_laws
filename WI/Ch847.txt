@@ -1,0 +1,66 @@
+
+Up
+Up
+
+
+CHAPTER 847
+
+MISCELLANEOUS REAL ESTATE ACTIONS
+847.01   Action by settler on public lands.
+847.03   Removal of restrictions.
+847.05   Actions between cotenants.
+847.07   Correction of description in conveyance.
+847.09   Discharge of mortgage or lien by court.
+847.10   Antenna facilities.
+
+
+847.01
+847.01â€ƒ
+Action by settler on public lands.  A settler on the public lands of the United States, under the laws thereof may maintain an action to recover possession of the lands settled upon or claimed, or an action for injury to, or interference with such lands.  Such action may not be brought unless the land claimed is staked or otherwise marked out so that its boundaries can be readily traced and the extent of the claim known and unless the plaintiff occupies the land or has made improvements thereon to the value of $50.  An action under this section, may not be brought if the land claimed exceeds 160 acres, located in one body or in different parcels, or if for 6 months next preceding the commencement of the action the plaintiff has not occupied or has neglected to cultivate the land claimed.
+847.01 History
+History:  1973 c. 189; Sup. Ct. Order, 67 Wis. 2d 585, 768 (1975).847.03
+847.03â€ƒ
+Removal of restrictions. 847.03(1)
+(1)â€‚If all or part of the area of any city, village or town block is affected by restrictive deed provisions, restrictive covenants or agreements, if the first restriction affecting the property has existed for 30 years or more and if 75% or more of the area of the city, village or town block has not been developed with buildings of the type allowed by the restrictions, the owner of any part of the block may commence an action in the circuit court of the county where the land lies to remove the restrictive deed provisions, restrictive covenants or agreements.  All adjacent property owners shall be named as defendants and shall be served with a copy of the complaint.
+847.03(2)
+(2)â€‚Notice of the commencement of the action, including a description of the area affected, shall be published in the county as a class 3 notice, under ch. 985.  A lis pendens shall be filed in the office of the register of deeds upon commencement of the action.
+847.03(3)
+(3)â€‚The court may enter a judgment releasing the area from the effect of any restrictive deed provision, restrictive covenant or agreement contained whether the same appears in the deed to the area or block involved or in the deed to other lands or lots.  No costs may be allowed or taxed against the defendants in such action.
+847.03(4)
+(4)â€‚Any property owner affected by the removal of the restrictions may petition in the action, to be allowed actual damages to compensate the owner for any actual damages the owner may sustain by such removal.  No damages may flow automatically from the removal and damages shall be allowed by the court only upon a showing of actual injury.  The court in granting or denying same shall take into consideration the development of the surrounding area including the commercial development in the immediate neighborhood.
+847.03 History
+History:  1973 c. 189; Sup. Ct. Order, 67 Wis. 2d 585, 768 (1975); 1977 c. 449; 1993 a. 246, 486.847.05
+847.05â€ƒ
+Actions between cotenants.  One joint tenant or tenant in common, or his or her personal representative, may maintain an action for money had and received against a cotenant for receiving more than the cotenant's just proportion of the rents or profits of the estate owned by them as joint tenants or tenants in common.
+847.05 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 768 (1975); 1993 a. 486; 2001 a. 102.847.05 Annotation
+Rental payments may be due when the conduct of one cotenant results in the ouster of the other.  Heyse v. Heyse, 47 Wis. 2d 27, 176 N.W.2d 316 (1970).847.07
+847.07â€ƒ
+Correction of description in conveyance. 847.07(1)(1)â€‚The circuit court of any county in which a conveyance of real estate has been recorded may make an order correcting the description in the conveyance on proof being made to the satisfaction of the court that any of the following applies:
+847.07(1)(a)
+(a)  The conveyance contains an erroneous description, not intended by the parties to the conveyance.
+847.07(1)(b)
+(b)  The description is ambiguous and does not clearly or fully describe the premises intended to be conveyed.
+847.07(1)(c)
+(c)  The grantor of the conveyance is dead, a nonresident of the state, a corporation that has ceased to exist, or a personal representative, guardian, trustee, or other person authorized to convey who has been discharged from his or her trust and the grantee or his or her heirs, legal representatives, or assigns have been in the quiet, undisturbed, and peaceable possession of the premises intended to be conveyed from the date of the conveyance.
+847.07(2)
+(2)â€‚This section does not prevent an action for the reformation of any conveyance, and if in any doubt the court shall direct the action to be brought.
+847.07 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 768 (1975); 1977 c. 449; 2001 a. 102.847.07 Annotation
+While no Wisconsin precedent specifically requires the original parties to be before the court, the presence of a party who has acquired intervening rights is ordinarily enough to defeat reformation.  Chandelle Enterprises, LLC v. XLNT Dairy Farm, Inc. 2005 WI App 110, 282 Wis. 2d 806, 699 N.W.2d 241, 04-2423.847.07 Annotation
+There is no statutory authority for accomplishing a correction of the description of the property conveyed by deed by recording a broker's affidavit.  This section and its predecessor establish the proper procedure for seeking such a correction.  Smiljanic v. Niedermeyer, 2007 WI App 182, 304 Wis. 2d 197, 737 N.W.2d 436, 06-3083.847.09
+847.09â€ƒ
+Discharge of mortgage or lien by court.  The circuit court of any county in which a mortgage, lien or charge is recorded may make an order discharging the mortgage, lien or charge of record on proof being made to the satisfaction of the court that the mortgage, lien or charge has been fully paid or satisfied and that the mortgagee or the owner of the lien or charge or his or her assignee is a corporation which has ceased to exist or which has no officer or agent in this state competent to discharge the same of record or that the mortgagee or the owner of the lien or charge or his or her assignee is a nonresident of the county where the mortgage, lien or charge is recorded, or is deceased, and in such case, that there is no administrator of the estate under the authority of this state.  The register of deeds shall record the order or a copy thereof, certified by the clerk under the seal of the court, and the record shall have the same effect as the record of discharge by a mortgagee or owner of a lien or charge duly executed and acknowledged.
+847.09 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 768 (1975); 1977 c. 449.847.10
+847.10â€ƒ
+Antenna facilities.  No restrictive deed provision, restrictive covenant or agreement that affects satellite antennas with a diameter of 2 feet or less may be applied to any property on or after May 6, 1994, unless one of the following applies:
+847.10(1)
+(1)â€‚The restrictive deed provision, restrictive covenant or agreement has a reasonable and clearly defined aesthetic or public health or safety objective.
+847.10(2)
+(2)â€‚The restrictive deed provision, restrictive covenant or agreement does not impose an unreasonable limitation on, or prevent, the reception of satellite-delivered signals by a satellite antenna with a diameter of 2 feet or less.
+847.10(3)
+(3)â€‚The restrictive deed provision, restrictive covenant or agreement does not impose costs on a user of a satellite antenna with a diameter of 2 feet or less that exceed 10% of the purchase price and installation fee of the antenna and associated equipment.
+847.10 History
+History:  1993 a. 400. Down
+Down

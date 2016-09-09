@@ -1,0 +1,97 @@
+
+Up
+Up
+
+
+CHAPTER 969
+
+BAIL AND OTHER CONDITIONS OF RELEASE
+969.001   Definitions.
+969.01   Eligibility for release.
+969.02   Release of defendants charged with misdemeanors.
+969.03   Release of defendants charged with felonies.
+969.035   Pretrial detention; denial of release from custody.
+969.04   Surety may satisfy default.
+969.05   Endorsement of bail upon warrants.
+969.065   Judicial conference; bail alternatives.
+969.07   Taking of bail by law enforcement officer.
+969.08   Grant, reduction, increase or revocation of conditions of release.
+969.09   Conditions of bond.
+969.10   Notice of change of address.
+969.11   Release upon arrest in another county.
+969.12   Sureties.
+969.13   Forfeiture.
+969.14   Surrender of principal by surety.
+
+
+Ch. 969 Cross-reference
+Cross-reference:  See definitions in s. 967.02.969.001
+969.001â€ƒ
+Definitions.  In this chapter:
+969.001(1)
+(1)â€‚"Bail" means monetary conditions of release.
+969.001(2)
+(2)â€‚"Serious bodily harm" means bodily injury which causes or contributes to the death of a human being or which creates a substantial risk of death or which causes serious permanent disfigurement, or which causes a permanent or protracted loss or impairment of the function of any bodily member or organ or other serious bodily injury.
+969.001 History
+History:  1981 c. 183; 1987 a. 399.969.01
+969.01â€ƒ
+Eligibility for release. 969.01(1)
+(1)â€‚
+Before conviction.  Before conviction, except as provided in ss. 969.035 and 971.14 (1r), a defendant arrested for a criminal offense is eligible for release under reasonable conditions designed to assure his or her appearance in court, protect members of the community from serious bodily harm, or prevent the intimidation of witnesses.  Bail may be imposed at or after the initial appearance only upon a finding by the court that there is a reasonable basis to believe that bail is necessary to assure appearance in court.  In determining whether any conditions of release are appropriate, the judge shall first consider the likelihood of the defendant appearing for trial if released on his or her own recognizance.
+969.01(2)
+(2)â€‚After conviction. 969.01(2)(a)(a)  Release pursuant to s. 969.02 or 969.03 may be allowed in the discretion of the trial court after conviction and prior to sentencing or the granting of probation.  This paragraph does not apply to a conviction for a 3rd or subsequent violation that is counted as a suspension, revocation, or conviction under s. 343.307, or under s. 940.09 (1) or 940.25 in the person's lifetime, or a combination thereof.
+969.01(2)(b)
+(b)  In misdemeanors, release may be allowed upon appeal in the discretion of the trial court.
+969.01(2)(c)
+(c)  In felonies, release may be allowed upon appeal in the discretion of the trial court.
+969.01(2)(d)
+(d)  The supreme court or a justice thereof or the court of appeals or a judge thereof may allow release after conviction.
+969.01(2)(e)
+(e)  Any court or judge or any justice authorized to grant release after conviction for a misdemeanor or felony may, in addition to the powers granted in s. 969.08, revoke the order releasing a defendant.
+969.01(3)
+(3)â€‚Bail for witness.  If it appears by affidavit that the testimony of a person is material in any felony criminal proceeding and that it may become impracticable to secure the person's presence by subpoena, the judge may require such person to give bail for the person's appearance as a witness.  If the witness is not in court, a warrant for the person's arrest may be issued and upon return thereof the court may require the person to give bail as provided in s. 969.03 for the person's appearance as a witness.  If the person fails to give bail, the person may be committed to the custody of the sheriff for a period not to exceed 15 days within which time the person's deposition shall be taken as provided in s. 967.04.
+969.01(4)
+(4)â€‚Considerations in setting conditions of release.  If bail is imposed, it shall be only in the amount found necessary to assure the appearance of the defendant.  Conditions of release, other than monetary conditions, may be imposed for the purpose of protecting members of the community from serious bodily harm or preventing intimidation of witnesses.  Proper considerations in determining whether to release the defendant without bail, fixing a reasonable amount of bail or imposing other reasonable conditions of release are: the ability of the arrested person to give bail, the nature, number and gravity of the offenses and the potential penalty the defendant faces, whether the alleged acts were violent in nature, the defendant's prior record of criminal convictions and delinquency adjudications, if any, the character, health, residence and reputation of the defendant, the character and strength of the evidence which has been presented to the judge, whether the defendant is currently on probation, extended supervision or parole, whether the defendant is already on bail or subject to other release conditions in other pending cases, whether the defendant has been bound over for trial after a preliminary examination, whether the defendant has in the past forfeited bail or violated a condition of release or was a fugitive from justice at the time of arrest, and the policy against unnecessary detention of the defendant's pending trial.
+969.01 History
+History:  1977 c. 187; 1979 c. 112; 1981 c. 183; 1993 a. 486; 1995 a. 77; 1997 a. 232, 283; 2009 a. 100, 214.969.01 Annotation
+The trial court exceeded its authority in granting bail to a revoked probationer pending review of a probation revocation.  State ex rel. Shock v. DHSS, 77 Wis. 2d 362, 253 N.W.2d 55 (1977).969.01 Annotation
+Habeas corpus is available to persons released on personal recognizance bonds.  State ex rel. Wohlfahrt v. Bodette, 95 Wis. 2d 130, 289 N.W.2d 366 (Ct. App. 1980).969.01 Annotation
+The court may impose a monetary condition of release under sub. (2) (b).  State v. Barnes, 127 Wis. 2d 34, 377 N.W.2d 624 (Ct. App. 1985).969.01 Annotation
+A warrant under sub. (3) must be supported by probable cause to believe that the testimony of the person is material and that it may become impractical to secure the person's presence by subpoena.  State v. Brady, 130 Wis. 2d 443, 388 N.W.2d 151 (1986).
+969.01 Annotation
+Indigency under this section relates to current economic status and does not involve consideration of whether the defendant is shirking unless the shirking relates to another statutory factor.  Cash bail is not prohibited against an indigent convicted misdemeanant who takes an appeal.  However, where there is no risk that the indigent misdemeanant will not appear, cash bail is inappropriate.  State v. Taylor, 205 Wis. 2d 664, 556 N.W.2d 779 (Ct. App. 1996), 96-0857.969.01 Annotation
+The conditions that a court is authorized to impose under this section and s. 969.03 govern the release of a defendant from custody and do not apply if the defendant cannot post bond and is not released.  A court may impose pretrial, no-contact provisions on incarcerated defendants under s. 940.47 if the terms of that statute are met.  State v. Orlik, 226 Wis. 2d 527, 595 N.W.2d 468 (Ct. App. 1999), 98-2826.969.01 Annotation
+A circuit court that followed a blanket policy that mandated participation in a pretrial program as a condition of release for all persons based solely on the nature of the offense, without making an individualized determination that that condition is appropriate, erroneously exercised its discretion in setting conditions of bail.  State v. Wilcenski, 2013 WI App 21, 346 Wis. 2d 145, 827 N.W.2d 642, 12-0142.969.01 Annotation
+Under sub. (1), judges and court commissioners have the power, prior to the filing of a complaint, to release on bail persons arrested for the commission of a felony.  65 Atty. Gen. 102.
+969.01 Annotation
+The public defender may represent indigent material witnesses subject to sub. (3) bail provisions so long as there is no conflict of interest with another client, but may not represent indigents in civil forfeiture actions unless that action is reasonably related to one for which an indigent is entitled to counsel. 72 Atty. Gen. 61.969.01 Annotation
+Pretrial release; Wisconsin bail reform.  1971 WLR 594.
+969.01 Annotation
+The presumption of release in bail decisions.  Adelman and Schulenburg.  Wis. Law.  July 1989.
+969.02
+969.02â€ƒ
+Release of defendants charged with misdemeanors. 969.02(1)(1)â€‚A judge may release a defendant charged with a misdemeanor without bail or may permit the defendant to execute an unsecured appearance bond in an amount specified by the judge.
+969.02(2)
+(2)â€‚In lieu of release pursuant to sub. (1), the judge may require the execution of an appearance bond with sufficient solvent sureties, or the deposit of cash in lieu of sureties.  If the judge requires a deposit of cash in lieu of sureties, the person making the cash deposit shall be given written notice of the requirements of sub. (6).
+969.02(2m)
+(2m)â€‚The clerk of circuit court may accept a credit card or debit card, as defined in s. 59.40 (5) (a) and 1. and 2., instead of cash under sub. (2).
+969.02(3)
+(3)â€‚In addition to or in lieu of the alternatives under subs. (1) and (2), the judge may:
+969.02(3)(a)
+(a)  Place the person in the custody of a designated person or organization agreeing to supervise him or her.
+969.02(3)(b)
+(b)  Place restrictions on the travel, association or place of abode of the defendant during the period of release.
+969.02(3)(c)
+(c)  Prohibit the defendant from possessing any dangerous weapon.
+969.02(3)(d)
+(d)  Impose any other condition deemed reasonably necessary to assure appearance as required or any nonmonetary condition deemed reasonably necessary to protect members of the community from serious bodily harm or prevent intimidation of witnesses, including a condition that the defendant return to custody after specified hours.  The charges authorized by s. 303.08 (4) and (5) shall not apply under this section.
+969.02(3)(e)
+(e)  If the person is charged with violating a restraining order or injunction issued under s. 813.12 or 813.125, may require the person to participate in mental health treatment, a batterer's intervention program, or individual counseling.  The judge shall consider a request by the district attorney or the petitioner, as defined in s. 301.49 (1) (c), in determining whether to issue an order under this paragraph.
+969.02(4)
+(4)â€‚As a condition of release in all cases, a person released under this section shall not commit any crime.
+969.02(4m)
+(4m)â€‚Any person who is charged with a misdemeanor and released under this section shall comply with s. 940.49.  The person shall be given written notice of this requirement.
+969.02(5)
+(5)â€‚Once bail has been given and a charge is pending or is thereafter filed or transferred to another court, the latter court shall continue the original bail in that court subject to s. 969.08.
+ Down
+Down

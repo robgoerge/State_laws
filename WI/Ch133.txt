@@ -1,0 +1,87 @@
+
+Up
+Up
+
+
+CHAPTER 133
+
+TRUSTS AND MONOPOLIES
+133.01   Legislative intent.
+133.02   Definitions.
+133.03   Unlawful contracts; conspiracies.
+133.04   Price discrimination; intent to destroy competition.
+133.05   Secret rebates; unfair trade practices.
+133.06   Interlocking directorates.
+133.07   Certain organizations and activities not forbidden.
+133.08   Working people may organize; injunction not to restrain certain acts.
+133.09   Collective bargaining.
+133.10   Examination of adverse party.
+133.11   Investigatory proceeding.
+133.12   Domestic and foreign corporations and limited liability companies; cancellation of charters or certificates of authority for restraining trade; affidavit.
+133.13   Interrogatories.
+133.14   Illegal contracts void; recovery.
+133.15   No privilege from self-accusation.
+133.16   Injunction; pleading; practice.
+133.17   Prosecutions.
+133.18   Treble damages; statute of limitations.
+
+
+133.01
+133.01â€ƒ
+Legislative intent.  The intent of this chapter is to safeguard the public against the creation or perpetuation of monopolies and to foster and encourage competition by prohibiting unfair and discriminatory business practices which destroy or hamper competition.  It is the intent of the legislature that this chapter be interpreted in a manner which gives the most liberal construction to achieve the aim of competition.  It is the intent of the legislature to make competition the fundamental economic policy of this state and, to that end, state regulatory agencies shall regard the public interest as requiring the preservation and promotion of the maximum level of competition in any regulated industry consistent with the other public interest goals established by the legislature.
+133.01 History
+History:  1979 c. 209.133.01 Annotation
+This section does not require that any regulation must employ the least anticompetitive means to achieve a legislatively mandated goal.  It is nowhere stated that it is the intent of this section that the entire statutes be interpreted in light of this section.  This section applies when parties assert violations of antitrust law.  County of Milwaukee v. Williams, 2007 WI 69, 301 Wis. 2d 134, 732 N.W.2d 770, 05-2686.133.01 Annotation
+A defendant's actions that were exempt from federal antitrust laws were also shielded from state antitrust laws.  Suburban Beverages v. Pabst Brewing, 462 F. Supp. 1301 (1978).133.01 Annotation
+The application of ch. 133 to cases involving interstate commerce is discussed.  Emergency One, Inc. v. Waterous Co., Inc. 23 F. Supp. 2d 959 (1998).133.01 Annotation
+Spotting unreasonable restraints of trade without difficulty.  Hansen, WBB June 1982.
+133.01 Annotation
+Wisconsin's Antitrust Law: Outsourcing the Legal Standard.  Waxman.  94 MLR 1173 (2011).
+133.02
+133.02â€ƒ
+Definitions.  In this chapter:
+133.02(1)
+(1)â€‚"Commodity" includes, but is not limited to, goods, merchandise, produce and any other article of commerce.  "Commodity" includes services, except as used in s. 133.04.
+133.02(2)
+(2)â€‚"Knowingly" means that the actor believes that the specified fact exists.
+133.02(3)
+(3)â€‚"Person" includes individuals, the state and all its political subdivisions, all counties, cities, villages, towns, school districts, governmental agencies and bodies politic and corporate, and all corporations, limited liability companies, partnerships, associations, companies, firms, joint ventures, joint stock companies, trusts, business trusts, estates and other legal or commercial entities existing under or authorized by the laws of this or any other state, the United States or any of its territories or any foreign country.  Nothing in this definition may be construed to affect labor unions or any other association of laborers organized to promote the welfare of its members, nor associations or organizations intended to legitimately promote the interests of trade, commerce or manufacturing in this state, nor associations, corporate or otherwise, of farmers, gardeners or dairy workers or owners, including livestock farmers and fruit growers engaged in making collective sales or marketing for its members or shareholders of farm, orchard or dairy products produced by its members or shareholders if such activities are exempted under s. 133.07, 133.08 or 133.09 or are otherwise lawful under this chapter.
+133.02 History
+History:  1979 c. 209; 1993 a. 112.133.03
+133.03â€ƒ
+Unlawful contracts; conspiracies. 133.03(1)
+(1)â€‚Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce is illegal.  Every person who makes any contract or engages in any combination or conspiracy in restraint of trade or commerce is guilty of a Class H felony, except that, notwithstanding the maximum fine specified in s. 939.50 (3) (h), the person may be fined not more than $100,000 if a corporation, or, if any other person, may be fined not more than $50,000.
+133.03(2)
+(2)â€‚Every person who monopolizes, or attempts to monopolize, or combines or conspires with any other person or persons to monopolize any part of trade or commerce is guilty of a Class H felony, except that, notwithstanding the maximum fine specified in s. 939.50 (3) (h), the person may be fined not more than $100,000 if a corporation, or, if any other person, may be fined not more than $50,000.
+133.03(3)
+(3)â€‚As an alternative to the criminal penalties for violation of this section, the department of justice or district attorney may bring an action for a civil forfeiture.  In an action for a civil forfeiture under this subsection a corporation may be required to forfeit not more than $100,000 and any other person may be required to forfeit not more than $50,000.
+133.03(4)
+(4)â€‚This section does not apply to ambulance service contracted for under ss. 59.54 (1), 60.565, 61.64 and 62.133.
+133.03 History
+History:  1979 c. 209; 1991 a. 39; 1995 a. 201; 1997 a. 283; 2001 a. 109.133.03 Annotation
+"Rule of reason" and "illegal per se" rules are discussed.  Grams v. Boss, 97 Wis. 2d 332, 294 N.W.2d 473 (1980).133.03 Annotation
+Only unreasonable restraints on trade are prohibited.  Independent Milk Producers Coop. v. Stoffel, 102 Wis. 2d 1, 298 N.W.2d 102 (Ct. App. 1980).133.03 Annotation
+Refusal by a city to provide sewage service to a portion of a town unless inhabitants agreed to annexation of that portion did not violate antitrust law. Town of Hallie v. City of Chippewa Falls, 105 Wis. 2d 533, 314 N.W.2d 321 (1982).133.03 Annotation
+The antitrust law demonstrates the legislature's intent to subordinate city home-rule authority to its provisions.  Unless legislation at least impliedly authorizes a city's anticompetitive action, the city has violated the antitrust law.  Amer. Med. Transp. v. Curtis-Universal, 154 Wis. 2d 135, 452 N.W.2d 575 (1990).133.03 Annotation
+The test for applicability of the state antitrust law is whether the legislature intended to allow municipalities to undertake such actions.  A city may tie the provision of sewage services to an area outside the city to the acceptance by the area's inhabitants of the city's other services.  Town of Neenah Sanitary District No. 2 v. City of Neenah, 2002 WI App 155, 256 Wis. 2d 296, 647 N.W.2d 913, 01-2520.133.03 Annotation
+To prove an allegation of predatory pricing, the plaintiff must show: 1) the prices and other direct revenues from the practice complained of are below an appropriate measure of the defendant's costs; and 2) the defendant has a dangerous probability of recouping its investment losses in its below-cost prices by later raising prices above competitive levels.  Conley Publishing Group, Ltd. v. Journal Communications, Inc. 2003 WI 119, 265 Wis. 2d 128, 665 N.W.2d 879, 01-3128.133.03 Annotation
+Chapter 133, particularly s. 133.03, applies to interstate commerce in some circumstances.  A complaint under ch. 133 must allege that: 1) actionable conduct, such as the formation of a combination or conspiracy, occurred within this state, even if its effects are felt primarily outside Wisconsin; or 2) the conduct complained of substantially affects the people of Wisconsin and has impacts in this state, even if the illegal activity resulting in those impacts occurred predominantly or exclusively outside this state.  Olstad v. Microsoft Corporation, 2005 WI 121, 284 Wis. 2d 224, 700 N.W.2d 139, 03-1086.133.03 Annotation
+The public interest and welfare of the people of Wisconsin are substantially affected, as required in Olstad, if prices of a product are fixed or supplies thereof are restricted as the result of an illegal combination or conspiracy.  Meyers v. Bayer AG, 2006 WI App 102, 293 Wis. 2d 770, 718 N.W.2d 251, 03-2840.133.03 Annotation
+The test for substantial effects under Olstad requires that the appellants allege:  1) specific effects on Wisconsin commerce, not merely effects that are nationwide; and 2) that these effects on Wisconsin are more than a general nationwide effect on price.  Szukalski v. Crompton Corporation, 2006 WI App 195, 296 Wis. 2d 728, 726 N.W. 2d 304, 03-3132.133.03 Annotation
+When the circumstances involve interstate commerce and the challenged conduct occurred outside of Wisconsin, a complaint under ch. 133 is sufficient if it alleges price fixing as a result of the formation of a combination or conspiracy that substantially affected the people of Wisconsin and had impacts in this state.  Plaintiffs are not required to assert allegations of disproportionate impacts on Wisconsin.  An allegation that thousands of Wisconsin consumers paid supracompetitive prices as a result of monopolistic conduct by an interstate seller states a basis for recovery.  Meyers v. Bayer AG, 2007 WI 99, 303 Wis. 2d 295, 735 N.W.2d 448, 03-2840.133.03 Annotation
+Chapter 125 contemplates and expressly directs that regulation is to supersede competition in the retail sale of alcohol beverages.  The regulatory scheme indicates a legislative intent to make state antitrust law not applicable by authorizing contrary or inconsistent conduct by granting municipalities broad statutory authority to prescribe or orchestrate anticompetitive regulation in the sale and consumption of alcohol if that regulation serves an important public interest.  Private parties are eligible for antitrust immunity when they act in concert, in an anticompetitive manner, in direct response to pressure bordering on compulsion from a municipality.  Eichenseer v. Madison-Dane County Tavern League, Inc. 2008 WI 38, 308 Wis. 2d 684, 748 N.W.2d 154, 05-1063.133.03 Annotation
+The state antitrust statute was intended to be a reenactment of the federal Sherman Antitrust Act and is generally controlled by federal court decisions.  Lerma v. Univision Communications, Inc. 52 F. Supp. 2d 1011 (1999).133.04
+133.04â€ƒ
+Price discrimination; intent to destroy competition. 133.04(1)(1)â€‚No person may discriminate, either directly or indirectly, in price between different purchasers of commodities of like grade and quality, for the purpose or intent of injuring or destroying competition in any level of competition or any person engaged therein.
+133.04(2)
+(2)â€‚Any person violating this section may be fined not more than $25,000 or imprisoned in the county jail for not more than one year or both.
+133.04(3)
+(3)â€‚As an alternative to the criminal penalty for violation of this section, the department of justice or district attorney may bring an action for a civil forfeiture.  In an action for a civil forfeiture under this subsection a person who violates this section may be required to forfeit not more than $25,000.
+133.04(4)
+(4)â€‚The provisions of this section as they relate to the business of insurance are superseded by the provisions of chs. 611, 613 and 628.
+133.04 History
+History:  1979 c. 209; 1979 c. 355 ss. 131, 132; 1983 a. 215 s. 17.133.04 Annotation
+Civil violations of this section must meet the ordinary civil burden of proof.  Carlson & Erickson v. Lampert Yards, 190 Wis. 2d 650, 529 N.W.2d 905 (1995).133.04 Annotation
+Promotional price cutting and section 2 (a) of the Robinson-Patman Act.  Gifford.  1976 WLR 1045.
+ Down
+Down

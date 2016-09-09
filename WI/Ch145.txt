@@ -1,0 +1,94 @@
+
+Up
+Up
+
+
+CHAPTER 145
+
+PLUMBING AND FIRE PROTECTION SYSTEMS AND SWIMMING POOL PLAN REVIEW
+145.01   Definitions.
+145.02   Powers of department.
+145.035   Temporary permits.
+145.04   Water and sewerage systems.
+145.045   Certification of soil testers.
+145.05   Plumbing supervisors, supervision.
+145.06   License or registration required; exemptions.
+145.07   Licenses and registration; examinations.
+145.08   Fees; expiration of license; registration.
+145.09   State comity.
+145.10   Investigations, hearings; suspension, revocation.
+145.11   Advertising restrictions.
+145.12   Prohibitions and penalties.
+145.13   Adoption of plumbing code.
+145.14   Plumbers license (restricted).
+145.15   Licenses.
+145.16   Fire sprinkler system apprentices, registration.
+145.165   Automatic fire sprinkler fitter-maintenance only registration.
+145.17   Inspectors and rule making.
+145.175   Automatic fire sprinkler-maintenance only registration.
+145.18   Temporary permits.
+145.19   Sanitary permits.
+145.195   Building on unsewered property.
+145.20   Private on-site wastewater treatment systems.
+145.23   Rules.
+145.24   Variances.
+145.245   Private on-site wastewater treatment system replacement or rehabilitation.
+145.26   Public swimming pool plan review.
+
+
+Ch. 145 Cross-reference
+Cross-reference:  See also chs. SPS 305, 381, 382, 383, 384, 385, 386, 387, and 391, Wis. adm. code.145.01
+145.01â€ƒ
+Definitions.  In this chapter:
+145.01(1)
+(1)â€‚Automatic fire sprinkler contractor.  "Automatic fire sprinkler contractor" means any individual, firm or corporation who has paid the annual license fee and obtained a license to conduct a business in the design, installation, maintenance or repair of automatic fire sprinkler systems.
+145.01(2)
+(2)â€‚Automatic fire sprinkler system.  "Automatic fire sprinkler system", for fire protection purposes, means an integrated system of underground and overhead piping designed in accordance with fire protection engineering standards.  The system includes a suitable water supply, such as a gravity tank, fire pump, reservoir or pressure tank or connection beginning at the supply side of an approved gate valve located at or near the property line where the pipe or piping system provides water used exclusively for fire protection and related appurtenances and to standpipes connected to automatic sprinkler systems.  The portion of the sprinkler system above ground is a network of specially sized or hydraulically designed piping installed in a building, structure or area, generally overhead, and to which sprinklers are connected in a systematic pattern.  The system includes a controlling valve and a device for actuating an alarm when the system is in operation.  The system is usually activated by heat from a fire and discharges water over the fire area.
+145.01(3)
+(3)â€‚Automatic fire sprinkler system apprentice.  "Automatic fire sprinkler system apprentice" means any person other than an automatic fire sprinkler system contractor or a journeyman automatic fire sprinkler system fitter who is engaged in learning and assisting in the installation of automatic fire sprinkler systems and who is employed under an apprentice contract under s. 106.01.
+145.01(3m)
+(3m)â€‚Cross-connection control device.  "Cross-connection control device" means any mechanical device that automatically prevents backflow from a contaminated source in or into a water supply system.
+145.01(3s)
+(3s)â€‚Cross-connection control tester.  "Cross-connection control tester" means a person who conducts a performance test of an installed cross-connection control device.
+145.01(4)
+(4)â€‚Department.  "Department" means the department of safety and professional services.
+145.01(4m)
+(4m)â€‚Failing private on-site wastewater treatment system.  "Failing private on-site wastewater treatment system" has the meaning specified under s. 145.245 (4).
+145.01(5)
+(5)â€‚Governmental unit responsible for regulation of private on-site wastewater treatment systems.  "Governmental unit responsible for the regulation of private on-site wastewater treatment systems" or "governmental unit", unless otherwise qualified, means the county except that in a county with a population of 750,000 or more these terms mean the city, village or town where the private on-site wastewater treatment system is located.
+145.01(6)
+(6)â€‚Journeyman automatic fire sprinkler fitter.  "Journeyman automatic fire sprinkler fitter" means any person other than an automatic fire sprinkler contractor who is engaged in the practical installation of automatic fire sprinkler systems.
+145.01(7)
+(7)â€‚Journeyman plumber.  "Journeyman plumber" means any person other than a master plumber, who is engaged in the practical installation of plumbing.
+145.01(8)
+(8)â€‚Master plumber.  "Master plumber" means any person skilled in the planning, superintending and the practical installation of plumbing and familiar with the laws, rules and regulations governing the same.
+145.01(9)
+(9)â€‚Pipelayer.  "Pipelayer" means a person registered under s. 145.07 (11).
+145.01(10)
+(10)â€‚Plumbing. 145.01(10)(a)(a)  "Plumbing" means:
+145.01(10)(a)1.
+1.  All piping, fixtures, appliances, equipment, devices, and appurtenances in connection with water supply systems, water distribution systems, wastewater drainage systems, reclaimed water systems, and stormwater use systems, including hot water storage tanks, water treatment devices, and water heaters connected with these systems and also includes the installation thereof.
+145.01(10)(a)2.
+2.  The construction, connection, installation, service, or repair of any drain or wastewater piping system that connects to the mains or other terminal within the bounds of, or beneath an area subject to easement for highway purposes, including private on-site wastewater treatment systems and stormwater treatment and dispersal systems, and the alteration of any such systems, drains or wastewater piping.
+145.01(10)(a)3.
+3.  The construction, connection, installation, service, or repair of water service piping that connects to the main or other water utility service terminal within the bounds of, or beneath an area subject to easement for highway purposes and its connections.
+145.01(10)(a)4.
+4.  The water pressure system other than municipal systems as provided in ch. 281.
+145.01(10)(a)5.
+5.  A plumbing and drainage system so designed and vent piping so installed as to keep the air within the system in free circulation and movement; to prevent with a margin of safety unequal air pressures of such force as might blow, siphon or affect trap seals, or retard the discharge from plumbing fixtures, or permit sewer air to escape into the building; to prohibit cross-connection, contamination or pollution of the water supply and distribution systems; and to provide an adequate supply of water to properly serve, cleanse and operate all fixtures, equipment, appurtenances and appliances served by the plumbing system.
+145.01(10)(br)
+(br)  "Plumbing" does not include any of the following:
+145.01(10)(br)1.
+1.  A rainwater gutter or downspout down to the point that it discharges into a plumbing system, a subsoil drain, or a foundation drain.
+145.01(10)(br)2g.
+2g.  A process water reuse system if the process water reuse system is not connected to any plumbing fixture or appliance.
+145.01(10)(br)2m.
+2m.  A stormwater culvert under a roadway or walkway that is placed there only to equalize the water level from one end of the culvert to the other end.
+145.01(10)(br)3.
+3.  The practical installation of process piping within a sewage disposal plant.
+145.01(11)
+(11)â€‚Plumbing apprentice.  "Plumbing apprentice" means any person other than a journeyman or master plumber who is engaged in learning and assisting in the installation of plumbing and drainage.
+145.01(12)
+(12)â€‚Private on-site wastewater treatment system.  "Private on-site wastewater treatment system" means a sewage treatment and disposal system serving a single structure with a septic tank and soil absorption field located on the same parcel as the structure.  This term also means an alternative sewage system approved by the department including a substitute for the septic tank or soil absorption field, a holding tank, a system serving more than one structure or a system located on a different parcel than the structure.  A private on-site wastewater treatment system may be owned by the property owner or by a special purpose district.
+ Down
+Down

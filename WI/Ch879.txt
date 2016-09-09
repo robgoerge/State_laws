@@ -1,0 +1,87 @@
+
+Up
+Up
+
+
+CHAPTER 879
+
+PROBATE â€” NOTICE, APPEARANCE, APPEAL AND MISCELLANEOUS PROCEDURE
+879.01   Petitions to court.
+879.03   Notice; court order.
+879.05   Notice; manner of giving.
+879.07   Proof of service of notice.
+879.09   Notice requirement satisfied by waiver of notice.
+879.11   Notice requirement satisfied by appearance.
+879.13   Delayed service of notice.
+879.15   Appearances, how made.
+879.17   Attorney, appearance by.
+879.19   Attorney, notice to.
+879.21   Appearance for person domiciled in foreign country.
+879.23   Guardian ad litem.
+879.25   Attorney for person in military service.
+879.26   Waiver of right to certain documents.
+879.27   Appeals.
+879.31   Relief from judgment or order.
+879.33   Costs, if allowed; judgment for.
+879.35   Costs in will contests.
+879.37   Attorney fees in contests.
+879.39   Security and judgment for costs.
+879.41   Fees in court.
+879.43   Money judgment in favor of estate.
+879.45   Jury trials, practice.
+879.47   Papers, preparation and filing.
+879.49   Papers, withdrawal.
+879.51   Court not to delay in setting matter for hearing.
+879.53   Hearings set for a day certain.
+879.55   Correction of clerical errors in court records.
+879.57   Special administrator; personal representative, guardian.
+879.59   Compromises.
+879.61   Discovery proceedings.
+879.63   Action by person interested to secure property for estate.
+879.67   Out-of-state service on personal representative.
+879.69   Court must rule on petition.
+
+
+Ch. 879 Cross-reference
+Cross-reference:  See definitions in ch. 851.879.01
+879.01â€ƒ
+Petitions to court.  All applications to courts, except motions in matters at issue, shall be made by verified petition.  All petitions must show the jurisdiction of the court and the interest of the petitioner.  All petitions, except those for statutory certificates or for ex parte orders in proceedings already pending, shall also show the names and post-office addresses of all persons interested, so far as known to the petitioner or ascertainable by him or her with reasonable diligence; and shall indicate who are minors or otherwise under disability, and the names and post-office addresses of their guardians.  No defect of form or substance in any petition may invalidate any proceedings.
+879.01 History
+History:  1977 c. 449.879.01 Annotation
+An "action" under s. 801.01 includes a special proceeding such as probate.  In Matter of Estate of Martz, 171 Wis. 2d 89, 491 N.W.2d 772 (Ct. App. 1992).879.01 Annotation
+In probate actions, as in civil cases generally, the burden is on the petitioner to move the case forward.  Theis v. Short, 2010 WI App 108, 328 Wis. 2d 162, 789 N.W.2d 585, 09-1591.879.03
+879.03â€ƒ
+Notice; court order. 879.03(1)(1)â€‚
+How given.  If notice of any proceeding in court or informal administration is required by law or deemed necessary by the court or the probate registrar under informal administration proceedings and the manner of giving notice is not directed by law, the court or the probate registrar shall order notice to be given under s. 879.05.  The court or the probate registrar may order both service by publication and personal service on designated persons.
+879.03(2)
+(2)â€‚Who entitled to notice.  The following persons are entitled to notice:
+879.03(2)(a)
+(a)  Each person interested unless represented by a guardian ad litem or guardian of the estate or unless represented by another person under the doctrine of virtual representation under s. 879.23 (5).
+879.03(2)(b)
+(b)  Any guardian ad litem, guardian of the estate or attorney, or attorney-in-fact, for a person in the military service that represents any person interested.
+879.03(2)(c)
+(c)  The attorney general where a charitable trust, as defined in s. 701.0103 (4), is involved, and in all cases mentioned in s. 852.01 (3).
+879.03(3)
+(3)â€‚Domiciliary of a foreign country.  If the petition for administration shows, or if it appears, that any person interested is a domiciliary of a foreign country and the address of the person is unknown, the court shall cause the notice of hearing of the petition or of any subsequent proceeding that may then be pending to be given the consul, vice consul or consular agent of the foreign country by mailing a copy of the notice in a sealed envelope, postage prepaid, addressed to the consul, vice consul or consular agent at his or her post-office address, at least 20 days before the hearing.  If it is shown to the court that there is no consul, vice consul or consular agent of the foreign country, the court may direct that the notice be so mailed to the attorney general.
+879.03(4)
+(4)â€‚When order does not specifically designate persons interested.  If the order does not specifically designate the persons to whom notice is to be given, the order shall be deemed to refer to the persons set forth in the petition for the hearing or otherwise shown by the record as being persons interested and to the post-office addresses set forth or otherwise shown therein.  The order and record shall be conclusive in all collateral actions and proceedings as to the names being the names of all persons interested and as to the reasonable diligence of the personal representative in determining the post-office addresses.
+879.03(5)
+(5)â€‚Unknown persons or addresses.  Where the post-office address of a person interested is not known or reasonably ascertainable, or the names of persons interested are unknown, the notice shall so state and such statement shall be included in the publication thereof.
+879.03 History
+History:  1973 c. 90, 233, 336; 1975 c. 198 s. 65; 1975 c. 421; 1977 c. 73, 449; 1983 a. 189 s. 329 (26); 1991 a. 220; 1993 a. 486; 2013 a. 92.879.03 Cross-reference
+Cross-reference:  See s. 851.21 which defines "persons interested".
+879.03 Cross-reference
+Cross-reference:  See s. 856.11, which requires notice to both an interested person and his guardian ad litem or guardian of the estate when giving notice of hearing on petition for administration.
+879.05
+879.05â€ƒ
+Notice; manner of giving. 879.05(1)
+(1)â€‚
+Generally.  Unless the statute requiring notice in a particular proceeding provides otherwise, notice required in the administration of an estate or other proceeding shall be given either by mail under sub. (2) or by personal service under sub. (3).  The first notice given by mail in any administration or other proceeding must be accompanied by notice by publication given under sub. (4).  Notice by publication in addition to mailed notice is required for subsequent hearings if the name or the post-office address of one or more persons entitled to notice has not been ascertained.
+879.05(2)
+(2)â€‚Service by mail.  Service shall be made by first class mail either within or without the state at least 20 days before the hearing or proceeding upon any person whose post-office address is known or can with reasonable diligence be ascertained.
+879.05(3)
+(3)â€‚Personal service.  Personal service shall be made at least 10 days before the hearing under s. 801.11, except as that section provides for service by publication and except that substituted service under s. 801.11 (1) (b) may not be made outside this state.
+879.05(4)
+(4)â€‚Service by publication.  Unless a statute provides otherwise, every court notice required to be given by publication shall be published as a class 3 notice in a newspaper published in the county, eligible under ch. 985, as the court by order directs.
+ Down
+Down

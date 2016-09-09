@@ -1,0 +1,80 @@
+
+Up
+Up
+
+
+CHAPTER 775
+
+ACTIONS AGAINST STATE
+775.01   Actions against state; bond.
+775.04   Judgment, how paid.
+775.05   Compensation for innocent convicts.
+775.06   Payment toward state employee judgments.
+775.10   State party defendant; judgment.
+775.11   Payment of state employee attorney fees in certain cases.
+
+
+775.01
+775.01â€ƒ
+Actions against state; bond.  Upon the refusal of the legislature to allow a claim against the state the claimant may commence an action against the state by service as provided in s. 801.11 (3) and by filing with the clerk of court a bond, not exceeding $1,000, with 2 or more sureties, to be approved by the attorney general, to the effect that the claimant will indemnify the state against all costs that may accrue in such action and pay to the clerk of court all costs, in case the claimant fails to obtain judgment against the state.
+775.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 775 (1975); 1975 c. 218; 1979 c. 32 s. 53; Stats. 1979 s. 775.01.775.01 Annotation
+The bond requirement of s. 775.01 may be waived under s. 814.29 (1).  Boldt v. State, 101 Wis. 2d 566, 305 N.W.2d 133 (1981).775.01 Annotation
+Legislative adjournment before action on a bill authorizing payment of a claim constitutes refusal of the claim and satisfies the condition precedent for commencing an action.  Cross-claimants are also required to meet the statutory conditions precedent.  This section allows actions on a debt but does not allow tort actions or actions based on equity, including actions for unjust enrichment.  CleanSoils Wisconsin, Inc. v. DOT, 229 Wis. 2d 600, 599 N.W.2d 903 (Ct. App. 1999), 98-3374.775.01 Annotation
+A claim subject to this section must be presented to the legislature, in the form of a bill, and rejected before suit may be filed on the claim.  The procedure is not optional.  Brown v. State, 230 Wis. 2d 355, 602 N.W.2d 79 (Ct. App. 1999), 98-2662.775.01 Annotation
+A breach of contract claim seeking damages for lost profits and expenses incurred is not a claim within the meaning of this section.  The relevant inquiry here is whether the breach of contract claim is an action of debt or indebitatus assumpsit.  "Debt," for which an action of debt will lie, is a specific sum of money that is due or owing from one to another.  Koshick v. State, 2005 WI App 232, 287 Wis. 2d 608, 706 N.W.2d 174, 05-0539.775.04
+775.04â€ƒ
+Judgment, how paid.  No execution shall issue against the state on any judgment, but whenever a final judgment against the state shall have been obtained in any such action the clerk shall make and furnish to the department of administration a duly certified transcript of such judgment; and the department of administration shall thereupon audit the amount of damages and costs therein awarded, and the same shall be paid out of the state treasury.
+775.04 History
+History:  1979 c. 32 s. 53; Stats. 1979 s. 775.04.775.05
+775.05â€ƒ
+Compensation for innocent convicts. 775.05(1)
+(1)â€‚The claims board shall hear petitions for the relief of innocent persons who have been convicted of a crime.
+775.05(2)
+(2)â€‚Any person who is imprisoned as the result of his or her conviction for a crime in any court of this state, of which crime the person claims to be innocent, and who is released from imprisonment for that crime after March 13, 1980, may petition the claims board for compensation for such imprisonment.  Upon receipt of the petition, the claims board shall transmit a copy thereof to the prosecutor who prosecuted the petitioner and the judge who sentenced the petitioner for the conviction which is the subject of the claim, or their successors in office, for the information of these persons.
+775.05(3)
+(3)â€‚After hearing the evidence on the petition, the claims board shall find either that the evidence is clear and convincing that the petitioner was innocent of the crime for which he or she suffered imprisonment, or that the evidence is not clear and convincing that he or she was innocent.
+775.05(4)
+(4)â€‚If the claims board finds that the petitioner was innocent and that he or she did not by his or her act or failure to act contribute to bring about the conviction and imprisonment for which he or she seeks compensation, the claims board shall find the amount which will equitably compensate the petitioner, not to exceed $25,000 and at a rate of compensation not greater than $5,000 per year for the imprisonment.  Compensation awarded by the claims board shall include any amount to which the board finds the petitioner is entitled for attorney fees, costs and disbursements.  If the claims board finds that the amount it is able to award is not an adequate compensation it shall submit a report specifying an amount which it considers adequate to the chief clerk of each house of the legislature, for distribution to the legislature under s. 13.172 (2).
+775.05(5)
+(5)â€‚The claims board shall keep a complete record of its proceedings in each case and of all the evidence.  The findings and the award of the claims board shall be subject to review as provided in ch. 227.
+775.05 History
+History:  1979 c. 32 s. 53; 1979 c. 126, 176; Stats. 1979 s. 775.05; 1987 a. 186.775.05 Annotation
+When there was no evidence in support of the claimant's conviction, and he was innocent as a matter of law, the Claims Board's finding to the contrary was inexplicable.  Turnpaugh v. State of Wisconsin Claims Board, 2012 WI App 72, 342 Wis. 2d 182, 816 N.W.2d 920, 11-2365.775.05 Annotation
+Incarceration in a jail is imprisonment within the meaning of this section.  Turnpaugh v. State of Wisconsin Claims Board, 2012 WI App 72, 342 Wis. 2d 182, 816 N.W.2d 920, 11-2365.775.05 Annotation
+Compensation for the Unjustly Imprisoned: A Model for Reform in Wisconsin. Fite.  2005 WLR 1181.
+775.05 Annotation
+Exonerees' Hardships After Freedom.  Delaney, Findley, & Sullivan.  Wis. Law. Feb. 2010.
+775.06
+775.06â€ƒ
+Payment toward state employee judgments. 775.06(1)(1)â€‚The claims board shall hear petitions from law enforcement officers employed by the state who have judgments against them for damages caused while in their line of duty where they acted in good faith and who have incurred charges for counsel fees and costs in defending said action.
+775.06(2)
+(2)â€‚Any such judgment debtor may petition the claims board, setting forth the amount of the judgment, fees and costs which the debtor must pay, the facts and circumstances causing the damages resulting in the judgment and the reasons for claiming relief under this section.
+775.06(3)
+(3)â€‚Upon receipt of such petitions the claims board shall fix a time and place for hearing the matter and give notice thereof to the petitioner.
+775.06(4)
+(4)â€‚Upon the hearing the record of the trial in which the judgment was had may be presented to the claims board but the findings, conclusions and determination and the award of, or the denial thereof by the claims board, shall be based on all the evidence and circumstances submitted to it which bear on the petition.
+775.06(5)
+(5)â€‚If from its findings of fact the claims board concludes that the petitioner was in line of duty as a law enforcement officer of the state and acted in good faith at the time of the transaction in question, the claims board shall award and certify to the petitioner the amount of the judgment which the petitioner must pay; if the claims board further finds that the counsel fees and costs claimed by the petitioner are reasonable and that the contract of employment was in accordance with law and was not made with any other state officer, employee, or agent, the claims board shall further award and certify to the petitioner the amount of said counsel fees and costs; the entire award shall be from the appropriation made by s. 20.505 (4) (d), but not to exceed $5,000.
+775.06(6)
+(6)â€‚If the claims board shall find that the amount it is able to award will not be adequate it shall submit a report of the amount of the difference to the chief clerk of each house of the legislature, for distribution to the legislature under s. 13.172 (2), for action by the legislature.
+775.06(7)
+(7)â€‚The claims board shall keep a complete record of its proceedings in each case and of all the evidence.  The findings, conclusions, determination and award shall be subject to review as provided in ch. 227.
+775.06 History
+History:  1979 c. 32 s. 53; 1979 c. 34 s. 2102 (1) (c); 1979 c. 176; Stats. 1979 s. 775.06; 1981 c. 20 s. 2202 (1) (b); 1987 a. 186.775.06 Cross-reference
+Cross-reference:  See s. 895.46 for general provision for payment of judgments against public officers or employees.
+775.10
+775.10â€ƒ
+State party defendant; judgment.  The state may be made a party defendant in any action for a declaration of interests under s. 841.01 or between other parties, when necessary to the proper determination of their rights.  The complaint shall set forth with particularity the nature of the interest or lien of the state.  But no judgment for the recovery of money or personal property or costs shall be rendered in any such action against the state.
+775.10 History
+History:  1973 c. 189 s. 8; Sup. Ct. Order, 67 Wis. 2d 585, 775 (1975); 1979 c. 32 s. 53; Stats. 1979 s. 775.10.775.10 Annotation
+An action for specific performance of a real estate purchase agreement is not an action for a declaration of interest in real estate. A specific performance action is a suit under Art. IV, s. 27 to which the legislature has not consented and is not permitted against the state.  Erickson Oil Products, Inc. v. DOT, 184 Wis. 2d 36, 516 N.W.2d 755 (Ct. App. 1994).775.11
+775.11â€ƒ
+Payment of state employee attorney fees in certain cases. 775.11(1)(1)â€‚Any state employee against whom charges are filed under s. 940.29, and who is subsequently found not guilty, shall be reimbursed by the state for reasonable attorney fees and costs in defending such action.
+775.11(2)
+(2)â€‚Claims against the state under this section shall be filed with the claims board as provided in s. 775.06.
+775.11(3)
+(3)â€‚On receipt of such a claim the claims board shall determine whether the claim is authorized by this section and if so shall determine the amount of attorney fees and costs incurred and shall allow such attorney fees and costs as in its judgment are reasonable.
+775.11 History
+History:  1979 c. 32 ss. 53, 92 (5); Stats. 1979 s. 775.11; 1993 a. 490. Down
+Down

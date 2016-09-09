@@ -1,0 +1,110 @@
+
+Up
+Up
+
+
+CHAPTER 709
+
+DISCLOSURES BY OWNERS OF REAL ESTATE
+709.001   Definitions.
+709.01   Requirements for transfer.
+709.02   Disclosure.
+709.03   Residential real estate condition report form.
+709.033   Vacant land disclosure report form.
+709.035   Amendments to report.
+709.04   Indication of compliance.
+709.05   Right to rescind.
+709.06   Good faith.
+709.07   Liability precluded.
+709.08   Waiver.
+
+
+709.001
+709.001â€ƒ
+Definitions.  In this chapter:
+709.001(1)
+(1)â€‚"Condominium unit" or "unit" has the meaning given for "unit" in s. 703.02 (15).
+709.001(2)
+(2)â€‚"Dwelling unit" has the meaning given in s. 101.61 (1).
+709.001(3)
+(3)â€‚"Public agency" has the meaning given in s. 66.0825 (3) (h).
+709.001(4)
+(4)â€‚"Qualified 3rd party" has the meaning given in s. 452.23 (2) (b).
+709.001(5)
+(5)â€‚"Real property" means either of the following:
+709.001(5)(a)
+(a)  Real property that includes 1 to 4 dwelling units, but excluding property that has not been inhabited.
+709.001(5)(b)
+(b)  Real property that does not include any buildings.
+709.001(6)
+(6)â€‚"Time-share property" has the meaning given in s. 707.02 (32).
+709.001 History
+History:  2011 a. 107.709.01
+709.01â€ƒ
+Requirements for transfer. 709.01(1)
+(1)â€‚Except as provided in sub. (2), all persons who transfer real property located in this state, including a condominium unit and time-share property, by sale, exchange, or land contract, unless the transfer is exempt from the real estate transfer fee under s. 77.25, shall comply with ss. 709.02 to 709.04 and 709.06.
+709.01(2)
+(2)â€‚Subsection (1) does not apply to any of the following persons, if those persons have never occupied the property transferred:
+709.01(2)(a)
+(a)  Personal representatives.
+709.01(2)(b)
+(b)  Trustees.
+709.01(2)(c)
+(c)  Conservators.
+709.01(2)(d)
+(d)  Fiduciaries who are appointed by, or subject to the supervision of, a court.
+709.01 History
+History:  1991 a. 162; 1995 a. 180; 2011 a. 107.709.01 Annotation
+Truth or Consequences?  Residential Seller Disclosure Law.  Conrad.  Wis. Law. August 1992.
+709.01 Annotation
+Protecting the Residential Seller.  Young.  Wis. Law. May 1993.
+709.02
+709.02â€ƒ
+Disclosure. 709.02(1)(1)â€‚In regard to transfers described in s. 709.01, the owner of the property shall furnish, not later than 10 days after acceptance of a contract of sale or option contract, to the prospective buyer of the property a completed copy of the report under s. 709.03 or 709.033, whichever is applicable, subject to s. 709.035, except that the owner may substitute for any entry information supplied by a licensed engineer, professional land surveyor, as defined in s. 443.01 (7m), or structural pest control operator, by an individual who is a qualified 3rd party, or by a contractor about matters within the scope of the contractor's occupation, if the information is in writing and is furnished on time and if the entry to which it relates is identified, and except that the owner may substitute for any entry information supplied by a public agency.  Information that substitutes for an entry on the report under s. 709.03 or 709.033 and that is supplied by a person specified in this section may be submitted and certified on a supplemental report prepared by the person, as long as the information otherwise satisfies the requirements under this section.  A prospective buyer who does not receive a report within the 10 days may, within 2 business days after the end of that 10-day period, rescind the contract of sale or option contract by delivering a written notice of recision to the owner or to the owner's agent.
+709.02(2)
+(2)â€‚In regard to a transfer of a condominium unit, if the owner is required under s. 709.01 to provide the information under sub. (1),the owner shall furnish, in addition to and at the same time as the information required under sub. (1), all the following information as an addendum to the report under s. 709.03 or 709.033:
+709.02(2)(a)
+(a)  The name of the condominium and the date the condominium was created by recording condominium instruments with the register of deeds under s. 703.07; the unit number of the property offered for sale; and the name, address, and telephone number of the seller or the seller's agent.
+709.02(2)(b)
+(b)  The name and address of the condominium association; a statement specifying whether the association is self-managed or has hired or retained management; and the name, address, and telephone number of the individual who may be contacted as a representative of the association regarding the sale, in particular, or the condominium, in general.
+709.02(2)(c)
+(c)  The amount of current condominium assessments, fees, special assessments, or other charges for which a unit owner is responsible and whether the current charges for the unit have been paid.
+709.02(2)(d)
+(d)  Unless excused by s. 703.365 (8), a copy of the executive summary required under s. 703.33 (1) (h).
+709.02 History
+History:  1991 a. 162; 1995 a. 180; 1999 a. 150 s. 672; 2003 a. 283; 2011 a. 107, 203; 2013 a. 165, 358.709.02 Note
+Note: 2003 Wis. Act 283, which affected this section, contains extensive explanatory notes.
+709.02 Annotation
+There is nothing in this section or s. 709.03 that requires a seller to provide details of specific safety and health hazards associated with any property defect.  Sellers of real estate are required to disclose general descriptions of potential defects in the property.  In the case of a natural gas pipeline, ch. 709 does not require a seller to disclose all potential problems that could foreseeably arise as a result of the pipeline's presence.  Hoekstra v. Guardian Pipeline, LLC, 2006 WI App 245, 298 Wis. 2d 165, 726 N.W.2d 648, 03-2809.709.02 Annotation
+Residential Real Property Disclosure Duties.  Hinkston.  Wis. Law. May, 2002.
+709.03
+709.03â€ƒ
+Residential real estate condition report form.  The report required under s. 709.02 with respect to real property as defined in s. 709.001 (5) (a) shall be in substantially the following form and shall include at least all of the following information:
+
+REAL ESTATE CONDITION REPORT
+
+DISCLAIMER
+
+A.  THIS CONDITION REPORT CONCERNS THE REAL PROPERTY LOCATED AT .... IN THE .... (CITY) (VILLAGE) (TOWN) OF ...., COUNTY OF ...., STATE OF WISCONSIN.  THIS REPORT IS A DISCLOSURE OF THE CONDITION OF THAT PROPERTY IN COMPLIANCE WITH SECTION 709.02 OF THE WISCONSIN STATUTES AS OF .... (MONTH), .... (DAY), .... (YEAR).  IT IS NOT A WARRANTY OF ANY KIND BY THE OWNER OR ANY AGENTS REPRESENTING ANY PRINCIPAL IN THIS TRANSACTION AND IS NOT A SUBSTITUTE FOR ANY INSPECTIONS OR WARRANTIES THAT THE PRINCIPALS MAY WISH TO OBTAIN.
+
+OWNER'S INFORMATION
+
+B. 1.  In this form, "am aware" means have notice or knowledge.  In this form, "defect" means a condition that would have a significant adverse effect on the value of the property; that would significantly impair the health or safety of future occupants of the property; or that if not repaired, removed or replaced would significantly shorten or adversely affect the expected normal life of the premises.
+
+B. 2.  The owner discloses the following information with the knowledge that, even though this is not a warranty, prospective buyers may rely on this information in deciding whether and on what terms to purchase the property.  The owner hereby authorizes any agent representing any principal in this transaction to provide a copy of this statement, and to disclose any information in the statement, to any person in connection with any actual or anticipated sale of the property.
+
+B. 3.  The owner represents that to the best of his or her knowledge the responses to the following statements have been accurately noted as "yes", "no" or "not applicable" to the property being sold.  If the owner responds to any statement with "yes", the owner shall provide, in the additional information area of this form, an explanation of the reason why the response to the statement is "yes".
+
+B. 4.  If the transfer is of a condominium unit, the property to which this form applies is the condominium unit, the common elements of the condominium and any limited common elements that may be used only by the owner of the condominium unit being transferred.
+ - See PDF for table  - See PDF for table 
+ADDITIONAL INFORMATION
+ - See PDF for table  - See PDF for table 
+OWNER'S CERTIFICATION
+
+E.  The owner certifies that the information in this report is true and correct to the best of the owner's knowledge as of the date on which the owner signs this report.
+
+Owner ....    Date ....
+
+Owner ....    Date ....
+ Down
+Down

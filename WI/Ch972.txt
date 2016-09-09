@@ -1,0 +1,82 @@
+
+Up
+Up
+
+
+CHAPTER 972
+
+CRIMINAL TRIALS
+972.01   Jury; civil rules applicable.
+972.02   Jury trial; waiver.
+972.03   Peremptory challenges.
+972.04   Exercise of challenges.
+972.06   View.
+972.07   Jeopardy.
+972.08   Incriminating testimony compelled; immunity.
+972.085   Immunity; use standard.
+972.09   Hostile witness in criminal cases.
+972.10   Order of trial.
+972.11   Evidence and practice; civil rules applicable.
+972.115   Admissibility of defendant's statement.
+972.12   Sequestration of jurors.
+972.13   Judgment.
+972.14   Statements before sentencing.
+972.15   Presentence investigation.
+
+
+Ch. 972 Cross-reference
+Cross-reference:  See definitions in s. 967.02.972.01
+972.01â€ƒ
+Jury; civil rules applicable.  The summoning of jurors, the selection and qualifications of the jury, the challenge of jurors for cause and the duty of the court in charging the jury and giving instructions and discharging the jury when unable to agree shall be the same in criminal as in civil actions, except that s. 805.08 (3) shall not apply.
+972.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 784 (1975); Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997).
+972.01 Annotation
+The charge as to the duty of a jury to try to reach agreement, was proper.  Kelley v. State, 51 Wis. 2d 641, 187 N.W.2d 810 (1971).972.01 Annotation
+Reinstruction presenting for the first time choices for lesser included offenses not presented in the initial instructions, if proper at all, would be a rare event, only done in exceptional circumstances.  State v. Thurmond, 2004 WI App 49, 270 Wis. 2d 477, 677 N.W.2d 655, 03-0191.972.02
+972.02â€ƒ
+Jury trial; waiver. 972.02(1)(1)â€‚Except as otherwise provided in this chapter, criminal cases shall be tried by a jury selected as prescribed in s. 805.08, unless the defendant waives a jury in writing or by statement in open court or under s. 967.08 (2) (b), on the record, with the approval of the court and the consent of the state.
+972.02(2)
+(2)â€‚At any time before the verdict, the parties may stipulate in writing or by statement in open court, on the record, with the approval of the court, that the jury shall consist of any number less than 12.
+972.02(3)
+(3)â€‚In a case tried without a jury the court shall make a general finding and may in addition find the facts specially.
+972.02(4)
+(4)â€‚No member of the grand jury which found the indictment shall be a juror for the trial of the indictment.
+972.02 History
+History:  Sup. Ct. Order, 67 Wis. 2d 784; Sup. Ct. Order, 141 Wis. 2d xiii (1987); 1995 a. 427; Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997); 2013 a. 164.972.02 Cross-reference
+Cross-reference:  See also s. 756.06 regarding the number of jurors.972.02 Note
+Judicial Council Note, 1988: Sub. (1) is amended to reflect that waiver of trial by jury may be made by telephone upon the defendant's request, unless good cause to the contrary is shown. [Re Order effective Jan. 1, 1988]
+972.02 Note
+Judicial Council Note, 1996:â€‡This proposal changes "drawn" to "selected" whenever a statute refers to choosing jurors or prospective jurors, for statutory uniformity. [Re Order effective 7-1-97]
+972.02 Annotation
+A defendant could claim that his waiver of a jury, when the record was silent as to acceptance by the court and prosecution, made his subsequent jury trial invalid.  Spiller v. State, 49 Wis. 2d 372, 182 N.W.2d 242 (1971).972.02 Annotation
+A defendant can waive a jury after the state has completed its case.  Warrix v. State, 50 Wis. 2d 368, 184 N.W.2d 189 (1971).972.02 Annotation
+A defendant who demanded a jury trial cannot be held to have waived it by participating in a trial to the court and can raise this question for the first time on appeal.  State v. Cleveland, 50 Wis. 2d 666, 184 N.W.2d 899 (1971).972.02 Annotation
+A record demonstrating the defendant's willingness and intent to waive a jury must be established before accepting a waiver.  Krueger v. State, 84 Wis. 2d 272, 267 N.W.2d 602 (1978).972.02 Annotation
+The defense's participation in a misdemeanor court trial, without objection, did not constitute waiver of a jury trial.  State v. Moore, 97 Wis. 2d 669, 294 N.W.2d 551 (Ct. App. 1980).
+972.02 Annotation
+The court abused its discretion in discharging an ill juror during deliberations without making any record as to the circumstances of the discharge and without counsel being present.  Unless the defendant consents, it is reversible error for the court to substitute an alternate juror for a regular juror after jury deliberations have begun.  State v. Lehman, 108 Wis. 2d 291, 321 N.W.2d 212 (1982).972.02 Annotation
+A trial court may not deny an accused's motion to withdraw a jury waiver without showing that granting the withdrawal would substantially delay or impede the cause of justice.  State v. Cloud, 133 Wis. 2d 58, 393 N.W.2d 129 (Ct. App. 1986).972.02 Annotation
+A waiver of the right to a jury trial is effective if the defendant understands the basic purpose and function of a jury trial.  Trial courts are prospectively ordered to advise defendants of the unanimity requirement before accepting a waiver.  State v. Resio, 148 Wis. 2d 687, 436 N.W.2d 603 (1989).972.02 Annotation
+A defendant has the right to a jury determination on each element of a charged offense.  The right can be waived only by the defendant personally on the record.  State v. Villarreal, 153 Wis. 2d 323, 450 N.W.2d 519 (Ct. App. 1989).972.02 Annotation
+A waiver of a jury trial must be made by an affirmative action of the defendant; neither counsel nor the court may waive it on the defendant's behalf.  If the defendant has not personally waived the right, the proper remedy is a new trial rather than a postconviction hearing.  State v. Livingston, 159 Wis. 2d 561, 464 N.W.2d 839 (1991).972.02 Annotation
+The verdict of a 13 member jury panel agreed to by the defense and prosecution was valid.  State v. Ledger, 175 Wis. 2d 116, 499 N.W.2d 199 (Ct. App. 1993).972.02 Annotation
+When there are grounds to believe the jury in a criminal case needs protection, the trial court may take reasonable steps to protect the identity of potential jurors.  Preventing references on the record to juror's names, employment, and addresses while providing the defense with copies of the juror questionnaires during voir dire was within the court's discretion.  State v. Britt, 203 Wis. 2d 25, 553 N.W.2d 528 (Ct. App. 1995), 95-0891.972.02 Annotation
+The provision that a jury in a misdemeanor case shall consist of 6 persons violates Article I, s. 7. State v. Hansford, 219 Wis. 2d 226, 580 N.W.2d 171 (1998), 97-0885.972.02 Annotation
+The defendant was not automatically entitled to a new trial when, in waiving the right to a jury trial, the trial court did not advise that a jury verdict must be unanimous.  The appropriate remedy is through a postconviction motion that, as a threshold requirement, must contain an allegation that the defendant did not know or understand the rights at issue.  State v. Grant, 230 Wis. 2d 90, 601 N.W.2d 8 (Ct. App. 1999), 98-2206.972.02 Annotation
+Sub. (1) applies when a defendant seeks to waive a jury in the responsibility phase of a bifurcated trial.  The state has a legitimate interest in having the decision of mental responsibility decided by a jury.  State v. Murdock, 2000 WI App 170, 238 Wis. 2d 301, 617 N.W.2d 175, 99-0566.972.02 Annotation
+To prove a valid jury trial waiver, the circuit court must conduct a colloquy designed to ensure that the defendant: 1) made a deliberate choice, absent threats or promises, to proceed without a jury trial; 2) was aware that a jury trial consists of a panel of 12 people that must agree on all elements of the crime charged; 3) was aware that in a court trial the judge will make a decision on whether or not he or she is guilty of the crime charged; and 4) had enough time to discuss the decision with counsel.  State v. Anderson, 2002 WI 7, 249 Wis. 2d 586, 638 N.W.2d 301, 00-1563.972.02 Annotation
+If a defendant waives the right to a jury trial and the circuit court fails to conduct a colloquy with the defendant regarding the waiver, a reviewing court may not find, a valid waiver, based on the record.  As a remedy, the circuit court must hold an evidentiary hearing on whether the waiver was knowing, intelligent, and voluntary.  If the state is unable to establish by clear and convincing evidence that the defendant knowingly, intelligently, and voluntarily waived a jury trial, the defendant is entitled to a new trial.  State v. Anderson, 2002 WI 7, 249 Wis. 2d 586, 638 N.W.2d 301, 00-1563.972.02 Annotation
+Whether a defendant waived the right to have the jury determine all the elements of the crime or only some of them and whether the defendant gave up a jury trial in lieu of a determination by the circuit court or stipulated to the elements, the waiver analysis is the same.  Any waiver must be made personally on the record by the defendant.  State v. Hauk, 2002 WI App 226, 257 Wis. 2d 579, 652 N.W.2d 393, 01-1668.972.02 Annotation
+If a court withholds any juror information in open court, it must: 1) find that the jury needs protection; and 2) take reasonable precautions to avoid prejudicing the defendant.  When jurors' names are withheld, the court, at a minimum, must make a precautionary statement to the jury that the use of numbers instead of names should in no way be interpreted as a reflection of the defendant's guilt or innocence.  State v. Tucker, 2003 WI 12, 259 Wis. 2d 484, 657 N.W.2d 374, 00-3354.972.02 Annotation
+There is no constitutional right to waive a jury and be tried by a judge.  A prosecutor's decision to withhold consent to a defendant's requested waiver of the right to a jury trial is not reviewable.  A trial court need not justify its refusal to approve the waiver.  State v. Burks, 2004 WI App 14, 268 Wis. 2d 747, 674 N.W.2d 640, 03-0472.972.02 Annotation
+Harmless error analysis applies when a court erroneously takes judicial notice of a fact that should have been submitted to the jury.  State v. Smith, 2012 WI 91, 342 Wis. 2d 710, 817 N.W.2d 410, 10-1192.972.02 Annotation
+Absent an unambiguous declaration that a party intends to bind itself for future fact-finding hearings or trials, a jury waiver applies only to the fact-finding hearing or trial pending at the time it is made.  Walworth County Department of Health and Human Services v. Roberta J. W. 2013 WI App 102, 349 Wis. 2d 691, 836 N.W.2d 860, 12-2387.972.02 Annotation
+The 6th amendment right to a public trial extends to voir dire.  A judge's decision to close or limit public access to a courtroom in a criminal case requires the court to go through an analysis on the record in which the court considers overriding interests and reasonable alternatives.  The court must make specific findings on the record to support the exclusion of the public and must narrowly tailor the closure.  State v. Pinno, 2014 WI 74, ___ Wis. 2d ___, 850 N.W.2d 207, 11-2424.972.02 Annotation
+Waiver of jury in Wisconsin.  1971 WLR 626.
+972.03
+972.03â€ƒ
+Peremptory challenges.  Each side is entitled to only 4 peremptory challenges except as otherwise provided in this section.  When the crime charged is punishable by life imprisonment, the state is entitled to 6 peremptory challenges and the defendant is entitled to 6 peremptory challenges.  If there is more than one defendant, the court shall divide the challenges as equally as practicable among them; and if their defenses are adverse and the court is satisfied that the protection of their rights so requires, the court may allow the defendants additional challenges.  If the crime is punishable by life imprisonment, the total peremptory challenges allowed the defense shall not exceed 12 if there are only 2 defendants and 18 if there are more than 2 defendants; in other felony cases 6 challenges if there are only 2 defendants and 9 challenges if there are more than 2.  In misdemeanor cases, the state is entitled to 3 peremptory challenges and the defendant is entitled to 3 peremptory challenges, except that if there are 2 defendants, the court shall allow the defense 4 peremptory challenges, and if there are more than 2 defendants, the court shall allow the defense 6 peremptory challenges.  Each side shall be allowed one additional peremptory challenge if additional jurors are to be selected under s. 972.04 (1).
+972.03 History
+History:  1983 a. 226; 1995 a. 427; Sup. Ct. Order No. 96-08, 207 Wis. 2d xv (1997).
+ Down
+Down

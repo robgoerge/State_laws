@@ -1,0 +1,106 @@
+
+Up
+Up
+
+
+CHAPTER 802
+
+CIVIL PROCEDURE â€” PLEADINGS, MOTIONS AND PRETRIAL PRACTICE
+802.01   Pleadings allowed; form of motions.
+802.02   General rules of pleading.
+802.025   Pleadings, discovery, and damages in certain personal injury actions.
+802.03   Pleading special matters.
+802.04   Form of pleadings.
+802.045   Limited scope representation permitted â€” process.
+802.05   Signing of pleadings, motions, and other papers; representations to court; sanctions.
+802.06   Defenses and objection; when and how presented; by pleading or motion; motion for judgment on the pleadings.
+802.07   Counterclaim and cross claim.
+802.08   Summary judgment.
+802.09   Amended and supplemental pleadings.
+802.10   Calendar practice.
+802.12   Alternative dispute resolution.
+
+
+Ch. 802 Note
+NOTE:  Chapter 802 was created by Sup. Ct. Order, 67 Wis. 2d 585, 614 (1975), which contains explanatory notes.  Statutes prior to the 1983-84 edition also contain these notes.
+802.01
+802.01â€ƒ
+Pleadings allowed; form of motions. 802.01(1)
+(1)â€‚
+Pleadings.  There shall be a complaint and an answer; a reply to a counterclaim denominated as such; an answer to a cross claim, if the answer contains a cross claim; a 3rd-party complaint, if a person who was not an original party is summoned under s. 803.05, and a 3rd-party answer, if a 3rd-party complaint is served.  No other pleading shall be allowed, except that the court may order a further pleading to a reply or to any answer.
+802.01(2)
+(2)â€‚Motions. 802.01(2)(a)(a) 
+How made.  An application to the court for an order shall be by motion which, unless made during a hearing or trial, shall be made in writing, shall state with particularity the grounds therefor, and shall set forth the relief or order sought.  The requirement of writing is fulfilled if the motion is stated in a written notice of the hearing of the motion.  Unless specifically authorized by statute, orders to show cause shall not be used.
+802.01(2)(b)
+(b) 
+Supporting papers.  Copies of all records and papers upon which a motion is founded, except those which have been previously filed or served in the same action or proceeding, shall be served with the notice of motion and shall be plainly referred to therein.  Papers already filed or served shall be referred to as papers theretofore filed or served in the action.  The moving party may be allowed to present upon the hearing, records, affidavits or other papers, but only upon condition that opposing counsel be given reasonable time in which to meet such additional proofs should request therefor be made.
+802.01(2)(c)
+(c) 
+Recitals in orders.  All orders, unless they otherwise provide, shall be deemed to be based on the records and papers used on the motion and the proceedings theretofore had and shall recite the nature of the motion, the appearances, the dates on which the motion was heard and decided, and the order signed.  No other formal recitals are necessary.
+802.01(2)(d)
+(d) 
+Formal requirements.  The rules applicable to captions, signing and other matters of form of pleadings apply to all motions and other papers in an action, except that affidavits in support of a motion need not be separately captioned if served and filed with the motion.  The name of the party seeking the order or relief and a brief description of the type of order or relief sought shall be included in the caption of every written motion.
+802.01(2)(e)
+(e) 
+When deemed made.  In computing any period of time prescribed or allowed by the statutes governing procedure in civil actions and special proceedings, a motion which requires notice under s. 801.15 (4) shall be deemed made when it is served with its notice of motion.
+802.01(3)
+(3)â€‚Demurrers and pleas abolished.  Demurrers and pleas shall not be used.
+802.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 614 (1975); Sup. Ct. Order, 104 Wis. 2d xi (1981); Sup. Ct. Order, 171 Wis. 2d xix (1992); 2005 a. 253; 2007 a. 97.802.01 Note
+Judicial Council Committee's Note on sub. (1), 1981: See 1981 Note to s. 802.02 (4).  [Re Order effective Jan. 1, 1982]
+802.01 Annotation
+In the absence of an answer to a cross claim and in the absence of any other responsive pleadings, a court may deem facts alleged in the cross claim and submissions filed in connection with a summary judgment motion admitted for purposes of summary judgment.  Daughtry v. MPC Systems, Inc. 2004 WI App 70, 272 Wis. 2d 260, 679 N.W.2d 808, 02-2424.802.02
+802.02â€ƒ
+General rules of pleading. 802.02(1)
+(1)â€‚
+Contents of pleadings.  A pleading or supplemental pleading that sets forth a claim for relief, whether an original or amended claim, counterclaim, cross claim or 3rd-party claim, shall contain all of the following:
+802.02(1)(a)
+(a)  A short and plain statement of the claim, identifying the transaction or occurrence or series of transactions or occurrences out of which the claim arises and showing that the pleader is entitled to relief.
+802.02(1)(b)
+(b)  A demand for judgment for the relief the pleader seeks.
+802.02(1m)
+(1m)â€‚Relief demanded. 802.02(1m)(a)(a)  Relief in the alternative or of several different types may be demanded.  With respect to a tort claim seeking the recovery of money, the demand for judgment may not specify the amount of money the pleader seeks.
+802.02(1m)(b)
+(b)  This subsection does not affect any right of a party to specify to the jury or the court the amount of money the party seeks.
+802.02(2)
+(2)â€‚Defenses; form of denials.  A party shall state in short and plain terms the defenses to each claim asserted and shall admit or deny the averments upon which the adverse party relies.  If the party is without knowledge or information sufficient to form a belief as to the truth of an averment, the party shall so state and this has the effect of a denial.  Denials shall fairly meet the substance of the averments denied.  The pleader shall make the denials as specific denials of designated averments or paragraphs, but if a pleader intends in good faith to deny only a part or a qualification of an averment, the pleader shall specify so much of it as is true and material and shall deny only the remainder.
+802.02(3)
+(3)â€‚Affirmative defenses.  In pleading to a preceding pleading, a party shall set forth affirmatively any matter constituting an avoidance or affirmative defense including but not limited to the following: accord and satisfaction, arbitration and award, assumption of risk, contributory negligence, discharge in bankruptcy, duress, estoppel, failure of a condition subsequent, failure or want of consideration, failure to mitigate damages, fraud, illegality, immunity, incompetence, injury by fellow servants, laches, license, payment, release, res judicata, statute of frauds, statute of limitations, superseding cause, and waiver.  When a party has mistakenly designated a defense as a counterclaim or a counterclaim as a defense, the court, if justice so requires, shall permit amendment of the pleading to conform to a proper designation.  If an affirmative defense permitted to be raised by motion under s. 802.06 (2) is so raised, it need not be set forth in a subsequent pleading.
+802.02(4)
+(4)â€‚Effect of failure to deny.  Averments in a pleading to which a responsive pleading is required, other than those as to the fact, nature and extent of injury and damage, are admitted when not denied in the responsive pleading, except that a party whose prior pleadings set forth all denials and defenses to be relied upon in defending a claim for contribution need not respond to such claim.  Averments in a pleading to which no responsive pleading is required or permitted shall be taken as denied or avoided.
+802.02(5)
+(5)â€‚Pleadings to be concise and direct; consistency. 802.02(5)(a)(a)  Each averment of a pleading shall be simple, concise, and direct.  No technical forms of pleading or motions are required.
+802.02(5)(b)
+(b)  A party may set forth 2 or more statements of a claim or defense alternatively or hypothetically, either in one claim or defense or in separate claims or defenses.  When 2 or more statements are made in the alternative and one of them if made independently would be sufficient, the pleading is not made insufficient by the insufficiency of one or more of the alternative statements.  A party may also state as many separate claims or defenses as the party has regardless of consistency and whether based on legal or equitable grounds.  All statements shall be made subject to the obligations set forth in s. 802.05.
+802.02(6)
+(6)â€‚Construction of pleadings.  All pleadings shall be so construed as to do substantial justice.
+802.02 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 616 (1975); 1975 c. 218; Sup. Ct. Order, 82 Wis. 2d ix (1978); Sup. Ct. Order, 104 Wis. 2d xi (1981); 1987 a. 256; 1993 a. 486.802.02 Cross-reference
+Cross-reference:  See s. 806.01 (1) (c) for effect of demand for judgment or want of such demand in the complaint in case of judgment by default.
+802.02 Cross-reference
+Cross-reference:  See ss. 891.29 and 891.31 as to the effect of not denying an allegation in the complaint of corporate or partnership existence.
+802.02 Note
+Judicial Council Committee's Note, 1977: Sub. (1) is amended to allow a pleading setting forth a claim for relief under the Rules of Civil Procedure to contain a short and plain statement of any series of transactions, occurrences, or events under which a claim for relief arose.  This modification will allow a pleader in a consumer protection or anti-trust case, for example, to plead a pattern of business transactions, occurrences or events leading to a claim of relief rather than having to specifically plead each and every transaction, occurrence or event when the complaint is based on a pattern or course of business conduct involving either a substantial span of time or multiple and continuous transactions and events.  The change is consistent with Rule 8 (a) (2) of the Federal Rules of Civil Procedure.  [Re Order effective July 1, 1978]
+802.02 Note
+Judicial Council Committee's Note, 1981: Sub. (4) has been amended and s. 802.07 (6) repealed to limit the circumstances in which a responsive pleading to a claim for contribution is required.  A claim for contribution is a claim for relief under sub. (1) which normally requires an answer, reply or third-party answer.  The amendment to sub. (4), however, eliminates this requirement where the party from whom contribution is sought has already pleaded all denials and defenses to be relied upon in defending the contribution claim.  [Re Order effective Jan. 1, 1982]
+802.02 Annotation
+Sub. (2) does not authorize denials for lack of knowledge or information solely to obtain delay.  An answer that does so is frivolous under [former] s. 814.025 (3) (b).  First Federated Savings Bank v. McDonah, 143 Wis. 2d 429, 422 N.W.2d 113 (Ct. App. 1988).
+802.02 Annotation
+Insurers must plead and prove their policy limits prior to a verdict to restrict the judgment to the policy limits.  Price v. Hart, 166 Wis. 2d 182, 480 N.W.2d 249 (Ct. App. 1991).
+802.02 Annotation
+A claim for punitive damages on a tort claim is subject to sub. (1m) (a).  A demand for a specific amount in violation of sub. (1m) (a) is a nullity.  Apex Electronics Corp. v. Gee, 217 Wis. 2d 378, 577 N.W.2d 23 (1998), 97-0353.802.02 Annotation
+The effect of the court striking a defendant's answer is that the defendant failed to deny the plaintiff's allegations and, therefore, is deemed to have admitted them.  An insured's answers do not inure to an insurers benefit.  Such a proposition is contrary to the direct action statute, s. 632.24.  Estate of Otto v. Physicians Insurance Company of Wisconsin, Inc. 2007 WI App 192, 305 Wis. 2d 198, 739 N.W.2d 599, 06-1566.802.02 AnnotationAffirmed.  2008 WI 78, 311 Wis. 2d 84, 751 N.W.2d 805, 06-1566.802.025
+802.025â€ƒ
+Pleadings, discovery, and damages in certain personal injury actions. 802.025(1)
+(1)â€‚
+Definitions.  In this section:
+802.025(1)(a)
+(a)  "Asbestos trust" means a trust, qualified settlement fund, compensation fund, or claims facility created as a result of an administrative or legal action, bankruptcy, agreement, or other settlement or pursuant to 11 USC 524 (g) or 49 USC 40101, that is intended to provide compensation to claimants alleging personal injury claims as a result of harm, also potentially compensable in the immediate action, for which the entity creating the trust, qualified settlement fund, compensation fund, or claims facility is alleged to be responsible.
+802.025(1)(b)
+(b)  "Personal injury claim" means any claim for damages, loss, indemnification, contribution, restitution or other relief, including punitive damages, that is related to bodily injury or another harm, including loss of consortium, society, or companionship, loss of support, personal injury or death, mental or emotional injury, risk or fear of disease or other injury, or costs of medical monitoring or surveillance and that is allegedly caused by or related to the claimant's exposure to asbestos.  "Personal injury claim" includes a claim made by or on behalf of the person who claims the injury or harm or by or on behalf of the person's representative, spouse, parent, minor child, or other relative.  "Personal injury claim" does not include a claim compensable by the injured patients and families compensation fund or a claim for compensatory benefits pursuant to worker's compensation or veterans benefits.
+802.025(1)(c)
+(c)  "Trust claims materials" means all documents and information relevant or related to a pending or potential claim against an asbestos trust.  "Trust claims materials" include claims forms and supplementary materials, proofs of claim, affidavits, depositions and trial testimony, work history, and medical and health records.
+802.025(1)(d)
+(d)  "Trust governance document" means any document that determines eligibility and payment levels, including claims payment matrices, trust distribution procedures, or plans for reorganization, for an asbestos trust.
+ Down
+Down

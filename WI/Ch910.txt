@@ -1,0 +1,81 @@
+
+Up
+Up
+
+
+CHAPTER 910
+
+EVIDENCE â€” CONTENTS OF WRITINGS, RECORDINGS AND PHOTOGRAPHS
+910.01   Definitions.
+910.02   Requirement of original.
+910.03   Admissibility of duplicates.
+910.04   Admissibility of other evidence of contents.
+910.05   Public records.
+910.06   Summaries.
+910.07   Testimony or written admission of party.
+910.08   Functions of judge and jury.
+
+
+Ch. 910 Note
+NOTE:  Extensive comments by the Judicial Council Committee and the Federal Advisory Committee are printed with chs. 901 to 911 in 59 Wis. 2d.  The court did not adopt the comments but ordered them printed with the rules for information purposes.
+910.01
+910.01â€ƒ
+Definitions.  For purposes of this chapter the following definitions are applicable.
+910.01(1)
+(1)â€‚Writings and recordings.  "Writings" and "recordings" consist of letters, words or numbers, or their equivalent, set down by handwriting, typewriting, printing, photostating, photographing, magnetic impulse, mechanical or electronic recording, or other form of data compilation or recording.
+910.01(2)
+(2)â€‚Photographs.  "Photographs" include still photographs, X-ray films, and motion pictures.
+910.01(3)
+(3)â€‚Original.  An "original" of a writing or recording is the writing or recording itself or any counterpart intended to have the same effect by a person executing or issuing it.  An "original" of a photograph includes the negative or any print therefrom.  If data are stored in a computer or similar device, any printout or other output readable by sight, shown to reflect the data accurately, is an "original".
+910.01(4)
+(4)â€‚Duplicate.  A "duplicate" is a counterpart produced by the same impression as the original, or from the same matrix, or by means of photography, including enlargements and miniatures, or by mechanical or electronic rerecording, or by chemical reproduction, or by other equivalent technique which accurately reproduces the original.
+910.01 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R351 (1973); 1995 a. 225; 2003 a. 294.910.02
+910.02â€ƒ
+Requirement of original.  To prove the content of a writing, recording or photograph, the original writing, recording or photograph is required, except as otherwise provided in chs. 901 to 911, s. 137.21, or by other statute.
+910.02 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R354 (1973); 1981 c. 390; 2003 a. 294.910.02 Annotation
+There is no "best evidence rule" applicable to photographs of objects that requires that the object itself be introduced rather than the photograph.  A photograph of a wrench bearing the owner's initials and found in defendant's automobile was relevant.  Anderson v. State, 66 Wis. 2d 233, 223 N.W.2d 879 (1974).910.03
+910.03â€ƒ
+Admissibility of duplicates.  A duplicate is admissible to the same extent as an original unless (1) a genuine question is raised as to the authenticity of the original or (2) in the circumstances it would be unfair to admit the duplicate in lieu of the original.  No duplicate is inadmissible solely because it is in electronic format.
+910.03 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R356 (1973); 2003 a. 294.910.03 Annotation
+Photostatic copies of hospital records were admissible under this section.  Schulz v. St. Mary's Hospital, 81 Wis. 2d 638, 260 N.W.2d 783 (1978).910.04
+910.04â€ƒ
+Admissibility of other evidence of contents.  The original is not required, and other evidence of the contents of a writing, recording or photograph is admissible if:
+910.04(1)
+(1)â€‚Originals lost or destroyed.  All originals are lost or have been destroyed, unless the proponent lost or destroyed them in bad faith; or
+910.04(2)
+(2)â€‚Original not obtainable.  No original can be obtained by any available judicial process or procedure; or
+910.04(3)
+(3)â€‚Original in possession of opponent.  At a time when an original was under the control of the party against whom offered, the party was put on notice, by the pleadings or otherwise, that the contents would be a subject of proof at the hearing, and the party does not produce the original at the hearing; or
+910.04(4)
+(4)â€‚Collateral matters.  The writing, recording or photograph is not closely related to a controlling issue.
+910.04 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R357 (1973); 1991 a. 32.910.05
+910.05â€ƒ
+Public records.  The contents of an official record, or of a document authorized to be recorded or filed and actually recorded or filed, including data compilations in any form, if otherwise admissible, may be proved by copy, certified as correct in accordance with s. 909.02 or testified to be correct by a witness who has compared it with the original.  If a copy which complies with the foregoing cannot be obtained by the exercise of reasonable diligence, then other evidence of the contents may be given.
+910.05 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R361 (1973).
+910.06
+910.06â€ƒ
+Summaries.  The contents of voluminous writings, recordings or photographs which cannot conveniently be examined in court may be presented in the form of a chart, summary or calculation.  The originals, or duplicates, shall be made available for examination or copying, or both, by other parties at a reasonable time and place.  The judge may order that they be produced in court.
+910.06 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R362 (1973).
+910.06 Annotation
+A chart prepared by the prosecutor during trial, in the jury's presence, to categorize testimony was not a summary under this section, but was a "pedagogical device" admissible within the court's discretion under s. 906.11.  State v. Olson, 217 Wis. 2d 730, 579 N.W.2d 802 (Ct. App. 1998), 96-2142.910.07
+910.07â€ƒ
+Testimony or written admission of party.  Contents of writings, recordings or photographs may be proved by the testimony or deposition of the party against whom offered or by the party's written admission, without accounting for the nonproduction of the original.
+910.07 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R363 (1973); 1991 a. 32.910.08
+910.08â€ƒ
+Functions of judge and jury.  When the admissibility of other evidence of contents of writings, recordings or photographs under chs. 901 to 911 depends upon the fulfillment of a condition of fact, the question of whether the condition has been fulfilled is ordinarily for the judge to determine.  However, when any of the following issues is raised, the issue is for the trier of fact to determine as in the case of other issues of fact:
+910.08(1)
+(1)â€‚Whether the asserted writing ever existed.
+910.08(2)
+(2)â€‚Whether another writing, recording or photograph produced at the trial is the original.
+910.08(3)
+(3)â€‚Whether other evidence of contents correctly reflects the contents.
+910.08 History
+History:  Sup. Ct. Order, 59 Wis. 2d R1, R364 (1973); 1993 a. 213. Down
+Down

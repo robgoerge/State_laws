@@ -1,0 +1,95 @@
+
+Up
+Up
+
+
+CHAPTER 706
+
+CONVEYANCES OF REAL PROPERTY; RECORDING; TITLES
+706.001   Scope and construction.
+706.01   Definitions.
+706.02   Formal requisites.
+706.03   Agents, officers and guardians.
+706.04   Equitable relief.
+706.05   Formal requisites for record.
+706.055   Conveyances of mineral rights.
+706.057   Lapse and reversion of interests in minerals.
+706.06   Authentication.
+706.07   Uniform law on notarial acts.
+706.08   Nonrecording, effect.
+706.085   Correction instruments.
+706.09   Notice of conveyance from the record.
+706.095   Interspousal remedies.
+706.10   Forms, construction.
+706.105   Applicability of general transfers at death provisions.
+706.11   Priority of certain mortgages, trust funds.
+706.12   Uniform vendor and purchaser risk act.
+706.13   Slander of title.
+706.14   Transitional and curative provisions.
+706.15   Liens against public officials or employees.
+706.20   Disclosure duty; immunity for providing notice about the sex offender registry.
+706.22   Prohibition on imposing time-of-sale requirements.
+706.25   Uniform real property electronic recording act.
+
+
+706.001
+706.001â€ƒ
+Scope and construction. 706.001(1)
+(1)â€‚Subject to the exclusions in sub. (2), this chapter shall govern every transaction by which any interest in land is created, aliened, mortgaged, assigned or may be otherwise affected in law or in equity.
+706.001(2)
+(2)â€‚Excluded from the operation of this chapter are transactions which an interest in land is affected:
+706.001(2)(a)
+(a)  By act or operation of law; or
+706.001(2)(b)
+(b)  By will; or
+706.001(2)(bm)
+(bm)  By nonprobate transfer on death under s. 705.15; or
+706.001(2)(c)
+(c)  By lease for a term limited to one year or less; or by contract or option to lease for such period which postpones the commencement of the agreed lease to a time not later than 60 days after the date of the contract or option; or by assignment, modification or termination of lease when, at the time such assignment, modification or termination is made, the unexpired term is limited to one year or less, and remains so limited under the lease as modified; except that instruments relating to such excluded transactions, if in recordable form, shall be entitled to record.
+706.001(3)
+(3)â€‚This chapter shall be liberally construed, in cases of conflict or ambiguity, so as to effectuate the intentions of parties who have acted in good faith.
+706.001 History
+History:  1999 a. 85 ss. 135, 138; 2005 a. 206.706.001 Annotation
+The doctrine of part performance is not an "operation of law" under sub. (2) (a) that excludes the application of ch. 706 to a transaction.  Wyss v. Albee, 183 Wis. 2d 245, 515 N.W.2d 517 (Ct. App. 1994).706.001 Annotation
+Transactions in which an interest in land is affected by act or operation of law are excluded from operation of this chapter under sub. (2).  Dow Family, LLC v. PHH Mortgage Corporation, 2014 WI 56, ___ Wis. 2d ___, 848 N.W.2d 728, 13-0221.706.01
+706.01â€ƒ
+Definitions.  In this chapter:
+706.01(4)
+(4)â€‚"Conveyance" means a written instrument, evidencing a transaction governed by this chapter, that satisfies the requirements of s. 706.02, subject to s. 706.25.
+706.01(5)
+(5)â€‚"Conveyance of mineral interests" means any transaction under s. 706.001 (1) entered into for the purpose of determining the presence, location, quality or quantity of metalliferous minerals or for the purpose of mining, developing or extracting metalliferous minerals, or both.  Any transaction under s. 706.001 (1) entered into by a mining company is rebuttably presumed to be a conveyance of mineral interests.
+706.01(6)
+(6)â€‚"Grantor" means the person from whom an interest in lands passes by conveyance, including, without limitation, lessors, vendors, mortgagors, optionors, releasors, assignors and trust settlors of interest in lands, and "grantee" means the person to whom the interest in land passes.  Whenever consistent with the context, reference to the interest of a party includes the interest of the party's heirs, successors, personal representatives and assigns.
+706.01(7)
+(7)â€‚"Homestead", as used in this chapter, means the dwelling, and so much of the land surrounding it as is reasonably necessary for use of the dwelling as a home, but not less than one-fourth acre, if available, and not exceeding 40 acres.
+706.01(7m)
+(7m)â€‚"Interest in minerals" means any fee simple interest in minerals beneath the surface of land that is:
+706.01(7m)(a)
+(a)  Separate from the fee simple interest in the surface of the land; and
+706.01(7m)(b)
+(b)  Created by an instrument transferring, granting, assigning or reserving the minerals.
+706.01(7r)
+(7r)â€‚"Legal description" means a description of a specific parcel of real estate that is described in one of the following ways, whichever is appropriate:
+706.01(7r)(a)
+(a)  By one of the ways under s. 66.0217 (1) (c).
+706.01(7r)(b)
+(b)  By condominium name, unit number, and appurtenance number in a platted condominium development.
+706.01(8)
+(8)â€‚"Metalliferous minerals" means naturally occurring minerals containing metal.
+706.01(8m)
+(8m)â€‚"Mineral" means a naturally occurring substance recognized by standard authorities as mineral, whether metalliferous or nonmetalliferous.
+706.01(9)
+(9)â€‚"Mining company" means any person or agent of a person who has a prospecting permit under s. 293.45 or a mining permit under s. 293.49 or 295.58.
+706.01(10)
+(10)â€‚"Signed" includes any handwritten signature or symbol on a conveyance intended by the person affixing or adopting the signature or symbol to constitute an execution of the conveyance.
+706.01 History
+History:  1971 c. 41; 1977 c. 253; 1983 a. 189, 455; 1993 a. 486; 1995 a. 227; 1999 a. 85; 2005 a. 41, 421; 2013 a. 1.706.01 Annotation
+A necessary implication under sub. (3) is one that is so clear as to be express; it is a required implication.  The words "heirs and assigns," or any similar language, are unnecessary under sub. (3) to indicate a transferable interest.  As a matter of law, "Grantee" has the exact same meaning as "Grantee and his heirs and assigns" unless another meaning is expressly stated or implied.  Therefore, "heirs and assigns" need not be construed as having any legal effect and the use of the term in a grant of water flowage rights and not in a grant of sand removal rights in the same deed did not create a necessary implication that the sand rights were non-transferable.  Borek Cranberry Marsh v. Jackson County, 2010 WI 95, 328 Wis. 2d 613, 785 N.W.2d 615, 08-1144.706.02
+706.02â€ƒ
+Formal requisites. 706.02(1)(1)â€‚Transactions under s. 706.001 (1) shall not be valid unless evidenced by a conveyance that satisfies all of the following:
+706.02(1)(a)
+(a)  Identifies the parties; and
+706.02(1)(b)
+(b)  Identifies the land; and
+ Down
+Down

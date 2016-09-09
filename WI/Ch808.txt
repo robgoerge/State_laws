@@ -1,0 +1,88 @@
+
+Up
+Up
+
+
+CHAPTER 808
+
+APPEALS AND WRITS OF ERROR
+808.01   Definitions.
+808.02   Writ of error.
+808.03   Appeals to the court of appeals.
+808.04   Time for appeal to the court of appeals.
+808.05   Bypass.
+808.07   Relief pending appeal.
+808.075   Permitted court actions pending appeal.
+808.08   Further proceedings in trial court.
+808.09   Reversal, affirmance or modification of judgment.
+808.10   Review by the supreme court.
+808.11   Printing specifications.
+
+
+808.01
+808.01â€ƒ
+Definitions.  In this chapter:
+808.01(1)
+(1)â€‚"Appeal" means a review in an appellate court by appeal or writ of error authorized by law of a judgment or order of a circuit court.
+808.01(2)
+(2)â€‚"Appellate court" means the supreme court under ch. 751 or the court of appeals under ch. 752.
+808.01 History
+History:  1977 c. 187; 1991 a. 189.808.01 Annotation
+A party that accepts the benefits of a judgment does not waive the right to take an appeal which does not involve a reversal of that part of the judgment under which the benefit was received.  Estreen v. Bluhm, 79 Wis. 2d 142, 255 N.W.2d 473.808.02
+808.02â€ƒ
+Writ of error.  A writ of error may be sought in the court of appeals.
+808.02 History
+History:  1977 c. 187.808.03
+808.03â€ƒ
+Appeals to the court of appeals. 808.03(1)
+(1)â€‚
+Appeals as of right.  A final judgment or a final order of a circuit court may be appealed as a matter of right to the court of appeals unless otherwise expressly provided by law.  A final judgment or final order is a judgment, order or disposition that disposes of the entire matter in litigation as to one or more of the parties, whether rendered in an action or special proceeding, and that is one of the following:
+808.03(1)(a)
+(a)  Entered in accordance with s. 806.06 (1) (b) or 807.11 (2).
+808.03(1)(b)
+(b)  Recorded in docket entries in ch. 799 cases.
+808.03(1)(c)
+(c)  Recorded in docket entries in traffic regulation cases prosecuted in, or following a decision in a municipal court, appealed to, circuit court if a person convicted of a violation may be ordered to pay a forfeiture.
+808.03(1)(d)
+(d)  Recorded in docket entries in municipal ordinance violation cases prosecuted in, or following a decision in a municipal court, appealed to, circuit court.
+808.03(2)
+(2)â€‚Appeals by permission.  A judgment or order not appealable as a matter of right under sub. (1) may be appealed to the court of appeals in advance of a final judgment or order upon leave granted by the court if it determines that an appeal will:
+808.03(2)(a)
+(a)  Materially advance the termination of the litigation or clarify further proceedings in the litigation;
+808.03(2)(b)
+(b)  Protect the petitioner from substantial or irreparable injury; or
+808.03(2)(c)
+(c)  Clarify an issue of general importance in the administration of justice.
+808.03(3)
+(3)â€‚Review of an order denying suppression or exclusion of evidence. 808.03(3)(a)(a)  An order denying a motion to suppress evidence or a motion challenging the admissibility of a statement of a juvenile may be reviewed upon appeal from a final judgment or order notwithstanding the fact that the judgment or order was entered upon an admission or a plea of no contest to the allegations in the petition.
+808.03(3)(b)
+(b)  An order denying a motion to suppress evidence or a motion challenging the admissibility of a statement of a defendant may be reviewed upon appeal from a final judgment or order notwithstanding the fact that the judgment or order was entered upon a plea of guilty or no contest to the information or criminal complaint.
+808.03 History
+History:  1977 c. 187; 1979 c. 192; Sup. Ct. Order, 130 Wis. 2d xix (1986); 1995 a. 139, 224; 1997 a. 35; 2009 a. 27; 2015 a. 12.808.03 Cross-reference
+Cross-reference:  See s. 767.217 (2) for appeals involving child support and maintenance.
+808.03 Note
+Judicial Council Note, 1979: Sub. (1) is amended to modify the statutory definition of the final judgment or final order that may be appealed as a matter of right to the court of appeals.  Most types of cases decided in circuit court have a final judgment or order entered with the office of clerk of court.  Because of the volume of traffic regulation and municipal ordinance violation cases prosecuted in circuit court, the prevailing custom in Wisconsin counties is to only record the dispositions of those cases in docket entries.  Requiring counties to meet the present statutory requirement in s. 808.03 (1) for the entry of a final judgment or order in all cases for purposes of having an appealable matter is unnecessarily burdensome and costly.  The term "traffic regulation cases" refers to only those traffic violation cases in which the penalty is a civil forfeiture.  [Bill 396-S]
+Effective date note
+Judicial Council Note, 1986: Sub. (1) is amended to clarify that docket entries in small claims and other ch. 799 cases may be final orders from which an appeal may be taken as of right.  See 1979 Judicial Council Note to sub. (1). [Re Order eff. 7-1-86]
+808.03 Annotation
+An appeal cannot be taken from an order before it is entered.  Ramsthal Advertising Agency v. Energy Miser, Inc. 90 Wis. 2d 74, 279 N.W.2d 491 (Ct. App. 1979).808.03 Annotation
+The test to determine whether a decision is a final order or judgment is whether the trial court contemplated that any additional formal document would be entered with respect to the matter covered in the decision.  Frederick v. City of Janesville, 92 Wis. 2d 685, 285 N.W.2d 655 (1979).808.03 Annotation
+A pretrial order denying a motion to dismiss a 2nd trial on double jeopardy grounds is a final order appealable under sub. (2).  State v. Jenich, 94 Wis. 2d 74, 288 N.W.2d 114 (1980).808.03 Annotation
+An order waiving jurisdiction over a juvenile is appealable under sub. (2).  State ex rel. A. E. v. Green Lake County Cir. Ct. 94 Wis. 2d 98, 288 N.W.2d 125 (1980).808.03 Annotation
+Under s. 808.03 (2), both the prosecution and defense may seek permissive appeal of nonfinal orders.  State v. Rabe, 96 Wis. 2d 48, 291 N.W.2d 809 (1980).808.03 Annotation
+An order denying a motion to dismiss for lack of personal jurisdiction is appealable by permission under s. 808.03 (2).  Heaton v. Independent Mortuary Corp. 97 Wis. 2d 379, 294 N.W.2d 15 (1980).808.03 Annotation
+Orders relating to venue are appealable by permission under sub. (2).  Aparacor, Inc. v. DILHR, 97 Wis. 2d 399, 293 N.W.2d 545 (1980).808.03 Annotation
+An order enjoining a town from conducting an incorporation referendum under s. 60.81 terminated the only matter in litigation with respect to the town, although ch. 66 incorporation proceedings had not been finally determined by the order.  In re Incorporation of Town of Fitchburg, 98 Wis. 2d 635, 299 N.W.2d 199 (1980).808.03 Annotation
+A court order setting aside an administrative order and remanding the case to the administrative agency disposed of the entire matter in litigation and was appealable as of right.  Bearns v. DILHR, 102 Wis. 2d 70, 306 N.W.2d 22 (1981).808.03 Annotation
+When a counterclaim for abuse of process, severed for trial, was not yet determined, a judgment dismissing the complaint was not appealable under sub. (1).  Brownsell v. Klawitter, 102 Wis. 2d 108, 306 N.W.2d 41 (1981).808.03 AnnotationAn order for a new trial is not appealable as of right.  Wick v. Mueller, 105 Wis. 2d 191, 313 N.W.2d 799 (1982).808.03 Annotation
+The last document in litigation should indicate on its face that for purposes of appeal it is a final order or judgment and that no subsequent document is contemplated.  Radoff v. Red Owl Stores, Inc. 109 Wis. 2d 490, 326 N.W.2d 240 (1982).808.03 Annotation
+The trial court did not have jurisdiction to award attorney fees after the filing of a notice of appeal of another issue.  Hengel v. Hengel, 120 Wis. 2d 522, 355 N.W.2d 846 (Ct. App. 1984).808.03 Annotation
+A court commissioner's order under s. 757.69 (1) dismissing a criminal proceeding was not a "final order" under sub. (1).  State v. Trongeau, 135 Wis. 2d 188, 400 N.W.2d 12 (Ct. App. 1986).808.03 Annotation
+An appellate court has no jurisdiction to review the denial of a postconviction motion if there is no final written order denying the motion on file in the clerk of court's office.  State v. Malone, 136 Wis. 2d 250, 401 N.W.2d 563 (1987).808.03 Annotation
+A criminal defendant's right to appeal continues after death, regardless of the cause of death.  State v. McDonald, 144 Wis. 2d 531, 424 N.W.2d 411 (1988).808.03 Annotation
+A judgment resolving the merits of a 42 USC 1983 action is final and appealable under sub. (1) although the issues of attorney fees remains unresolved.  ACLU v. Thompson, 155 Wis. 2d 442, 455 N.W.2d 268 (Ct. App. 1990).808.03 Annotation
+The circuit court's retained jurisdiction in board of review certiorari actions under s. 70.47 (13) does not affect the finality of an order for appeal purposes.  Steenberg v. Town of Oakfield, 157 Wis. 2d 674, 461 N.W.2d 148 (Ct. App. 1990).808.03 Annotation
+An appeal of an oral revocation order under s. 343.305 (10) may not be taken under sub. (1).  State v. Borowski, 164 Wis. 2d 730, 476 N.W.2d 316 (Ct. App. 1991).808.03 Annotation
+When an appeal is taken as a matter of right, only the final document need be reduced to writing.  Nonfinal rulings need not be reduced to writing to be eligible for review under an appeal of a subsequent final order.  Jacquart v. Jacquart, 183 Wis. 2d 372, 515 N.W.2d 539 (Ct. App. 1994).808.03 Annotation
+Like a judgment of foreclosure and sale in the case a mortgage, a judgment of strict foreclosure of a land contract is a final judgment that must be appealed from within the time required under s. 808.04.  Hackman v. Behm, 207 Wis. 2d 437, 558 N.W.2d 905 (Ct. App. 1996), 95-3315. Down
+Down

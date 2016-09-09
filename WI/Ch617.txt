@@ -1,0 +1,110 @@
+
+Up
+Up
+
+
+CHAPTER 617
+
+REGULATION OF INSURANCE HOLDING COMPANIES AND INTERCORPORATE
+TRANSACTIONS RELATING TO INSURERS
+617.01   Construction and purpose.
+617.03   Exemptions.
+617.11   Reports on affiliates.
+617.12   Rules requiring enterprise risk reports.
+617.21   Transactions with affiliates.
+617.215   Supervisory colleges.
+617.22   Dividends and other distributions.
+617.225   Extraordinary dividends.
+617.23   Liability of affiliates.
+617.25   Officers and directors.
+
+
+Ch. 617 Cross-reference
+Cross-reference:  See definitions in ss. 600.03, 610.01 and 628.02.Ch. 617 Cross-reference
+Cross-reference:  See also chs. Ins 40 and 41, Wis. adm. code.617.01
+617.01â€ƒ
+Construction and purpose. 617.01(1)
+(1)â€‚
+Construction.  This chapter shall be liberally construed to achieve the purpose of sub. (2), which shall constitute an aid and guide to interpretation but not an independent source of power.
+617.01(2)
+(2)â€‚Purpose.  The purpose of this chapter is to protect the interests of insureds, stockholders and of the public against intercorporate transactions among affiliates that may affect the solidity of insurers authorized to do business in this state or otherwise be detrimental to protected interests.
+617.03
+617.03â€ƒ
+Exemptions.  The commissioner may exempt any specified person or class of persons from this chapter or any provisions thereof, when the commissioner deems such exemption consistent with the purposes of this chapter and in the public interest.
+617.03 History
+History:  1979 c. 102 s. 236 (6).617.11
+617.11â€ƒ
+Reports on affiliates. 617.11(1)
+(1)â€‚
+Information.  Except as provided under subs. (2) and (2m), an insurer authorized to do business in this state, and a person attempting to acquire or having control of an insurer authorized to do business in this state, shall report to the commissioner the information concerning the insurer and its affiliates that the commissioner requires by rule.  The commissioner may promulgate rules prescribing the timing of reports under this subsection, including, but not limited to, requiring periodic reporting and the form and procedure for filing reports.
+617.11(2)
+(2)â€‚Exemption for certain insurers.  Neither sub. (1) nor s. 617.21 (1) applies to a foreign insurer or an alien insurer, nor to a person attempting to acquire or having control of either, if the foreign insurer or alien insurer is subject to all of the following:
+617.11(2)(a)
+(a)  Laws, rules or regulations of the jurisdiction of its domicile that are substantially similar to or more stringent than sub. (1) and rules promulgated under sub. (1).
+617.11(2)(b)
+(b)  Beginning January 1, 1989, laws, rules or regulations of its domicile that are substantially similar to or more stringent than ss. 617.21 (1) and (3r) and 617.225 and rules promulgated under those sections.
+617.11(2)(c)
+(c)  Beginning January 1, 1989, laws, rules or regulations of the jurisdiction of its domicile that either:
+617.11(2)(c)1.
+1.  Require it to report to that jurisdiction a material change in or addition to a report required under laws, rules or regulations under par. (a) within 15 days after the last day of the month during which it learns of the change or addition; or
+617.11(2)(c)2.
+2.  Are substantially similar to or more stringent than s. 617.21 (2) to (3g) and rules promulgated under those subsections.
+617.11(2m)
+(2m)â€‚Exemption if the insurer reports. Subsection (1) does not apply to a person attempting to acquire or having control of an insurer, if the insurer reports as required under sub. (1) on behalf of the person.
+617.11(3)
+(3)â€‚Report for affiliates.  One insurer may report on behalf of all affiliated insurers if it provides all the information that would be required if each insurer reported separately.
+617.11(5)
+(5)â€‚Consent to jurisdiction.  Every insurer authorized to do business in this state shall promptly submit to the commissioner a statement from each of its affiliates that owns stock in the insurer either directly or through intermediaries, that controls the insurer or that is a party to any transaction, dividend or distribution that the insurer is required to report under s. 617.21, to the effect that the affiliate agrees to be subject to the jurisdiction of the commissioner and the courts of this state for the purposes of this chapter.  The commissioner may by rule require that such statements be submitted for other classes of affiliates if he or she finds that the interests of policyholders or the public so require.
+617.11(6)
+(6)â€‚Information order.  Notwithstanding subs. (2) and (2m), the commissioner may, by order, require any insurer authorized to do business in this state, or any person attempting to acquire or having control of the insurer, to report information under sub. (1) or other information to the commissioner.
+617.11 History
+History:  1979 c. 102 s. 236 (2), (5); 1987 a. 167.617.12
+617.12â€ƒ
+Rules requiring enterprise risk reports. 617.12(1)
+(1)â€‚In this section, "enterprise risk" means any activity, circumstance, event, or series of events involving one or more affiliates of an insurer that, if not remedied, is likely to have a material adverse effect on the financial condition or liquidity of the insurer or its insurance holding company system, as defined in s. 622.03 (2), as a whole, including anything that would cause the insurer's risk-based capital to fall into company action level as set forth in s. Ins 51.01 (4), Wis. Adm. Code, or that would cause the insurer to be in a hazardous financial condition as described in s. 623.11, 645.31, or 645.41.
+617.12(2)
+(2)â€‚The commissioner shall promulgate rules requiring insurers to report their enterprise risk, including the form of the report and the manner and process for filing the report.
+617.12 History
+History:  2013 a. 279.617.21
+617.21â€ƒ
+Transactions with affiliates. 617.21(1)
+(1)â€‚
+General requirements.  Except as provided under s. 617.11 (2), neither an insurer authorized to do business in this state nor an affiliate of the insurer may enter into a transaction between the insurer and affiliate unless all of the following apply:
+617.21(1)(a)
+(a)  The transaction at the time it is entered into is reasonable and fair to the interests of the insurer.
+617.21(1)(b)
+(b)  The books, accounts and records of each party to the transaction are kept in a manner that clearly and accurately discloses the nature and details of the transaction and in accordance with generally accepted accounting principles permits ascertainment of charges relating to the transaction.
+617.21(1)(c)
+(c)  The insurer's surplus following any dividends or distributions to shareholders or a person having control of the insurer is reasonable in relation to the insurer's outstanding liabilities and adequate to its financial needs.
+617.21(1)(cm)
+(cm)  Any cost-sharing services or management agreements involved in the transaction include such provisions as the commissioner requires by rule.
+617.21(1)(d)
+(d)  The transaction complies with any other standard that the commissioner prescribes by rule.
+617.21(2)
+(2)â€‚Transactions of domestic insurers subject to disclosure. 617.21(2)(a)(a) 617.21(2)(a)1.1.  Except as provided under sub. (3t), the commissioner may promulgate rules requiring a domestic insurer, a person attempting to acquire or having control of a domestic insurer and affiliates of a domestic insurer to report a transaction or a group or series of transactions, if all of the following are satisfied:
+617.21(2)(a)1.a.
+a.  The transaction is between a domestic insurer and a person attempting to acquire or having control of the domestic insurer or an affiliate of the domestic insurer, or the transaction directly or indirectly benefits the person or affiliate.
+617.21(2)(a)1.b.
+b.  The transaction is, or the group or series of transactions are, material to the domestic insurer.
+617.21(2)(a)2.
+2.  Transactions which are material to a domestic insurer for the purposes of subd. 1. include, but are not limited to, management contracts, service contracts and cost-sharing arrangements.
+617.21(2)(b)
+(b)  Except as provided under sub. (3t), no domestic insurer, person attempting to acquire or having control of a domestic insurer or affiliate of the domestic insurer may enter into a transaction required to be reported to the commissioner under this subsection unless the domestic insurer, person and affiliate report the transaction to the commissioner in the form and by the date before the effective date of the transaction that are prescribed by the commissioner by rule.  The commissioner may not require the transaction to be reported earlier than at least 30 days before the effective date.
+617.21(3)
+(3)â€‚Disapproval.  The commissioner may, within the period prescribed in sub. (2), disapprove any transaction reported under sub. (2) if the commissioner finds that it would violate the law or would be contrary to the interests of insureds, stockholders or the public.
+617.21(3g)
+(3g)â€‚Transactions prohibited.  Except as provided under sub. (3t), no domestic insurer, person attempting to acquire or having control of the insurer or affiliate of the insurer may enter into a transaction that is not reported as required under sub. (2) or that is disapproved by the commissioner under sub. (3).
+617.21(3m)
+(3m)â€‚Voidable transactions.  If a domestic insurer, person attempting to acquire or having control of the insurer or affiliate enters into a transaction in violation of this section, the insurer may void the transaction and obtain an injunction and recovery from the person or affiliate of the amount necessary to restore the insurer to its condition had the transaction not occurred.  The commissioner may order an insurer to void the transaction, to commence an action against the person or affiliate or to take other action.
+617.21(3r)
+(3r)â€‚Required surplus.  The commissioner may promulgate rules for determining adequacy of surplus under this section.
+617.21(3t)
+(3t)â€‚Exemption if insurer reports. Section 617.21 (2) to (3g) does not apply to a person attempting to acquire or having control of, or an affiliate of, an insurer, if the insurer reports as required under sub. (2) on behalf of the person or on behalf of the affiliate, and the transaction is not disapproved by the commissioner under sub. (3).
+617.21 History
+History:  1977 c. 203 ss. 102, 104; 1979 c. 102 ss. 144, 236 (6), (20); 1983 a. 120; 1987 a. 167; 2013 a. 279.617.215
+617.215â€ƒ
+Supervisory colleges. 617.215(1)
+(1)â€‚
+Definitions.  In this section:
+ Down
+Down

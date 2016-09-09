@@ -1,0 +1,79 @@
+
+Up
+Up
+
+
+CHAPTER 807
+
+CIVIL PROCEDURE â€” MISCELLANEOUS PROVISIONS
+807.001   Forms.
+807.01   Settlement offers.
+807.02   Motions, where heard; stay of proceedings.
+807.03   Orders, how vacated and modified.
+807.04   Proceedings, where held; restriction as to making orders.
+807.05   Stipulations.
+807.06   Copy of paper may be used, when.
+807.07   Irregularities and lack of jurisdiction over the parties waived on appeal; jurisdiction exercised; transfer to proper court.
+807.08   Borrowing court files regulated.
+807.09   Conciliators.
+807.10   Settlements in behalf of minors or individuals adjudicated incompetent; judgments.
+807.11   Orders: rendition and entry.
+807.12   Suing by fictitious name or as unknown; partners' names unknown.
+807.13   Telephone and audiovisual proceedings.
+807.14   Interpreters.
+807.15   Penalty for certain actions by prisoners.
+
+
+Ch. 807 Note
+NOTE:  Chapter 807 was created by Sup. Ct. Order, 67 Wis. 2d 585, 740 (1975), which contains explanatory notes.  Statutes prior to the 1983-84 edition also contain these notes.
+807.001
+807.001â€ƒ
+Forms. 807.001(1)(1)â€‚In all civil actions and proceedings in circuit court, the parties and court officials shall use the standard court forms adopted by the judicial conference under s. 758.18 (1), commencing the date on which the forms are adopted.  If an applicable court form has been adopted under s. 758.18 (2), that form may be used in lieu of the standard court form.
+807.001(2)
+(2)â€‚A party or court official may supplement a court form with additional material.
+807.001(3)
+(3)â€‚A court may not dismiss a case, refuse a filing or strike a pleading for failure of a party to use a standard court form under sub. (1) or to follow format rules but shall require the party to submit, within 10 days, a corrected form and may impose statutory fees or costs or both.
+807.001(4)
+(4)â€‚If the judicial conference does not create a standard court form for an action or pleading undertaken by a party or court official, the party or court official may use a format consistent with any statutory or court requirement for the action or pleading.
+807.001 History
+History:  Sup. Ct. Order No. 98-01, 228 Wis. 2d xiii (2000); Sup. Ct. Order No. 05-02, 2005 WI 41, 278 Wis. 2d xxxv.807.01
+807.01â€ƒ
+Settlement offers. 807.01(1)(1)â€‚After issue is joined but at least 20 days before the trial, the defendant may serve upon the plaintiff a written offer to allow judgment to be taken against the defendant for the sum, or property, or to the effect therein specified, with costs.  If the plaintiff accepts the offer and serves notice thereof in writing, before trial and within 10 days after receipt of the offer, the plaintiff may file the offer, with proof of service of the notice of acceptance, and the clerk must thereupon enter judgment accordingly.  If notice of acceptance is not given, the offer cannot be given as evidence nor mentioned on the trial.  If the offer of judgment is not accepted and the plaintiff fails to recover a more favorable judgment, the plaintiff shall not recover costs but defendant shall recover costs to be computed on the demand of the complaint.
+807.01(2)
+(2)â€‚After issue is joined but at least 20 days before trial, the defendant may serve upon the plaintiff a written offer that if the defendant fails in the defense the damages be assessed at a specified sum.  If the plaintiff accepts the offer and serves notice thereof in writing before trial and within 10 days after receipt of the offer and prevails upon the trial, either party may file proof of service of the offer and acceptance and the damages will be assessed accordingly.  If notice of acceptance is not given, the offer cannot be given as evidence nor mentioned on the trial.  If the offer is not accepted and if damages assessed in favor of the plaintiff do not exceed the damages offered, neither party shall recover costs.
+807.01(3)
+(3)â€‚After issue is joined but at least 20 days before trial, the plaintiff may serve upon the defendant a written offer of settlement for the sum, or property, or to the effect therein specified, with costs.  If the defendant accepts the offer and serves notice thereof in writing, before trial and within 10 days after receipt of the offer, the defendant may file the offer, with proof of service of the notice of acceptance, with the clerk of court.  If notice of acceptance is not given, the offer cannot be given as evidence nor mentioned on the trial.  If the offer of settlement is not accepted and the plaintiff recovers a more favorable judgment, the plaintiff shall recover double the amount of the taxable costs.
+807.01(4)
+(4)â€‚If there is an offer of settlement by a party under this section which is not accepted and the party recovers a judgment which is greater than or equal to the amount specified in the offer of settlement, the party is entitled to interest at an annual rate equal to 1 percent plus the prime rate in effect on January 1 of the year in which the judgment is entered if the judgment is entered on or before June 30 of that year or in effect on July 1 of the year in which the judgment is entered if the judgment is entered after June 30 of that year, as reported by the federal reserve board in federal reserve statistical release H. 15, on the amount recovered from the date of the offer of settlement until the amount is paid.  Interest under this section is in lieu of interest computed under ss. 814.04 (4) and 815.05 (8).
+807.01(5)
+(5)â€‚Subsections (1) to (4) apply to offers which may be made by any party to any other party who demands a judgment or setoff against the offering party.
+807.01 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 741 (1975); Sup. Ct. Order, 67 Wis. 2d vii (1975); 1975 c. 218; 1979 c. 271; 1981 c. 314; 1983 a. 253; 1985 a. 340; 2011 a. 69.807.01 Cross-reference
+Cross-reference:  For tender of payment, see s. 895.14.807.01 Annotation
+Sub. (3) applies to cases of both liquidated and unliquidated damages.  Graves v. Travelers Ins. Co. 66 Wis. 2d 124, 224 N.W.2d 398 (1974).807.01 Annotation
+Subs. (3) and (4) do not apply to a rejected joint settlement offer made on behalf of individual plaintiffs.  White v. General Casualty Company of Wisconsin, 118 Wis. 2d 433, 348 N.W.2d 614 (Ct. App. 1984).807.01 Annotation
+Defendants who are jointly and severally liable may submit joint offers of judgments to an individual plaintiff under sub. (1).  Denil v. Integrity Mutual Insurance Co. 135 Wis. 2d 373, 401 N.W.2d 13 (Ct. App. 1986).807.01 AnnotationOffers under sub. (3) are revocable.  Sonnenburg v. Grohskopf, 144 Wis. 2d 62, 422 N.W.2d 925 (Ct. App. 1988).807.01 Annotation
+Under sub. (3), a plaintiff suing multiple defendants under multiple theories, one of which involves several liability, must make separate settlement offers.  Smith v. Keller, 151 Wis. 2d 264, 444 N.W.2d 396 (Ct. App. 1989).807.01 Annotation
+Sub. (4) provides for simple, rather than compound, interest to accrue on the amount recovered.  The relationship between sub. (4) and s. 628.46 (1) is discussed.  Upthegrove v. Lumbermans Ins. Co. 152 Wis. 2d 7, 447 N.W.2d 367 (Ct. App. 1989).807.01 Annotation
+While the inclusion of a reference to this section is preferable, a settlement offer that should reasonably be understood as an offer pursuant to s. 807.01 is sufficient to invoke its provisions.  Bauer v. Piper Industries, Inc. 154 Wis. 2d 758, 454 N.W.2d 28 (Ct. App. 1990).807.01 Annotation
+A plaintiff's offer of settlement addressed to multiple defendants reciting one aggregate settlement figure for all claims did not allow the defendants to individually assess their own exposure and is not valid for sanctions purposes.  Wilber v. Fuchs, 158 Wis. 2d 158, 461 N.W.2d 803 (Ct. App. 1990).807.01 Annotation
+A plaintiff's single offer of settlement to two individual defendant's and the insurer of both, within the policy limits, invoked sanctions under this section as the insurer was the only party interested in the settlement and could fully evaluate its exposure.  Testa v. Farmers Ins. Exchange, 164 Wis. 2d 296, 474 N.W.2d 776 (Ct. App. 1991).807.01 Annotation
+When damages are subject to a statutory limit, costs and interest awarded under this section are in addition to the damage award.  Gorman v. Wausau Ins. Cos. 175 Wis. 2d 320, 499 N.W.2d 245 (Ct. App. 1993).807.01 Annotation
+An insurer was not subject to sanctions under this section when, after initially rejecting the plaintiff's offer to settle, new facts resulted in the insurer's submitting its own offer to settle in the same amount.  Oliver v. Heritage Mutual Insurance Co. 179 Wis. 2d 1, 505 N.W.2d 452 (Ct. App. 1993).807.01 Annotation
+Separate offers to the defendant and the defendant's insurer in the same amount, which left unclear whether acceptance by the insurer also released the insured, did not invoke sanctions under this section when the verdict exceeded the amount of the individual offers.  Cue v. Carthage College, 179 Wis. 2d 175, 507 N.W.2d 109 (Ct. App. 1993).
+807.01 Annotation
+Common law prejudgment interest and 12% interest under sub. (4) are not to be combined. Erickson v. Gunderson, 183 Wis. 2d 106, 515 N.W.2d 293 (Ct. App. 1994).
+807.01 Annotation
+Interest under sub. (4) does not accrue on an award of double costs under sub. (3). American Motorists Insurance Co. v. R & S Meats, Inc. 190 Wis. 2d 197, 526 N.W.2d 791 (Ct. App. 1994).807.01 Annotation
+A party making a settlement offer must do so in clear and unambiguous terms.  A party's mere offer to settle for a specified sum when a part of the party's claim had been admitted and already reduced to judgment was ambiguous.  Stan's Lumber, Inc. v. Fleming, 196 Wis. 2d 554, 538 N.W.2d 849 (Ct. App. 1995), 94-1258, 95-0004.807.01 Annotation
+In a case involving a subrogated defendant, failure of an offer to specify whether payment to the subrogated defendant would be made from the settlement proceeds left the defendants unable to fully evaluate their exposure so that the offer was not valid for purposes of sub. (3).  Ritt v. Dental Care Associates, S.C. 199 Wis. 2d 48, 543 N.W.2d 852 (Ct. App. 1995), 94-3344.807.01 Annotation
+A judgment against a defendant to whom an offer to settle was made that is equal to or larger than the offer entitles the plaintiff to interest under sub. (4) on the amount recovered against the party to whom the offer was made.  Blank v. USAA Property & Casualty Ins. Co. 200 Wis. 2d 270, 546 N.W.2d 512 (Ct. App. 1996), 95-1806.807.01 Annotation
+Under sub. (3), the offer and judgment must be compared exclusive of any costs.  Northridge Co. v. W.R. Grace & Co. 205 Wis. 2d 267, 556 N.W.2d 345 (Ct. App. 1996), 95-1193.807.01 Annotation
+A single offer made to the plaintiff on condition that the plaintiff "indemnify or otherwise satisfy any existing related subrogated claims" invoked sub. (1) when the plaintiff knew the amount of the only subrogated claims and could fully and fairly evaluate the offer.  Staehler v. Beuthin, 206 Wis. 2d 610, 557 N.W.2d 487 (Ct. App. 1996), 95-3295.807.01 Annotation
+In sub. (4), "amount recovered" means that portion of a verdict for which a party is responsible.  Nelson v. McLaughlin, 211 Wis. 2d 487, 565 N.W.2d 123 (1997), 95-3391.807.01 Annotation
+Sub. (1) is procedural in nature and may be applied in federal claims brought in state court unless it defeats a substantial federal right.  Duello v. Board of Regents, 220 Wis. 2d 554, 583 N.W.2d 863 (Ct. App. 1998), 97-2608.807.01 Annotation
+An insurer has a fiduciary duty to clarify a settlement offer made to it that is ambiguous with respect to whether the offer applies to only the insurer or to both the insurer and the insured.  Failure to clarify the ambiguity results in a valid offer under this section.  Prosser v. Leuck, 225 Wis. 2d 126, 592 N.W.2d 178 (1999), 97-0686.807.01 Annotation
+Sub. (3) provides no exceptions for assessments of double costs.  Costs associated with determining coverage are subject to doubling under sub. (3).  Prosser v. Leuck, 225 Wis. 2d 126, 592 N.W.2d 178 (1999), 97-0686.807.01 Annotation
+The 10-day period in sub. (1) was tolled when a stay was entered one day after a settlement offer was served.  Briggs v. Farmers Insurance Exchange, 2000 WI App 40, 233 Wis. 2d 163, 607 N.W.2d 670, 99-1123.807.01 Annotation
+A party with multiple claims is not required to itemize a settlement offer in order to invoke the double costs and interest provisions of this section.  Batteries Plus, LLC v. Mohr, 2000 WI App 153, 237 Wis. 2d 776, 615 N.W.2d 196, 99-1319. Down
+Down

@@ -1,0 +1,84 @@
+
+Up
+Up
+
+
+CHAPTER 226
+
+FOREIGN CORPORATIONS
+226.01   Definition.
+226.025   Qualification of foreign utility holding companies; exceptions.
+226.05   Bank deposits by nonresidents, taxation evidence.
+226.12   Liability of inactive foreign corporation.
+226.13   Plaintiff's lien.
+226.14   Common law trusts, domestic and alien.
+
+
+Ch. 226 Cross-reference
+Cross-reference:  See ss. 180.1501 to 180.1532 for the general law applicable to foreign corporations and ch. 180 generally for the law applicable to business corporations.
+226.01
+226.01â€ƒ
+Definition.  In this chapter "foreign corporation" means all corporations, associations and joint stock companies organized otherwise than under the laws of this state, except railroad corporations, associations created solely for religious or charitable purposes, insurers, motor clubs, building and loan associations and corporations not organized or conducted for profit.
+226.01 History
+History:  1979 c. 102.226.025
+226.025â€ƒ
+Qualification of foreign utility holding companies; exceptions. 226.025(1)(1)â€‚Within the meaning of this chapter, every foreign corporation shall be deemed to be doing business within the state if, directly or indirectly, through agents, trustees or any other means, it furnishes to any affiliated public utility for use in intrastate operations in this state, any or all of the following: 226.025(1)(a)(a) any managerial, supervisory, engineering, legal, accounting or financial service; (b) any equipment, facilities or commodities, by sale, lease, exchange, conveyance, license or similar arrangement.
+226.025(2)
+(2)â€‚Within the meaning of this section the term "affiliated" shall have the same meaning as the term "affiliated interests" as defined in s. 196.52 (1).  Provided, however, that the mere ownership of stock and receipt of dividends thereon shall not constitute doing business.  This section shall not have the effect of imposing upon the corporation described in s. 196.52 (1) a duty to pay fees.  The provisions of this section shall apply to interstate commerce only so far as the constitution and laws of the United States permit.
+226.025(3)
+(3)â€‚The appointment of the department of financial institutions or the designation of a resident agent as attorney for the service of summons, notice, pleadings or process under s. 180.1507 shall be applicable only to actions or proceedings against the foreign corporations described in this section (unless such corporations have been admitted to this state for purposes other than those mentioned in this section) where the cause of action or proceeding arises out of transactions between such foreign corporations and public utilities operating in this state with which such foreign corporations are affiliated; and to actions or proceedings by or before the public service commission or office of the commissioner of railroads involving the transactions described in sub. (1), or involving the relation between such foreign corporations and public utilities operating in this state with which they are affiliated.
+226.025 History
+History:  1977 c. 29; 1981 c. 347 s. 80 (2); 1981 c. 390, 391; 1989 a. 303; 1993 a. 16, 123; 1995 a. 27.226.05
+226.05â€ƒ
+Bank deposits by nonresidents, taxation evidence.  The making and maintaining of deposits and checking or other accounts by a nonresident of this state or by a foreign corporation in any bank, either state or national, or in any trust company in this state, shall not be considered as doing business or acquiring, holding or disposing of property in this state, nor considered a factor in determining whether such person or corporation is doing business in this state, or in determining the situs of the property or income of such corporation or person for taxation purposes.
+226.12
+226.12â€ƒ
+Liability of inactive foreign corporation.  An action for the recovery of money may be commenced and prosecuted against a foreign corporation although such corporation may have ceased to act as a corporation in the same manner as though it had not so ceased to act; and the judgment may be enforced against property in this state which such corporation has any interest in or would have an interest in had the same not ceased to act as aforesaid, whether held or controlled by it or by a trustee, assignee, agent or other person for the use and benefit in whole or in part of such corporation or the creditors thereof or both.
+226.12 Annotation
+Since a corporation's existence and capacity to be sued is governed by the state of incorporation or where it is certified to do business, this section cannot apply when a corporation has not been certified to do business in Wisconsin and has no assets here.  Bazan v. Kux Machine Co. 52 Wis. 2d 325, 190 N.W.2d 521 (1971).226.13
+226.13â€ƒ
+Plaintiff's lien.  The plaintiff shall, to the extent of the final judgment, have a lien upon all the property and interests of the foreign corporation from the time of the filing of the complaint in the action, unless the foreign corporation files with the clerk an undertaking, in double the amount claimed to be due to the plaintiff, executed by 2 or more sureties in the corporation's behalf, resident freeholders of this state, to the effect that the corporation will satisfy the final judgment that may be recovered in favor of the plaintiff in the action within 60 days from the date the judgment is rendered.  The undertaking is of no effect unless accompanied by the affidavit of the sureties under s. 808.07.  If the foreign corporation notifies the court and plaintiff of an intent to file an undertaking, and the amount of money sought by the plaintiff was excluded from the demand for judgment, as required under s. 802.02 (1m), the court shall require the plaintiff to specify the amount of money claimed and provide that information to the court and to the other parties.
+226.13 History
+History:  Sup. Ct. Order, 67 Wis. 2d 585, 775 (1975); 1977 c. 187 s. 135; 1987 a. 256.226.14
+226.14â€ƒ
+Common law trusts, domestic and alien. 226.14(1)
+(1)â€‚ 226.14(1)(a)(a)  No common law trust organized in this state, and no common law trust formed or organized under or by authority of the laws of any state or foreign jurisdiction, for the purpose of doing business under a declaration of trust which shall have issued to 5 or more persons, or which shall sell or propose to sell beneficial interests, certificates or memberships in the trust, shall transact business, or acquire, hold or dispose of property in this state until the trustees named in the declaration of trust have filed with the department of financial institutions the original declaration of trust, or a true copy of the declaration, and all amendments to the declaration which may be made, verified as having been made by the affidavits of 2 of the signers of each amendment.
+226.14(1)(b)
+(b)  A copy of the declaration of trust and amendments verified in the manner described in par. (a), and a certificate of the department of financial institutions, showing the date when the declaration was filed and accepted by the department of financial institutions shall, within 30 days of filing and acceptance by the department of financial institutions, be recorded with the register of deeds of the county in which the trust has its principal office or place of business in this state.  No common law trust shall transact business in this state until the declaration of trust or verified copy of the declaration is left for record.  The register of deeds shall immediately transmit to the department of financial institutions a certificate stating the time when the declaration or verified copy of the declaration was recorded.  The register of deeds shall be entitled to the fee specified under s. 59.43 (2) (b) for the certificate, to be paid by the person presenting the papers for record.  Upon receipt of the register of deed's certificate, the department of financial institutions shall issue to the trustees of the trust a certificate of filing.
+226.14(2)
+(2)â€‚The principal office or principal place of business of every such trust formed or organized in this state shall be kept and maintained in this state.
+226.14(3)
+(3)â€‚Every such trust shall pay to the department of financial institutions a filing fee of $50, and $15 for each subsequent amendment, together with a further fee of $1 for each $1,000 of beneficial certificates sold or offered for sale in this state.
+226.14(4)
+(4)â€‚Every such trust shall file, accompanied by a filing fee of $5, with the department of financial institutions a verified statement on or before each March 31, showing the names and addresses of each of the trustees; the nature of the business transacted during the preceding year; in what states such trust is operating; the amount and number of beneficial certificates sold in this state, or elsewhere; a statement as to the total amount of beneficial certificates outstanding.  Any such report not filed before April 1, may be filed only upon payment to the department of financial institutions of the following fees:
+226.14(4)(a)
+(a)  If filed prior to May 1, $10.
+226.14(4)(b)
+(b)  If filed thereafter but not later than the following December 31, $15.
+226.14(4)(c)
+(c)  If said report is not filed before the following January 1, the trust shall not be in good standing.  Until it is restored to good standing the department of financial institutions shall not accept for filing any documents respecting such trust except documents incident to its dissolution.
+226.14(4)(d)
+(d)  The trust may be restored to good standing by delivering to the department of financial institutions a current annual report conforming to the requirements of this section and by paying to the department of financial institutions $10 for each calendar year or part thereof during which the trust has not been in good standing, not exceeding a total of $105.
+226.14(5)
+(5)â€‚Every such trust shall file with the department of financial institutions the name of a trustee or trustees, if they designate more than one, resident in this state upon whom service may be made for and on behalf of said trust; or if none of such trustees reside in this state, then a statement shall be duly filed by the trustees appointing the department of financial institutions as the agent to accept service of process in this state, which appointment shall continue so long as such trust has any liabilities outstanding in this state.
+226.14(6)
+(6)â€‚No such trust shall issue any beneficial or participating certificates in excess of the fair net value of the property and assets owned by such trust, nor except in consideration of money or labor, or property, estimated at its true money value, actually received by the trustees, equal to the par value thereof, nor any bonds or other evidences of indebtedness, except for money or for labor, or property, estimated at its true money value, actually received by it, and all beneficial certificates or bonds issued contrary to the provisions of law shall be voidable at the election of the holder or holders thereof.
+226.14(7)
+(7)â€‚Any such trust may designate the beneficial interests therein as beneficial certificates or shares of beneficial interest in a common law or business trust or voluntary association or a substantially equivalent designation.
+226.14(8)
+(8)â€‚Every such trust issuing or selling, or offering for sale, beneficial certificates in this state, shall be subject to any applicable restrictions and limitations provided in ch. 551.
+226.14(9)
+(9)â€‚Every contract made by or on behalf of such trust affecting the personal liability thereof, or relating to property within this state, before it shall have complied with the provisions of this section, shall be wholly void on its behalf, or on behalf of its assigns; but shall be enforceable against such trust, and the trustees named in said declaration of trust shall be individually liable therefor.
+226.14(10)
+(10)â€‚Every such trust shall be subject to all provisions of law relating to the payment of taxes by general corporations, foreign or domestic, as the case may be.
+226.14(11)
+(11)â€‚Every such trust shall file and record with the declaration of trust, or a verified copy thereof, a statement in writing of the name or title of such trust and its post-office address, which statements shall be signed by all of the trustees.  The name of such trust shall be such as to distinguish it from any other trust, company, or corporation organized under the laws of this state or licensed or permitted to transact business in this state.  Such trust may sue and be sued in and under such name or title, and its property may be subjected to payment and discharge of the obligations and liabilities of such trust the same as though it were a corporation.  Service of notice or process upon one or more of such trustees, as provided in sub. (5), or upon the duly authorized agent in behalf of said trust, shall be sufficient to bind such trust and of the same effect as though each and all of such trustees had been notified or served.
+226.14(12)
+(12)â€‚226.14(12)(a)(a) Sections 180.1501 (2) and 180.1502 apply to any common law trust formed or organized under or by authority of the laws of any other state or foreign jurisdiction.
+226.14(12)(b)
+(b)  For the purposes of this subsection, the references in ss. 180.1501 (2) and 180.1502 to "certificate of authority" shall include the certificate of filing under sub. (1); references to "this chapter" mean this section; and references to "foreign corporations" mean trusts referred to in par. (a).
+226.14(12)(c)
+(c) Subsection (9) shall not apply to trusts referred to in par. (a).
+226.14 History
+History:  1971 c. 84, 98; 1989 a. 303; 1991 a. 316; 1995 a. 27; 1997 a. 35, 254; 2007 a. 196; 2009 a. 98. Down
+Down

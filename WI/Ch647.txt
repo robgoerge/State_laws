@@ -1,0 +1,113 @@
+
+Up
+Up
+
+
+CHAPTER 647
+
+CONTINUING CARE CONTRACTS
+647.01   Definitions.
+647.02   Permits.
+647.03   Powers and duties of the commissioner.
+647.04   Duties of providers.
+647.05   Continuing care contract provisions.
+647.06   Receivership or liquidation.
+647.07   Penalties.
+647.08   Inapplicable.
+
+
+Ch. 647 Cross-reference
+Cross-reference:  See definitions in ss. 600.03 and 628.02.Ch. 647 Cross-reference
+Cross-reference:  See also s. Ins 10.10, Wis. adm. code.647.01
+647.01â€ƒ
+Definitions.  In this chapter:
+647.01(2)
+(2)â€‚"Continuing care contract" means a contract entered into on or after January 1, 1985, to provide nursing services, medical services or personal care services, in addition to maintenance services, for the duration of a person's life or for a term in excess of one year, conditioned upon any of the following payments:
+647.01(2)(a)
+(a)  An entrance fee in excess of $10,000.
+647.01(2)(b)
+(b)  Providing for the transfer of at least $10,000 if the amount is expressed in dollars or 50% of the person's estate if the amount is expressed as a percentage of the person's estate to the service provider upon the person's death.
+647.01(3)
+(3)â€‚"Entrance fee" means an initial or deferred transfer to a provider of a sum of money or other property, made or promised to be made by a person entering into a continuing care contract, that guarantees a person services under a continuing care contract.
+647.01(4)
+(4)â€‚"Facility" means one or more places in which a provider undertakes to provide a person with nursing services, medical services or personal care services, in addition to maintenance services, under a continuing care contract.
+647.01(5)
+(5)â€‚"Maintenance services" means food, shelter and laundry services.
+647.01(6)
+(6)â€‚"Medical services" means those services pertaining to medical or dental care that are performed on behalf of patients by or at the direction of a physician licensed under ch. 448 or a dentist licensed under ch. 447.
+647.01(7)
+(7)â€‚"Nursing services" means those services pertaining to the curative, restorative and preventive aspects of nursing care that are performed by or under the supervision of a nurse licensed under ch. 441, but does not include nursing services provided only on an emergency basis.
+647.01(8)
+(8)â€‚"Personal care services" means assistance with meals, dressing, movement, bathing or other personal needs or maintenance, or other direct supervision and oversight of the physical and mental well-being of a person.
+647.01(9)
+(9)â€‚"Provider" means a person who provides services under a continuing care contract.
+647.01(10)
+(10)â€‚"Refund schedule" means a schedule of the varying amounts of an entrance fee that are refundable during specified periods of time.
+647.01(11)
+(11)â€‚"Resident" means a person who resides in a facility.
+647.01 History
+History:  1983 a. 358; 1987 a. 264; 1989 a. 187.647.02
+647.02â€ƒ
+Permits. 647.02(1)(1)â€‚No person may enter into a continuing care contract as a provider unless the person obtains a permit from the commissioner.
+647.02(2)
+(2)â€‚The commissioner shall issue a permit to each applicant who has met all requirements of law and satisfies the commissioner that its methods and practices and the character and value of its assets will adequately safeguard the interests of its residents and the public, and who submits all of the following:
+647.02(2)(a)
+(a)  An application, in the manner required by the commissioner, signed by the applicant; or, if the applicant is a corporation, by the chief executive officer of the applicant; or, if the applicant is a limited liability company, by a member or manager.
+647.02(2)(b)
+(b)  The fee required under s. 601.31.
+647.02(2)(c)
+(c)  A copy of the proposed form of the continuing care contract to be entered into with residents.
+647.02(2)(d)
+(d)  Audited financial statements for the most recent fiscal year of the applicant including an income statement, a balance sheet and accompanying notes, all prepared in accordance with generally accepted accounting principles on a basis consistent with prior years.
+647.02(2)(e)
+(e)  A copy of the applicant's schedule of entrance and other fees.
+647.02(2)(f)
+(f)  A copy of the applicant's refund schedule.
+647.02(2)(g)
+(g)  The figure to be used by the provider as the actual or projected length of a resident's stay in the facility in the formula in the contract provision required under s. 647.05 (1m) (i) and supporting information showing how the figure was determined.
+647.02(2)(h)
+(h)  A list of each administrative, civil or criminal action, order and proceeding to which the applicant or any of the applicant's directors or principal officers have been subjected during the preceding 5 years due to an alleged violation of any state or federal law, regulation or rule, if any of the following occurs:
+647.02(2)(h)1.
+1.  The alleged violation constitutes a felony; or
+647.02(2)(h)2.
+2.  The alleged violation relates to the finances of a continuing care facility, a retirement community or a nursing home in any jurisdiction.
+647.02(2)(i)
+(i)  If the applicant has acted as a provider for fewer than 5 years, a detailed history and a projection of the operating results anticipated at the end of the first 5 years of operation based on available data or, if data are unavailable, on reasonable assumptions of entrance fees and other income, operating expenses and acquisition costs.
+647.02(2)(j)
+(j)  Any other information the commissioner reasonably requires by rule.
+647.02(3)
+(3)â€‚Permits issued under this section are not transferable.  If a facility is transferred to any person who seeks to act as a provider, the person shall comply with the requirements specified in sub. (2) in order to receive a permit as a provider.  A permit issued under this section remains in effect until revoked, after a hearing, upon written findings of fact by the commissioner that any of the following has occurred:
+647.02(3)(a)
+(a)  The provider has violated any applicable law, rule or order.
+647.02(3)(b)
+(b)  The facility has been placed in receivership or liquidation under s. 647.06 (1).
+647.02 History
+History:  1983 a. 358; 1993 a. 112; 2007 a. 20.647.03
+647.03â€ƒ
+Powers and duties of the commissioner.  The commissioner may:
+647.03(1)
+(1)â€‚Promulgate rules that the commissioner finds are necessary to carry out the intent of this chapter.
+647.03(2)
+(2)â€‚Use the authority granted under s. 601.41 (4) to ensure that a provider has sufficient financial resources to meet the needs of that provider and to meet the terms of its continuing care contracts and other obligations.
+647.03 History
+History:  1983 a. 358.647.04
+647.04â€ƒ
+Duties of providers.  Each provider shall:
+647.04(1)
+(1)â€‚Submit to the commissioner the fees required under s. 601.31 (1).
+647.04(2)
+(2)â€‚Annually within 120 days after the close of the provider's fiscal year, submit to the commissioner audited financial statements for the provider's most recent fiscal year, including an income statement, a balance sheet and accompanying notes, all prepared in accordance with generally accepted accounting principles on a basis consistent with prior years.
+647.04(3)
+(3)â€‚Submit a copy of the schedule of all entrance and other fees to the commissioner within 30 days after any change is made in the schedule.
+647.04(4)
+(4)â€‚Submit a copy of the refund schedule to the commissioner within 30 days after any change is made in the schedule.
+647.04(5)
+(5)â€‚Inform the commissioner of any change in the figure used by the provider as the actual or projected length of a resident's stay in the facility in the formula in the contract provision required under s. 647.05 (1m) (i) within 30 days after the change is made and submit supporting information showing how the change was determined.
+647.04(6)
+(6)â€‚Make available to any resident or prospective resident, upon request, a copy of audited financial statements for the provider's most recent fiscal year, any examination reports on the provider prepared by the commissioner in the previous 12 months and a 5-year summary of the facility's entrance and other fee increases.  If the facility has not been in operation for 5 years, the provider shall make available a summary of the fee increases for the years in which the facility has been operating and a summary of projected entrance and other fee increases for the next years so that there is a summary available spanning a 5-year period.
+647.04(7)
+(7)â€‚Establish and use an internal grievance procedure for grievances between the provider and residents of his or her facility.  The provider shall submit a copy of the grievance procedure to the commissioner for approval and shall at least annually inform each resident of the grievance procedure.  Each grievance procedure shall, at minimum, provide for all of the following:
+647.04(7)(a)
+(a)  The opportunity for any resident to submit a written grievance in any form.
+ Down
+Down
